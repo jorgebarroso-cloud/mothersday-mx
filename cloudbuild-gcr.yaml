@@ -1,0 +1,58 @@
+# Versión alternativa usando Container Registry (gcr.io)
+# Usa este archivo si no tienes Artifact Registry configurado
+
+steps:
+  # Paso 1: Construir la imagen Docker
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - 'gcr.io/${PROJECT_ID}/${_SERVICE_NAME}:${SHORT_SHA}'
+      - '-t'
+      - 'gcr.io/${PROJECT_ID}/${_SERVICE_NAME}:latest'
+      - '.'
+    id: 'build-image'
+
+  # Paso 2: Subir la imagen a Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'gcr.io/${PROJECT_ID}/${_SERVICE_NAME}:${SHORT_SHA}'
+    id: 'push-image-sha'
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'gcr.io/${PROJECT_ID}/${_SERVICE_NAME}:latest'
+    id: 'push-image-latest'
+
+  # Paso 3: Desplegar en Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - '${_SERVICE_NAME}'
+      - '--image'
+      - 'gcr.io/${PROJECT_ID}/${_SERVICE_NAME}:${SHORT_SHA}'
+      - '--region'
+      - '${_REGION}'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--port'
+      - '8080'
+    id: 'deploy-cloud-run'
+
+# Variables de sustitución
+substitutions:
+  _SERVICE_NAME: 'celebrate-valentines'
+  _REGION: 'us-east4'
+
+# Opciones de build
+options:
+  machineType: 'E2_HIGHCPU_8'
+  logging: CLOUD_LOGGING_ONLY
+
+# Timeout del build (10 minutos)
+timeout: 600s

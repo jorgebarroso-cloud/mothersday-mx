@@ -1,0 +1,735 @@
+{
+  "Hero": {
+    "title": "Festa della Mamma 2026 Indimenticabile:",
+    "subtitle": "Piani Romantici ed Esperienze Straordinarie",
+    "description": "Cene romantiche, esperienze intime e fughe selezionate nelle città più romantiche del mondo.",
+    "searchPlaceholder": "Dove sei? (es: Parigi, Madrid)",
+    "searchButton": "Cerca",
+    "cityTitle": "Festa della Mamma",
+    "citySubtitle": "a {city}",
+    "cityDescription": "Scopri le migliori idee, regali, ristoranti ed esperienze romantiche per Festa della Mamma a {city}"
+  },
+  "GlobalGuide": {
+    "title": "La Tua Guida Globale a Festa della Mamma",
+    "description1": "Celebratevalentines.com è la tua guida globale alle esperienze di Festa della Mamma, che aiuta le coppie a trovare i migliori regali, ristoranti e idee romantiche nella loro città.",
+    "description2": "Da New York a Parigi, Madrid a São Paulo, selezioniamo i piani più romantici per Festa della Mamma, ovunque tu sia.",
+    "cta": "Esplora Tutte le Città"
+  },
+  "CitySelector": {
+    "title": "Esplora Piani Romantici per Città",
+    "searchPlaceholder": "🔍 Cerca la tua città (es: Madrid, Parigi...)",
+    "regionAll": "Tutte",
+    "regionEurope": "Europa",
+    "regionAmerica": "America",
+    "regionOceania": "Oceania",
+    "resultsCount": "{count} {count, plural, =1 {città trovata} other {città trovate}}",
+    "noResults": "Nessuna città trovata",
+    "noResultsHelp": "Prova un termine di ricerca diverso o cambia regione"
+  },
+  "Footer": {
+    "description": "Celebratevalentines.com è la tua guida globale alle esperienze di Festa della Mamma, che aiuta le coppie a trovare i migliori regali, ristoranti e idee romantiche nella loro città.",
+    "tagline": "Da New York a Parigi, Madrid a São Paulo, selezioniamo i piani più romantici per Festa della Mamma, ovunque tu sia.",
+    "brand": "Celebrate Valentine's",
+    "madeWithLove": "Fatto con amore",
+    "popularCities": "Città Popolari",
+    "allCities": "Tutte le Città",
+    "resources": "Risorse",
+    "languages": "Lingue",
+    "home": "Home",
+    "contact": "Contatto",
+    "legal": "Legale",
+    "termsOfService": "Termini di Servizio",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
+    "allRightsReserved": "Tutti i diritti riservati.",
+    "website": "Sito web:",
+    "valentinesDayIn": "Festa della Mamma a",
+    "viewAllCities": "Vedi tutte le città →",
+    "operatedBy": "Celebrate Valentine's è gestito da Fever Up Entertainment.",
+    "doNotSell": "Non vendere i miei dati personali"
+  },
+  "CookieBanner": {
+    "message": "Utilizziamo cookie per analisi (es. Google Analytics). Puoi accettare o rifiutare i cookie non essenziali. Vedi Cookie Policy.",
+    "accept": "Accetta",
+    "reject": "Rifiuta"
+  },
+  "LegalCookies": {
+    "title": "Cookie Policy",
+    "metaDescription": "Cookie policy di Celebrate Valentine's (celebratemothersday.com). Operatore: Fever Up Entertainment.",
+    "intro": "Questa pagina spiega come Celebrate Valentine's utilizza i cookie su celebratemothersday.com.",
+    "whoWeAre": "Chi siamo",
+    "operator": "Questo sito è gestito da Fever Up Entertainment (stessa entità legale di Fever).",
+    "domain": "Dominio: celebratemothersday.com.",
+    "whatCookies": "Quali cookie utilizziamo",
+    "cookiesWeUse": "Utilizziamo i seguenti cookie:",
+    "cookieConsent": "cookie_consent: memorizza la tua scelta (accetta/rifiuta) per i cookie non essenziali. Durata: 1 anno.",
+    "analytics": "Se accetti: Google Analytics (GA4) può impostare cookie. Puoi rifiutare per disattivare i cookie di analisi.",
+    "youCanReject": "Puoi rifiutare i cookie non essenziali in qualsiasi momento tramite il banner o le impostazioni del browser.",
+    "doNotSellTitle": "Non vendere i miei dati personali (CCPA)",
+    "doNotSellText": "Non vendiamo i tuoi dati personali. Per limitare i cookie di analisi, scegli \"Rifiuta\" nel banner cookie.",
+    "moreInfo": "Maggiori informazioni",
+    "fullCookiePolicy": "Cookie Policy completa (Fever)",
+    "privacyPolicy": "Privacy Policy (Fever)",
+    "lastUpdated": "Ultimo aggiornamento: gennaio 2026.",
+    "backToHome": "Torna alla home"
+  },
+  "Common": {
+    "home": "Home",
+    "loading": "Caricamento...",
+    "comingSoon": "Prossimamente!",
+    "notAvailable": "Le esperienze di Festa della Mamma a {city} non sono ancora disponibili.",
+    "checkBack": "Torna presto o esplora un'altra città.",
+    "errorLoadingPage": "Errore nel Caricamento della Pagina",
+    "pleaseTryAgainLater": "Per favore, riprova più tardi",
+    "backTo": "Torna a",
+    "priceRange": "Fascia di Prezzo",
+    "clearFilters": "Cancella Filtri",
+    "plan": "piano",
+    "plans": "piani",
+    "available": "disponibili",
+    "noPlansFound": "Nessun piano trovato corrispondente ai tuoi filtri. Prova ad aggiustare i tuoi criteri di ricerca."
+  },
+  "Filters": {
+    "priceRange": "Fascia di Prezzo",
+    "date": "Data",
+    "cuisineType": "Tipo di Cucina",
+    "ambiance": "Atmosfera",
+    "recipient": "Destinatario",
+    "timeSlots": "Fasce Orarie",
+    "clearAll": "Cancella Tutti i Filtri"
+  },
+  "Header": {
+    "searchPlaceholder": "Cerca città...",
+    "giftNow": "REGALA ORA",
+    "selectCity": "Seleziona Città"
+  },
+  "CategoryNav": {
+    "categories": "Categorie",
+    "price": "Prezzo",
+    "date": "Data",
+    "all": "Tutte",
+    "candlelight": "🕯️ Candlelight",
+    "allExperiences": "Tutte le Esperienze"
+  },
+  "CityPage": {
+    "top3Title": "♥ Top 3 Scelte Romantiche ♥",
+    "top3Subtitle": "Le esperienze più amate per Festa della Mamma",
+    "allExperiencesTitle": "Tutte le Esperienze ♥",
+    "allExperiencesSubtitle": "Esplora tutto ciò che {city} ha da offrire",
+    "candlelightTitle": "🕯️ Esperienze Candlelight"
+  },
+  "DateFilter": {
+    "selectDates": "Seleziona date",
+    "clear": "Cancella",
+    "apply": "Applica",
+    "months": {
+      "january": "Gennaio",
+      "february": "Febbraio",
+      "march": "Marzo",
+      "april": "Aprile",
+      "may": "Maggio",
+      "june": "Giugno",
+      "july": "Luglio",
+      "august": "Agosto",
+      "september": "Settembre",
+      "october": "Ottobre",
+      "november": "Novembre",
+      "december": "Dicembre"
+    },
+    "weekdays": {
+      "sunday": "Do",
+      "monday": "Lu",
+      "tuesday": "Ma",
+      "wednesday": "Me",
+      "thursday": "Gi",
+      "friday": "Ve",
+      "saturday": "Sa"
+    }
+  },
+  "Metadata": {
+    "homeTitle": "Festa della Mamma 2026: Migliori Piani e Cene Romantiche",
+    "homeDescription": "Esplora piani romantici per Festa della Mamma 2026. Prenota le migliori cene, concerti e fughe uniche a NYC, Parigi, Milano e altro ancora. Rendilo indimenticabile.",
+    "cityPageTitle": "Festa della Mamma 2026 a {city}: Migliori Regali e Idee",
+    "cityPageDescription": "Celebra Festa della Mamma 2026 a {city}. Scopri idee romantiche, regali per lei e lui e i migliori ristoranti per un appuntamento indimenticabile.",
+    "cityPageGiftsTitle": "Regali di Festa della Mamma a {city} 2026 | Per Lei e Lui",
+    "cityPageGiftsDescription": "Trova i regali di Festa della Mamma perfetti a {city}. Regali unici per lei e lui, esperienze romantiche e idee last minute. Prenota per il 2026.",
+    "cityPageRestaurantsTitle": "Ristoranti Romantici a {city} | Festa della Mamma 2026",
+    "cityPageRestaurantsDescription": "Scopri i migliori ristoranti romantici a {city} per Festa della Mamma 2026. Cene raffinate, locali intimi e cene romantiche. Prenota oggi.",
+    "cityPageIdeasTitle": "Idee Festa della Mamma a {city} | Appuntamenti Romantici 2026",
+    "cityPageIdeasDescription": "Esplora idee romantiche per Festa della Mamma a {city}. Idee per appuntamenti, attività di coppia ed esperienze indimenticabili per il 2026. Prenota ora.",
+    "cityPageLastMinuteTitle": "Piani Festa della Mamma Last Minute a {city} | Stesso Giorno 2026",
+    "cityPageLastMinuteDescription": "Piani Festa della Mamma last minute a {city}. Prenotazioni lo stesso giorno, idee regalo urgenti ed esperienze romantiche disponibili per il 2026."
+  },
+  "Testimonials": {
+    "title": "Cosa Dicono le Nostre Coppie",
+    "subtitle": "Esperienze reali di coppie che hanno reso il loro Festa della Mamma indimenticabile",
+    "items": [
+      {
+        "text": "La migliore cena a Roma! Il ristorante era perfetto, il cibo incredibile e l'atmosfera era esattamente ciò di cui avevamo bisogno per il nostro Festa della Mamma. Consiglio vivamente!",
+        "author": "Sofia & Marc",
+        "location": "Roma, Italia"
+      },
+      {
+        "text": "Notte indimenticabile a NYC! Abbiamo prenotato una cena romantica sul tetto e ha superato tutte le aspettative. La vista era mozzafiato e il servizio impeccabile.",
+        "author": "Alex",
+        "location": "New York, USA"
+      },
+      {
+        "text": "Ha reso il nostro Festa della Mamma a Parigi assolutamente magico! La crociera cena a lume di candela era romantica oltre ogni parola. Ogni dettaglio era perfetto, dal cibo all'atmosfera.",
+        "author": "Emma & James",
+        "location": "Parigi, Francia"
+      }
+    ]
+  },
+  "WhyCelebrate": {
+    "title": "Perché Celebrare Festa della Mamma come Coppia?",
+    "description": "Festa della Mamma è un'opportunità speciale per celebrare il tuo amore, creare ricordi duraturi e rafforzare il tuo legame con esperienze romantiche e regali significativi di Festa della Mamma.",
+    "reasons": [
+      {
+        "title": "Rafforza il Tuo Legame",
+        "description": "Celebrare Festa della Mamma insieme crea esperienze romantiche indimenticabili che approfondiscono la tua connessione. È l'opportunità perfetta per mostrare al tuo partner quanto significa per te con regali pensati di Festa della Mamma e momenti romantici."
+      },
+      {
+        "title": "Crea Ricordi Indimenticabili",
+        "description": "Dai concerti Candlelight intimi ai ristoranti romantici, le esperienze di Festa della Mamma diventano ricordi preziosi. Queste idee romantiche di Festa della Mamma ti aiutano a celebrare l'amore in modi unici che ricorderai per sempre."
+      },
+      {
+        "title": "Esprimi il Tuo Amore",
+        "description": "I regali di Festa della Mamma per lei e per lui sono più che regali—sono espressioni d'amore. Che siano regali personalizzati di Festa della Mamma o regali dell'ultimo minuto, ognuno mostra che ci tieni."
+      },
+      {
+        "title": "Riconnetti e Riavvia",
+        "description": "Nelle nostre vite impegnate, Festa della Mamma offre un tempo dedicato per riconnettersi. Le esperienze romantiche e le idee per appuntamenti aiutano le coppie a riaccendere la loro romantica e celebrare la loro relazione con idee significative di Festa della Mamma."
+      }
+    ],
+    "cta": "Trova la Tua Città Perfetta"
+  },
+  "WhyUs": {
+    "title": "Perché Sceglierci per i Tuoi Piani di Festa della Mamma 2026",
+    "description1": "Scopri i migliori regali di Festa della Mamma, esperienze romantiche e idee indimenticabili per appuntamenti. Dai concerti Candlelight intimi ai ristoranti romantici, aiutiamo le coppie a creare momenti perfetti di Festa della Mamma.",
+    "description2": "Fidato da migliaia di coppie per esperienze romantiche curate, regali dell'ultimo minuto di Festa della Mamma e idee uniche per appuntamenti nelle città di tutto il mondo.",
+    "features": [
+      {
+        "title": "Esperienze Curate di Festa della Mamma",
+        "description": "Scopri esperienze romantiche selezionate a mano, dai concerti Candlelight intimi ai ristoranti romantici esclusivi. Selezioniamo solo i migliori regali di Festa della Mamma e idee per appuntamenti per creare momenti romantici indimenticabili per le coppie."
+      },
+      {
+        "title": "Prenotazione Istantanea per Piani dell'Ultimo Minuto",
+        "description": "Dimenticato di pianificare in anticipo? Nessun problema. Prenota esperienze romantiche, regali di Festa della Mamma e cene romantiche all'istante. Perfetto per regali dell'ultimo minuto di Festa della Mamma e idee spontanee per appuntamenti romantici."
+      },
+      {
+        "title": "Recensioni Verificate da Vere Coppie",
+        "description": "Ogni esperienza romantica è verificata e recensita da coppie che hanno celebrato Festa della Mamma con noi. Trova raccomandazioni affidabili per regali di Festa della Mamma per lei, per lui e le migliori esperienze romantiche."
+      },
+      {
+        "title": "Regali e Idee Uniche di Festa della Mamma",
+        "description": "Dai regali personalizzati di Festa della Mamma alle fughe romantiche, scopri idee uniche di regali di Festa della Mamma per ogni coppia. Che tu stia cercando regali per lei, per lui o esperienze per entrambi."
+      },
+      {
+        "title": "Esperienze Romantiche nelle Città Principali",
+        "description": "Esplora i migliori ristoranti romantici, concerti Candlelight e esperienze di Festa della Mamma nelle principali città del mondo. Dalle cene romantiche ai concerti intimi, trova idee perfette per appuntamenti nella tua città."
+      },
+      {
+        "title": "Guida Globale a Festa della Mamma 2026",
+        "description": "La tua guida completa per celebrare Festa della Mamma 2026. Scopri esperienze romantiche, regali di Festa della Mamma, ristoranti romantici e idee indimenticabili per appuntamenti nelle città di tutto il mondo."
+      }
+    ],
+    "trustedSource": {
+      "title": "La Tua Fonte Affidabile per Festa della Mamma 2026",
+      "paragraph1": "Che tu stia cercando regali di Festa della Mamma per lei, per lui o esperienze romantiche per coppie, abbiamo curato la migliore selezione di ristoranti romantici, concerti Candlelight e idee uniche per appuntamenti. Perfetto per regali dell'ultimo minuto di Festa della Mamma o pianificazione in anticipo per Festa della Mamma 2026.",
+      "paragraph2": "Unisciti a migliaia di coppie che si fidano di noi per i loro piani romantici di Festa della Mamma, dalle cene intime alle fughe romantiche indimenticabili e attività per coppie."
+    }
+  },
+  "PlanCard": {
+    "getTickets": "Ottieni Biglietti →"
+  },
+  "Price": {
+    "from": "Da",
+    "under": "Sotto"
+  },
+  "ValentinesIdeas": {
+    "title": "Idee di Festa della Mamma a {city}",
+    "subtitle": "Esplora le migliori opzioni per celebrare Festa della Mamma",
+    "ideas": [
+      {
+        "title": "Regali di Festa della Mamma",
+        "description": "Trova i migliori regali di Festa della Mamma a {city}"
+      },
+      {
+        "title": "Ristoranti Romantici",
+        "description": "Scopri i migliori ristoranti romantici per Festa della Mamma a {city}"
+      },
+      {
+        "title": "Idee Romantiche di Festa della Mamma",
+        "description": "Idee uniche e romantiche per celebrare Festa della Mamma a {city}"
+      },
+      {
+        "title": "Piani dell'Ultimo Minuto",
+        "description": "Piani perfetti dell'ultimo minuto per Festa della Mamma a {city}"
+      }
+    ]
+  },
+  "CityInfo": {
+    "fallback": {
+      "title": "Perché {city} è Perfetto per Celebrare Festa della Mamma",
+      "intro": "{city} offre esperienze romantiche incredibili, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Che tu stia cercando idee romantiche per Festa della Mamma, regali dell'ultimo minuto o i migliori ristoranti romantici, {city} ha tutto ciò di cui hai bisogno per celebrare l'amore.",
+      "reasons": [
+        {
+          "title": "Regali Perfetti di Festa della Mamma",
+          "description": "Trova i regali perfetti di Festa della Mamma a {city}! Da esperienze romantiche e idee per appuntamenti uniche fino a regali dell'ultimo minuto, scopri regali per lei e per lui che creano momenti indimenticabili."
+        },
+        {
+          "title": "Esperienze Romantiche e Idee per Appuntamenti",
+          "description": "{city} offre esperienze romantiche incredibili per le coppie. Che tu stia cercando ristoranti romantici, concerti intimi o idee per appuntamenti uniche, troverai idee romantiche per Festa della Mamma che rendono questa giornata davvero speciale."
+        },
+        {
+          "title": "Momenti Romantici Indimenticabili",
+          "description": "Celebra l'amore a {city} con regali personalizzati di Festa della Mamma e esperienze romantiche. Dai regali di lusso alle opzioni economiche, trova il modo perfetto per celebrare Festa della Mamma con la tua persona amata."
+        }
+      ]
+    },
+    "madrid": {
+      "title": "Perché Madrid è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Madrid offre la combinazione perfetta di esperienze romantiche, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai concerti intimi di Candlelight ai ristoranti romantici di Malasaña, scopri i migliori regali di Festa della Mamma per lei e per lui nella vibrante capitale spagnola.",
+      "reasons": [
+        {
+          "title": "Parchi Romantici e Luoghi Iconici",
+          "description": "Il Parco del Retiro e le strade illuminate creano scenari magici per Festa della Mamma. Trova idee romantiche come passeggiate al tramonto e terrazze accoglienti perfette per regali dell'ultimo minuto e esperienze romantiche."
+        },
+        {
+          "title": "Ristoranti Romantici di Classe Mondiale",
+          "description": "Dai ristoranti stellati Michelin ai bar di tapas intimi di La Latina, Madrid offre ristoranti romantici per ogni coppia. Perfetti per i regali di Festa della Mamma, queste esperienze culinarie creano momenti romantici indimenticabili."
+        },
+        {
+          "title": "Esperienze Culturali e Candlelight",
+          "description": "I concerti intimi di Candlelight, gli spettacoli di flamenco e le esperienze culturali rendono Madrid ideale per idee romantiche di Festa della Mamma. Scopri regali unici di Festa della Mamma e esperienze romantiche che celebrano l'amore con stile."
+        }
+      ]
+    },
+    "barcelona": {
+      "title": "Perché Barcellona è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Barcellona combina il romanticismo mediterraneo con regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici lungo la spiaggia ai concerti intimi nel Quartiere Gotico, trova le migliori idee romantiche per Festa della Mamma e regali per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo Costiero e Viste",
+          "description": "La spiaggia di Barceloneta e Montjuïc offrono viste spettacolari al tramonto perfette per esperienze romantiche. Scopri regali dell'ultimo minuto di Festa della Mamma e idee romantiche con scenari mediterranei mozzafiato."
+        },
+        {
+          "title": "Eccellenza Gastronomica",
+          "description": "Dalla cucina catalana innovativa ai ristoranti romantici di El Born, Barcellona offre esperienze culinarie eccezionali. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Romanticismo Architettonico e Cultura",
+          "description": "I capolavori di Gaudí e il Quartiere Gotico creano idee per appuntamenti uniche e esperienze romantiche. Trova regali personalizzati di Festa della Mamma e idee romantiche che combinano cultura e romanticismo."
+        }
+      ]
+    },
+    "valencia": {
+      "title": "Perché Valencia è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Valencia offre esperienze romantiche lungo il Mediterraneo con regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici del Centro Storico alle esperienze in spiaggia, scopri idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo in Spiaggia e Città delle Arti",
+          "description": "La spiaggia di Malvarrosa e la futuristica Città delle Arti e delle Scienze offrono esperienze romantiche perfette per Festa della Mamma. Trova regali dell'ultimo minuto di Festa della Mamma e idee romantiche con viste costiere mozzafiato."
+        },
+        {
+          "title": "Paella Autentica e Cene Romantiche",
+          "description": "I ristoranti romantici di Valencia servono paella autentica e cucina mediterranea perfette per esperienze romantiche. I regali ideali di Festa della Mamma includono cene intime con regali per lei e per lui."
+        },
+        {
+          "title": "Fascino Storico e Romanticismo Moderno",
+          "description": "Il Centro Storico e i Giardini del Turia offrono idee per appuntamenti uniche e esperienze romantiche. Scopri regali personalizzati di Festa della Mamma e idee romantiche in questo perfetto mix di storia e romanticismo."
+        }
+      ]
+    },
+    "london": {
+      "title": "Perché Londra è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Londra offre esperienze romantiche di classe mondiale, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici di Covent Garden agli spettacoli intimi del West End, scopri i migliori regali di Festa della Mamma per lei e per lui nella capitale britannica.",
+      "reasons": [
+        {
+          "title": "Monumenti Romantici Iconici",
+          "description": "Le passeggiate lungo il Tamigi, Hyde Park e il London Eye creano scenari magici per idee romantiche di Festa della Mamma. Trova regali dell'ultimo minuto di Festa della Mamma e esperienze romantiche con il fascino iconico britannico."
+        },
+        {
+          "title": "Ristoranti Stellati Michelin e Cene Intime",
+          "description": "Dai ristoranti di lusso di Mayfair ai pub accoglienti, Londra offre ristoranti romantici per ogni coppia. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Spettacoli del West End e Candlelight",
+          "description": "I concerti intimi di Candlelight e i musical del West End offrono esperienze romantiche uniche. Scopri regali personalizzati di Festa della Mamma e idee romantiche che celebrano l'amore con stile."
+        }
+      ]
+    },
+    "paris": {
+      "title": "Perché Parigi è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Parigi, la Città dell'Amore, offre esperienze romantiche senza pari, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici con vista sulla Torre Eiffel alle crociere intime sulla Senna, trova le migliori idee romantiche per Festa della Mamma e regali per le coppie.",
+      "reasons": [
+        {
+          "title": "La Città dell'Amore e del Romanticismo",
+          "description": "La Torre Eiffel, Montmartre e la Senna creano le esperienze romantiche per eccellenza. Scopri regali dell'ultimo minuto di Festa della Mamma e idee romantiche nella città più romantica del mondo."
+        },
+        {
+          "title": "Eccellenza Gourmet e Cene Intime",
+          "description": "Dai ristoranti stellati Michelin ai bistrot affascinanti, Parigi offre ristoranti romantici eccezionali. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Arte, Cultura e Momenti Romantici",
+          "description": "Il Louvre, i concerti intimi di Candlelight e i caffè affascinanti offrono idee per appuntamenti uniche. Trova regali personalizzati di Festa della Mamma e idee romantiche che celebrano l'amore nel vero stile parigino."
+        }
+      ]
+    },
+    "new-york": {
+      "title": "Perché New York è Perfetta per Celebrare Festa della Mamma",
+      "intro": "New York offre esperienze romantiche iconiche, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici con vista sullo skyline agli spettacoli di Broadway, scopri i migliori regali di Festa della Mamma per lei e per lui nella Grande Mela.",
+      "reasons": [
+        {
+          "title": "Skyline Iconico e Central Park",
+          "description": "Central Park, il Brooklyn Bridge e l'Empire State Building creano esperienze romantiche magiche. Trova regali dell'ultimo minuto di Festa della Mamma e idee romantiche con viste mozzafiato sulla città."
+        },
+        {
+          "title": "Cucina di Classe Mondiale e Romanticismo sui Tetti",
+          "description": "Dai ristoranti stellati Michelin ai bar romantici sui tetti, NYC offre ristoranti romantici eccezionali. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Spettacoli di Broadway e Concerti Intimi",
+          "description": "I musical di Broadway e i concerti intimi di Candlelight offrono esperienze romantiche uniche. Scopri regali personalizzati di Festa della Mamma e idee romantiche che celebrano l'amore nello stile NYC."
+        }
+      ]
+    },
+    "los-angeles": {
+      "title": "Perché Los Angeles è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Los Angeles offre esperienze romantiche glamour, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici di Beverly Hills alle esperienze in spiaggia, scopri idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo in Spiaggia e Glamour di Hollywood",
+          "description": "Le spiagge di Malibu, il Griffith Observatory e Sunset Boulevard creano esperienze romantiche perfette. Trova regali dell'ultimo minuto di Festa della Mamma e idee romantiche con viste mozzafiato sul Pacifico."
+        },
+        {
+          "title": "Chef Celebrità e Cene Intime",
+          "description": "Dai ristoranti di celebrità alle cene romantiche in spiaggia, LA offre ristoranti romantici eccezionali. I regali ideali di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Intrattenimento e Idee per Appuntamenti Uniche",
+          "description": "I concerti dell'Hollywood Bowl, le esperienze intime di Candlelight e i bar sui tetti offrono idee per appuntamenti uniche. Scopri regali personalizzati di Festa della Mamma e idee romantiche nella capitale dell'intrattenimento."
+        }
+      ]
+    },
+    "chicago": {
+      "title": "Perché Chicago è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Chicago offre esperienze romantiche vibranti, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici lungo la Magnificent Mile ai club jazz intimi, trova le migliori idee romantiche per Festa della Mamma e regali per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo sul Lago e Architettura",
+          "description": "Il Lago Michigan, Millennium Park e l'architettura iconica creano esperienze romantiche magiche. Scopri regali dell'ultimo minuto di Festa della Mamma e idee romantiche con viste mozzafiato sul lago."
+        },
+        {
+          "title": "Scena Culinaria Premiat",
+          "description": "Dai ristoranti stellati Michelin ai locali intimi di River North, Chicago offre ristoranti romantici eccezionali. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Jazz e Concerti Intimi",
+          "description": "I club jazz e i concerti intimi di Candlelight offrono esperienze romantiche uniche. Trova regali personalizzati di Festa della Mamma e idee romantiche che celebrano l'amore nella Windy City."
+        }
+      ]
+    },
+    "miami": {
+      "title": "Perché Miami è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Miami offre esperienze romantiche tropicali, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici di South Beach alle esperienze Art Déco intime, scopri idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo Tropicale in Spiaggia",
+          "description": "South Beach, Key Biscayne e le viste sull'oceano creano esperienze romantiche perfette. Trova regali dell'ultimo minuto di Festa della Mamma e idee romantiche con scenari tropicali mozzafiato."
+        },
+        {
+          "title": "Fusione Latina e Cene sui Tetti",
+          "description": "Dalla cucina cubana ai ristoranti romantici sui tetti, Miami offre ristoranti romantici eccezionali. I regali ideali di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Art Déco e Romanticismo Notturno",
+          "description": "Il Distretto Art Déco, i concerti intimi di Candlelight e la vita notturna vibrante offrono idee per appuntamenti uniche. Scopri regali personalizzati di Festa della Mamma e idee romantiche in questo paradiso tropicale."
+        }
+      ]
+    },
+    "san-francisco": {
+      "title": "Perché San Francisco è Perfetta per Celebrare Festa della Mamma",
+      "intro": "San Francisco offre esperienze romantiche affascinanti, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici con vista sul Golden Gate alle esperienze intime nella regione vinicola, trova idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Ponti Iconici e Viste sulla Baia",
+          "description": "Il Golden Gate Bridge, le viste su Alcatraz e Pacific Heights creano esperienze romantiche magiche. Scopri regali dell'ultimo minuto di Festa della Mamma e idee romantiche con viste mozzafiato sulla baia."
+        },
+        {
+          "title": "Eccellenza Culinaria e Regione Vinicola",
+          "description": "Dai ristoranti stellati Michelin alle esperienze della Napa Valley, SF offre ristoranti romantici eccezionali. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Concerti Intimi e Romanticismo Culturale",
+          "description": "I concerti intimi di Candlelight e i luoghi culturali offrono esperienze romantiche uniche. Trova regali personalizzati di Festa della Mamma e idee romantiche che celebrano l'amore nell'Area della Baia."
+        }
+      ]
+    },
+    "lisbon": {
+      "title": "Perché Lisbona è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Lisbona offre esperienze romantiche affascinanti, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici di Alfama alle esperienze intime di Fado, scopri idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Colline Storiche e Viste sul Fiume",
+          "description": "Il Tago, i tram storici e i Miradouros creano esperienze romantiche perfette. Trova regali dell'ultimo minuto di Festa della Mamma e idee romantiche con il fascino portoghese mozzafiato."
+        },
+        {
+          "title": "Cucina Portoghese Autentica",
+          "description": "Dalle tascas tradizionali ai ristoranti romantici di Chiado, Lisbona offre ristoranti romantici eccezionali. I regali ideali di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Fado e Esperienze Culturali Intime",
+          "description": "Gli spettacoli intimi di Fado e i concerti di Candlelight offrono esperienze romantiche uniche. Scopri regali personalizzati di Festa della Mamma e idee romantiche in questa affascinante capitale europea."
+        }
+      ]
+    },
+    "sao-paulo": {
+      "title": "Perché São Paulo è Perfetta per Celebrare Festa della Mamma",
+      "intro": "São Paulo offre esperienze romantiche vibranti, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici di Jardins alle esperienze culturali intime, trova idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo Urbano e Diversità Culturale",
+          "description": "Il Parco Ibirapuera, l'Avenida Paulista e i quartieri diversificati creano esperienze romantiche uniche. Scopri regali dell'ultimo minuto di Festa della Mamma e idee romantiche nella capitale culturale del Brasile."
+        },
+        {
+          "title": "Gastronomia di Classe Mondiale",
+          "description": "Dalla cucina brasiliana innovativa ai ristoranti romantici di Vila Madalena, SP offre ristoranti romantici eccezionali. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Musica dal Vivo e Concerti Intimi",
+          "description": "I concerti intimi di Candlelight e i locali di musica dal vivo offrono esperienze romantiche uniche. Trova regali personalizzati di Festa della Mamma e idee romantiche che celebrano l'amore nello stile paulista."
+        }
+      ]
+    },
+    "mexico-city": {
+      "title": "Perché Città del Messico è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Città del Messico offre esperienze romantiche vibranti, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici di Polanco alle esperienze culturali intime, scopri idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo Storico e Fascino Moderno",
+          "description": "Il Parco Chapultepec, lo Zócalo e i quartieri colorati creano esperienze romantiche magiche. Trova regali dell'ultimo minuto di Festa della Mamma e idee romantiche con un ricco patrimonio culturale."
+        },
+        {
+          "title": "Cucina Messicana Eccezionale",
+          "description": "Dai mercati tradizionali ai ristoranti romantici di Roma, CDMX offre ristoranti romantici eccezionali. I regali ideali di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Mariachi e Esperienze Culturali",
+          "description": "I concerti intimi di Candlelight e le esibizioni di mariachi offrono esperienze romantiche uniche. Scopri regali personalizzati di Festa della Mamma e idee romantiche in questa vibrante capitale."
+        }
+      ]
+    },
+    "berlin": {
+      "title": "Perché Berlino è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Berlino offre esperienze romantiche uniche, regali distintivi di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici di Mitte alle esperienze culturali intime, trova idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Fascino Storico e Romanticismo Moderno",
+          "description": "La Porta di Brandeburgo, l'Isola dei Musei e i quartieri vibranti creano esperienze romantiche uniche. Scopri regali dell'ultimo minuto di Festa della Mamma e idee romantiche nella dinamica capitale tedesca."
+        },
+        {
+          "title": "Cucina Innovativa e Caffè Accoglienti",
+          "description": "Dalla cucina tedesca innovativa ai ristoranti romantici di Prenzlauer Berg, Berlino offre ristoranti romantici eccezionali. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Concerti Intimi e Scena Culturale",
+          "description": "I concerti intimi di Candlelight e i luoghi culturali offrono esperienze romantiche uniche. Trova regali personalizzati di Festa della Mamma e idee romantiche che celebrano l'amore nello stile berlinese."
+        }
+      ]
+    },
+    "sydney": {
+      "title": "Perché Sydney è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Sydney offre esperienze romantiche mozzafiato, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici con vista sul porto alle esperienze intime in spiaggia, scopri idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo del Porto e Viste Iconiche",
+          "description": "L'Opera House di Sydney, l'Harbour Bridge e Bondi Beach creano esperienze romantiche perfette. Trova regali dell'ultimo minuto di Festa della Mamma e idee romantiche con viste mozzafiato sul porto."
+        },
+        {
+          "title": "Cucina di Classe Mondiale e Waterfront",
+          "description": "Dai ristoranti premiati alle cene romantiche sul waterfront, Sydney offre ristoranti romantici eccezionali. I regali ideali di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Concerti Intimi e Romanticismo in Spiaggia",
+          "description": "I concerti intimi di Candlelight e le esperienze in spiaggia offrono esperienze romantiche uniche. Scopri regali personalizzati di Festa della Mamma e idee romantiche in questa bellissima città portuale."
+        }
+      ]
+    },
+    "melbourne": {
+      "title": "Perché Melbourne è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Melbourne offre esperienze romantiche sofisticate, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici nei vicoli alle esperienze culturali intime, trova idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo nei Vicoli e Fascino Culturale",
+          "description": "I vicoli nascosti, il fiume Yarra e la scena artistica vibrante creano esperienze romantiche uniche. Scopri regali dell'ultimo minuto di Festa della Mamma e idee romantiche nella capitale culturale dell'Australia."
+        },
+        {
+          "title": "Eccellenza Culinaria e Cultura del Caffè",
+          "description": "Dai ristoranti di classe mondiale ai caffè romantici nei vicoli, Melbourne offre ristoranti romantici eccezionali. I regali perfetti di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Concerti Intimi e Scena Artistica",
+          "description": "I concerti intimi di Candlelight e i luoghi culturali offrono esperienze romantiche uniche. Trova regali personalizzati di Festa della Mamma e idee romantiche che celebrano l'amore nello stile melburniano."
+        }
+      ]
+    },
+    "dublin": {
+      "title": "Perché Dublino è Perfetta per Celebrare Festa della Mamma",
+      "intro": "Dublino offre esperienze romantiche affascinanti, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili. Dai ristoranti romantici di Temple Bar alle esperienze intime nei pub, scopri idee romantiche per Festa della Mamma e regali perfetti per le coppie.",
+      "reasons": [
+        {
+          "title": "Romanticismo Storico e Liffey",
+          "description": "Temple Bar, il Trinity College e l'architettura georgiana creano esperienze romantiche magiche. Trova regali dell'ultimo minuto di Festa della Mamma e idee romantiche con il fascino irlandese."
+        },
+        {
+          "title": "Pub Tradizionali e Cucina Moderna",
+          "description": "Dai pub accoglienti ai ristoranti romantici nell'area del Castello di Dublino, Dublino offre ristoranti romantici eccezionali. I regali ideali di Festa della Mamma includono cene romantiche con regali per lei e per lui."
+        },
+        {
+          "title": "Musica dal Vivo e Concerti Intimi",
+          "description": "I concerti intimi di Candlelight e la musica tradizionale irlandese offrono esperienze romantiche uniche. Scopri regali personalizzati di Festa della Mamma e idee romantiche in questa affascinante capitale."
+        }
+      ]
+    },
+    "lyon": { "title": "Why Lyon is Perfect for Celebrating Festa della Mamma", "intro": "Lyon offers exceptional romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Gastronomic Romance", "description": "Lyon's bouchons and Michelin-starred restaurants create perfect romantic experiences." }, { "title": "Historic Charm & River Views", "description": "Fourvière, Presqu'île, and the Rhône create magical romantic experiences." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "washington-dc": { "title": "Why Washington DC is Perfect for Celebrating Festa della Mamma", "intro": "Washington DC offers iconic romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Monuments & Cherry Blossoms", "description": "National Mall, monuments, and seasonal beauty create magical romantic experiences." }, { "title": "World-Class Dining", "description": "From fine dining to romantic restaurants in Georgetown, DC offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and museums provide unique romantic experiences." }] },
+    "san-diego": { "title": "Why San Diego is Perfect for Celebrating Festa della Mamma", "intro": "San Diego offers sunny romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Beach Romance & Harbor Views", "description": "La Jolla, Gaslamp Quarter, and Pacific sunsets create perfect romantic experiences." }, { "title": "Waterfront Dining", "description": "From seafood to romantic restaurants in Little Italy, San Diego offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and Balboa Park provide unique romantic experiences." }] },
+    "atlanta": { "title": "Why Atlanta is Perfect for Celebrating Festa della Mamma", "intro": "Atlanta offers Southern romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Southern Charm & Gardens", "description": "Botanical gardens, BeltLine, and Southern hospitality create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From Southern cuisine to romantic restaurants in Midtown, Atlanta offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "austin": { "title": "Why Austin is Perfect for Celebrating Festa della Mamma", "intro": "Austin offers vibrant romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Live Music & River Romance", "description": "Lady Bird Lake, live music venues, and Texas charm create perfect romantic experiences." }, { "title": "Food Scene & Rooftop Dining", "description": "From BBQ to romantic restaurants downtown, Austin offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural events provide unique romantic experiences." }] },
+    "hamburg": { "title": "Why Hamburg is Perfect for Celebrating Festa della Mamma", "intro": "Hamburg offers maritime romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Harbor Romance & Elbphilharmonie", "description": "Port, Elbe River, and iconic architecture create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From fish market to romantic restaurants in HafenCity, Hamburg offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and musical venues provide unique romantic experiences." }] },
+    "vienna": { "title": "Why Vienna is Perfect for Celebrating Festa della Mamma", "intro": "Vienna offers imperial romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Imperial Romance & Architecture", "description": "Hofburg, Schönbrunn, and Ringstraße create magical romantic experiences." }, { "title": "Coffee Houses & Fine Dining", "description": "From traditional coffee houses to romantic restaurants, Vienna offers exceptional romantic restaurants." }, { "title": "Music & Intimate Concerts", "description": "Intimate Candlelight concerts and classical music provide unique romantic experiences." }] },
+    "brisbane": { "title": "Why Brisbane is Perfect for Celebrating Festa della Mamma", "intro": "Brisbane offers sunny romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "River Romance & South Bank", "description": "Brisbane River, South Bank Parklands, and subtropical charm create perfect romantic experiences." }, { "title": "Rooftop & Waterfront Dining", "description": "From riverside to romantic restaurants in Fortitude Valley, Brisbane offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "toronto": { "title": "Why Toronto is Perfect for Celebrating Festa della Mamma", "intro": "Toronto offers diverse romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Waterfront & CN Tower Romance", "description": "Harbourfront, CN Tower, and diverse neighborhoods create magical romantic experiences." }, { "title": "World-Class Dining", "description": "From multicultural cuisine to romantic restaurants in Distillery District, Toronto offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "buenos-aires": { "title": "Why Buenos Aires is Perfect for Celebrating Festa della Mamma", "intro": "Buenos Aires offers passionate romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Tango & Historic Romance", "description": "Tango, Recoleta, and European charm create magical romantic experiences." }, { "title": "Steak & Rooftop Dining", "description": "From parrillas to romantic restaurants in San Telmo, Buenos Aires offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and milongas provide unique romantic experiences." }] },
+    "montreal": { "title": "Why Montréal is Perfect for Celebrating Festa della Mamma", "intro": "Montréal offers French-Canadian romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Old Town Romance & Mount Royal", "description": "Old Montréal, Mount Royal, and European charm create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From poutine to romantic restaurants in Plateau, Montréal offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and festivals provide unique romantic experiences." }] },
+    "montréal": { "title": "Why Montréal is Perfect for Celebrating Festa della Mamma", "intro": "Montréal offers French-Canadian romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Old Town Romance & Mount Royal", "description": "Old Montréal, Mount Royal, and European charm create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From poutine to romantic restaurants in Plateau, Montréal offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and festivals provide unique romantic experiences." }] },
+    "munchen": { "title": "Why München is Perfect for Celebrating Festa della Mamma", "intro": "München offers Bavarian romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Marienplatz & English Garden", "description": "Marienplatz, English Garden, and Bavarian charm create magical romantic experiences." }, { "title": "Beer Gardens & Fine Dining", "description": "From beer gardens to romantic restaurants in Schwabing, München offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "münchen": { "title": "Why München is Perfect for Celebrating Festa della Mamma", "intro": "München offers Bavarian romantic experiences, unique Festa della Mamma gifts, and unforgettable date ideas.", "reasons": [{ "title": "Marienplatz & English Garden", "description": "Marienplatz, English Garden, and Bavarian charm create magical romantic experiences." }, { "title": "Beer Gardens & Fine Dining", "description": "From beer gardens to romantic restaurants in Schwabing, München offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "roma": { "title": "Perché Roma è Perfetta per Celebrare Festa della Mamma", "intro": "Roma offre esperienze romantiche eterne, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili.", "reasons": [{ "title": "Romanticismo Antico e Fontana di Trevi", "description": "Colosseo, Fontana di Trevi e strade storiche creano esperienze romantiche magiche." }, { "title": "Cucina Romana e Ristoranti con Vista", "description": "Dalle trattorie tradizionali ai ristoranti romantici vicino al Pantheon, Roma offre ristoranti romantici eccezionali." }, { "title": "Cultura e Concerti Intimi", "description": "I concerti intimi di Candlelight e l'opera offrono esperienze romantiche uniche." }] },
+    "milano": { "title": "Perché Milano è Perfetta per Celebrare Festa della Mamma", "intro": "Milano offre esperienze romantiche eleganti, regali unici di Festa della Mamma e idee per appuntamenti indimenticabili.", "reasons": [{ "title": "Romanticismo Duomo e Navigli", "description": "Duomo, canali Navigli e stile italiano creano esperienze romantiche magiche." }, { "title": "Alta Cucina e Aperitivo", "description": "Dai ristoranti stellati ai ristoranti romantici a Brera, Milano offre ristoranti romantici eccezionali." }, { "title": "Cultura e Concerti Intimi", "description": "I concerti intimi di Candlelight e La Scala offrono esperienze romantiche uniche." }] }
+  },
+  "CategoryPages": {
+    "gifts": {
+      "title": "Regali di Festa della Mamma a {city}",
+      "subtitle": "Trova il regalo perfetto per la tua persona amata",
+      "metaTitle": "Regali di Festa della Mamma a {city} 2026 | Regali per Lei & Lui",
+      "metaDescription": "Trova i migliori regali di Festa della Mamma a {city}. Scopri regali unici per lei e lui, esperienze romantiche e idee last minute. Prenota ora per il 2026.",
+      "heroTitle": "I Regali Perfetti di Festa della Mamma a {city}",
+      "heroSubtitle": "Scopri regali ed esperienze indimenticabili",
+      "introSection": {
+        "title": "I Regali Perfetti di Festa della Mamma a {city}",
+        "paragraph1": "Trovare il regalo perfetto di Festa della Mamma a {city} significa creare momenti indimenticabili. Che tu stia cercando esperienze romantiche, regali unici o idee last minute, {city} offre una selezione incredibile di regali che esprimono il tuo amore e apprezzamento.",
+        "paragraph2": "{city} è rinomata per la sua ampia gamma di opzioni di regali per Festa della Mamma. Dai concerti intimi di Candlelight alle esperienze romantiche esclusive, la città offre innumerevoli opportunità per sorprendere la tua persona amata con qualcosa di veramente speciale questo Festa della Mamma 2026.",
+        "paragraph3": "La nostra selezione accuratamente curata include esperienze romantiche, idee di appuntamenti unici, attività di benessere ed eventi esclusivi. Ogni regalo è scelto con cura per creare ricordi duraturi e celebrare il tuo amore nel modo più significativo."
+      },
+      "giftsForHer": {
+        "title": "Regali di Festa della Mamma per Lei a {city}",
+        "paragraph1": "Quando si tratta di trovare i regali perfetti di Festa della Mamma per lei a {city}, le esperienze romantiche spesso creano i ricordi più duraturi. Dai concerti intimi di Candlelight con la sua musica preferita alle esperienze esclusive di spa e workshop romantici, {city} offre regali unici che vanno oltre i regali tradizionali.",
+        "paragraph2": "Considera di prenotare un concerto romantico di Candlelight in uno dei luoghi più belli di {city}. Queste esperienze intime combinano musica bellissima con scenari mozzafiato, creando una serata indimenticabile. Altri regali popolari per lei includono esperienze di benessere, corsi di cucina romantici ed eventi culturali esclusivi.",
+        "paragraph3": "Per coloro che cercano qualcosa di veramente unico, {city} offre esperienze romantiche esclusive che non si trovano da nessun'altra parte. Questi regali accuratamente selezionati mostrano considerazione e creano momenti che lei ricorderà per sempre."
+      },
+      "giftsForHim": {
+        "title": "Regali di Festa della Mamma per Lui a {city}",
+        "paragraph1": "Trovare regali significativi di Festa della Mamma per lui a {city} significa scegliere esperienze che corrispondano ai suoi interessi. Dai concerti emozionanti e eventi culturali alle attività uniche e esperienze romantiche, {city} fornisce opzioni diverse per ogni tipo di partner.",
+        "paragraph2": "Molti partner apprezzano i regali esperienziali rispetto agli articoli materiali. Considera di prenotare biglietti per un concerto del suo genere preferito, un'esperienza culturale esclusiva o un'attività romantica che potete godere insieme. La scena vibrante di {city} offre tutto, dalle performance musicali intime alle esperienze di appuntamenti uniche.",
+        "paragraph3": "I migliori regali di Festa della Mamma per lui a {city} combinano i suoi interessi con momenti romantici che potete condividere. Che ami la musica, la cultura, il cibo o l'avventura, troverai il regalo perfetto che crea ricordi duraturi."
+      },
+      "lastMinuteGifts": {
+        "title": "Regali Last Minute di Festa della Mamma a {city}",
+        "paragraph1": "Dimenticato di pianificare in anticipo? Non preoccuparti - {city} offre eccellenti opzioni di regali last minute per Festa della Mamma. Molte esperienze romantiche ed eventi hanno disponibilità lo stesso giorno, permettendoti di creare una celebrazione perfetta anche con poco preavviso.",
+        "paragraph2": "I regali last minute di Festa della Mamma a {city} includono biglietti per concerti dello stesso giorno, prenotazioni di ristoranti disponibili ed esperienze di prenotazione immediata. Queste opzioni assicurano che tu possa ancora dare alla tua persona amata un Festa della Mamma indimenticabile, anche se stai pianificando all'ultimo momento."
+      },
+      "cta": "Esplora la nostra selezione curata di regali di Festa della Mamma a {city} e prenota l'esperienza perfetta per la tua persona amata."
+    },
+    "restaurants": {
+      "title": "Ristoranti Romantici a {city}",
+      "subtitle": "Scopri le migliori esperienze gastronomiche per Festa della Mamma",
+      "metaTitle": "Ristoranti Romantici a {city} | Festa della Mamma 2026",
+      "metaDescription": "Scopri i migliori ristoranti romantici a {city} per Festa della Mamma 2026. Alta cucina, locali intimi e cene romantiche. Fai la tua prenotazione oggi.",
+      "heroTitle": "Ristoranti Romantici a {city} per Festa della Mamma",
+      "heroSubtitle": "Scopri esperienze gastronomiche eccezionali",
+      "introSection": {
+        "title": "Ristoranti Romantici a {city} per Festa della Mamma",
+        "paragraph1": "Una cena romantica è una delle tradizioni più care di Festa della Mamma, e {city} offre alcune delle esperienze gastronomiche più eccezionali al mondo. Dagli stabilimenti stellati Michelin ai gioielli nascosti intimi, la scena gastronomica della città fornisce il palcoscenico perfetto per celebrare l'amore.",
+        "paragraph2": "{city} ospita un'incredibile varietà di ristoranti romantici, ognuno offrendo atmosfere uniche, cucina eccezionale ed esperienze indimenticabili. Che tu stia cercando eleganza di alta cucina, locali intimi e accoglienti, o ristoranti con viste mozzafiato, troverai il posto perfetto per la tua celebrazione di Festa della Mamma.",
+        "paragraph3": "La nostra selezione accuratamente curata presenta i migliori ristoranti romantici a {city}, scelti per la loro atmosfera, eccellenza culinaria e capacità di creare momenti magici. Ogni luogo offre qualcosa di speciale, dalle cene a lume di candela ai pasti in terrazza con vista sulla città."
+      },
+      "fineDining": {
+        "title": "Alta Cucina e Stelle Michelin a {city}",
+        "paragraph1": "Per le coppie che cercano l'esperienza gastronomica romantica definitiva, {city} vanta un'impressionante selezione di ristoranti di alta cucina e stabilimenti stellati Michelin. Questi luoghi combinano cucina di classe mondiale con servizio impeccabile e atmosfere eleganti, creando ricordi indimenticabili di Festa della Mamma.",
+        "paragraph2": "I ristoranti di alta cucina a {city} offrono menu degustazione meticolosamente elaborati, abbinamenti di vini eccezionali e ambienti intimi perfetti per occasioni speciali. Molti dispongono di sale private, tavoli dello chef ed esperienze esclusive che rendono la tua celebrazione di Festa della Mamma veramente straordinaria."
+      },
+      "intimateVenues": {
+        "title": "Locali Intimi e Accoglienti a {city}",
+        "paragraph1": "A volte i ristoranti più romantici sono i locali intimi e accoglienti che sembrano segreti nascosti. {city} è piena di bistrot affascinanti, trattorie illuminate da candele e spazi da pranzo intimi che creano l'atmosfera perfetta per una cena romantica di Festa della Mamma.",
+        "paragraph2": "Questi ristoranti intimi a {city} offrono atmosfere calde e accoglienti dove potete concentrarvi completamente l'uno sull'altro. Con illuminazione soffusa, posti a sedere comodi e servizio attento, questi luoghi forniscono il palcoscenico ideale per conversazioni significative e momenti romantici."
+      },
+      "restaurantsWithViews": {
+        "title": "Ristoranti con Viste Spettacolari a {city}",
+        "paragraph1": "Per una cena di Festa della Mamma veramente spettacolare, considera uno dei ristoranti di {city} con viste mozzafiato. Che si affacciano sullo skyline della città, sul lungomare o su monumenti iconici, questi luoghi combinano cucina eccezionale con viste indimenticabili che rendono la tua celebrazione ancora più speciale."
+      },
+      "cta": "Sfoglia la nostra selezione di ristoranti romantici a {city} e fai la tua prenotazione per Festa della Mamma oggi."
+    },
+    "ideas": {
+      "title": "Idee Romantiche di Festa della Mamma a {city}",
+      "subtitle": "Crea momenti indimenticabili insieme",
+      "metaTitle": "Idee di Festa della Mamma a {city} | Idee per Appuntamenti Romantici 2026",
+      "metaDescription": "Esplora idee romantiche di Festa della Mamma a {city}. Idee per appuntamenti unici, attività per coppie ed esperienze indimenticabili per Festa della Mamma 2026. Prenota ora.",
+      "heroTitle": "Idee Romantiche di Festa della Mamma a {city}",
+      "heroSubtitle": "Scopri esperienze uniche per celebrare l'amore",
+      "introSection": {
+        "title": "Idee Romantiche di Festa della Mamma a {city}",
+        "paragraph1": "Creare momenti indimenticabili di Festa della Mamma a {city} significa andare oltre l'ordinario. La città offre un'incredibile varietà di esperienze romantiche, idee per appuntamenti unici e attività speciali progettate per aiutare le coppie a celebrare il loro amore in modi significativi.",
+        "paragraph2": "{city} è conosciuta per la sua scena culturale vibrante, i bellissimi scenari e l'ampia gamma di attività romantiche. Dai concerti intimi e esperienze culturali ai workshop unici e attività di benessere, la città fornisce innumerevoli opportunità per creare ricordi duraturi insieme.",
+        "paragraph3": "Che tu stia pianificando un gesto romantico grandioso o cercando momenti intimi da condividere, {city} offre idee di Festa della Mamma che si adattano allo stile e alle preferenze di ogni coppia. Ogni esperienza è accuratamente selezionata per aiutarti a celebrare l'amore nel modo più speciale."
+      },
+      "romanticExperiences": {
+        "title": "Esperienze Romantiche a {city}",
+        "paragraph1": "Le esperienze romantiche a {city} vanno ben oltre gli appuntamenti tradizionali. La città offre concerti intimi di Candlelight in luoghi mozzafiato, eventi culturali esclusivi e attività uniche progettate specificamente per le coppie. Queste esperienze creano connessioni profonde e ricordi indimenticabili.",
+        "paragraph2": "Dalle performance di musica classica in scenari storici alle esperienze culturali moderne, le offerte romantiche di {city} combinano arte con intimità. Ogni esperienza è progettata per aiutarti a connetterti, celebrare e creare momenti che rafforzano il tuo legame."
+      },
+      "uniqueDateIdeas": {
+        "title": "Idee per Appuntamenti Unici a {city}",
+        "paragraph1": "Cerchi qualcosa di diverso questo Festa della Mamma? {city} offre idee per appuntamenti unici che si allontanano dall'ordinario. Considera workshop romantici dove potete creare qualcosa insieme, tour culturali esclusivi o esperienze intime nei luoghi più belli della città.",
+        "paragraph2": "Queste idee per appuntamenti unici a {city} sono progettate per aiutarti a scoprire cose nuove l'uno sull'altro mentre crei ricordi condivisi. Dai corsi di cucina alle esperienze artistiche, ogni attività offre una possibilità di connettersi in modi significativi."
+      },
+      "coupleActivities": {
+        "title": "Attività per Coppie a {city}",
+        "paragraph1": "Festa della Mamma a {city} è il momento perfetto per esplorare attività per coppie che vi avvicinano. La città offre tutto, dalle esperienze di benessere e giorni spa alle attività avventurose ed esplorazioni culturali, tutto progettato per essere goduto insieme dalle coppie."
+      },
+      "cta": "Esplora le nostre idee curate di Festa della Mamma a {city} e prenota l'esperienza perfetta per te e la tua persona amata."
+    },
+    "lastMinute": {
+      "title": "Piani Last Minute di Festa della Mamma a {city}",
+      "subtitle": "Piani perfetti disponibili ora",
+      "metaTitle": "Piani Last Minute di Festa della Mamma a {city} | Stesso Giorno 2026",
+      "metaDescription": "Piani last minute di Festa della Mamma a {city}. Prenotazioni lo stesso giorno, idee regalo urgenti ed esperienze romantiche disponibili ora per il 2026.",
+      "heroTitle": "Piani Last Minute di Festa della Mamma a {city}",
+      "heroSubtitle": "C'è ancora tempo per creare la celebrazione perfetta",
+      "introSection": {
+        "title": "Piani Last Minute di Festa della Mamma a {city}",
+        "paragraph1": "Dimenticato di pianificare in anticipo? Non preoccuparti - {city} offre eccellenti opzioni last minute per Festa della Mamma che possono ancora creare una celebrazione indimenticabile. Molte esperienze romantiche, ristoranti e attività hanno disponibilità lo stesso giorno, assicurando che tu possa ancora dare alla tua persona amata un Festa della Mamma perfetto.",
+        "paragraph2": "Anche con poco preavviso, puoi trovare incredibili esperienze romantiche a {city}. La scena vibrante della città include ristoranti con prenotazioni last minute, concerti con biglietti disponibili ed esperienze che possono essere prenotate immediatamente per il godimento lo stesso giorno.",
+        "paragraph3": "I nostri piani last minute di Festa della Mamma a {city} sono accuratamente selezionati per assicurare qualità e disponibilità. Ogni opzione offre l'opportunità di creare momenti speciali, anche quando si pianifica all'ultimo momento."
+      },
+      "sameDayReservations": {
+        "title": "Prenotazioni lo Stesso Giorno a {city}",
+        "paragraph1": "Molti dei migliori ristoranti romantici ed esperienze di {city} offrono prenotazioni lo stesso giorno, rendendo possibile pianificare una celebrazione perfetta di Festa della Mamma anche all'ultimo minuto. Questi luoghi capiscono che a volte i migliori piani sono fatti spontaneamente.",
+        "paragraph2": "Le prenotazioni lo stesso giorno per Festa della Mamma a {city} includono esperienze da pranzo intime, attività romantiche ed eventi speciali che possono essere prenotati immediatamente. Con disponibilità flessibile e qualità eccezionale, queste opzioni assicurano che la tua celebrazione sia ancora perfetta."
+      },
+      "urgentGiftIdeas": {
+        "title": "Idee Regalo Urgenti a {city}",
+        "paragraph1": "Hai bisogno di un regalo di Festa della Mamma subito? {city} offre numerose idee regalo urgenti che possono essere prenotate e godute immediatamente. Dai biglietti per concerti dello stesso giorno alle esperienze di prenotazione immediata, troverai opzioni che mostrano il tuo amore senza lo stress della pianificazione anticipata.",
+        "paragraph2": "Queste idee regalo urgenti di Festa della Mamma a {city} includono esperienze romantiche, attività ed eventi che sono disponibili ora. Ogni opzione è accuratamente selezionata per assicurare che sia ancora speciale e significativa, anche quando scelta all'ultimo momento."
+      },
+      "availableNow": {
+        "title": "Disponibile Ora a {city}",
+        "paragraph1": "Molte esperienze romantiche a {city} sono disponibili per prenotazione immediata, permettendoti di creare una celebrazione perfetta di Festa della Mamma anche con pianificazione minima. Queste esperienze offrono flessibilità mantenendo la qualità e il romanticismo che rendono speciale Festa della Mamma."
+      },
+      "cta": "Sfoglia i nostri piani last minute di Festa della Mamma a {city} e prenota la tua celebrazione perfetta oggi."
+    }
+  }
+}

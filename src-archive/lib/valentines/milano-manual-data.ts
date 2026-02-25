@@ -1,0 +1,117 @@
+// Manual data for Milano - Plans added manually
+import { ValentinePlan } from './service';
+
+export const MILANO_MANUAL_PLANS: ValentinePlan[] = [
+  {
+    id: '372188',
+    title: 'Ballet of lights: La Bella Addormentata in un affascinante spettacolo di luci',
+    venue: 'Teatro Leonardo da Vinci, Via Andrea Maria Ampère, 1',
+    price: 'From €34',
+    priceValue: 34,
+    link: 'https://feverup.com/m/372188',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/1c0b04b0-1941-11f0-b4e1-16541c266220.jpg',
+    rank: 1,
+    categories: ['concerts-musicals-theater', 'valentines-related-events'],
+    city: 'milano',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '471898',
+    title: 'The Jazz Room: omaggio a Frank Sinatra & Louis Armstrong',
+    venue: 'Auditorium San Fedele, Via Ulrico Hoepli, 3/b',
+    price: 'From €29',
+    priceValue: 29,
+    link: 'https://feverup.com/m/471898',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/bf86b91a-cea7-11f0-9f85-d265d7fb50bf.jpg',
+    rank: 2,
+    categories: ['concerts-musicals-theater', 'valentines-related-events'],
+    city: 'milano',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '146823',
+    title: 'Teatro La Scala: Visita guidata del Teatro e del Museo',
+    venue: 'Teatro alla Scala, Via Filodrammatici, 2',
+    price: '€39',
+    priceValue: 39,
+    link: 'https://feverup.com/m/146823',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/a8a13e56-938e-11ee-8ad5-12ca22bb0d4a',
+    rank: 3,
+    categories: ['experiences-and-exhibitions', 'valentines-related-events'],
+    city: 'milano',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '120541',
+    title: 'Hidden Evidence alla Casa Museo Bagatti Valsecchi: riuscirai a risolvere il caso?',
+    venue: 'Casa Museo Bagatti Valsecchi, Via Gesù, 5',
+    price: 'From €38',
+    priceValue: 38,
+    link: 'https://feverup.com/m/120541',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/e38a4fb4-66c2-11ef-84ee-cea98d7047c7.jpg',
+    rank: 4,
+    categories: ['experiences-and-exhibitions', 'valentines-related-events'],
+    city: 'milano',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '112180',
+    title: 'Entra nel Mondo di Leonardo al Museo Leonardo3',
+    venue: 'Leonardo3 Museum, Galleria Vittorio Emanuele II, 11',
+    price: 'From €16',
+    priceValue: 16,
+    link: 'https://feverup.com/m/112180',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/2d8e3008-aa91-11ec-906f-ce89b627692a',
+    rank: 5,
+    categories: ['experiences-and-exhibitions', 'valentines-related-events'],
+    city: 'milano',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '135481',
+    title: 'Hard Rock Cafe Milano',
+    venue: 'Hard Rock Cafe Milano, Via Dante',
+    price: 'From €27.30',
+    priceValue: 27.3,
+    link: 'https://feverup.com/m/135481',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/182a9c6a-1f07-11ee-bad3-5ec678db21ce',
+    rank: 6,
+    categories: ['food', 'valentines-related-events'],
+    city: 'milano',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '182359',
+    title: 'Da Milano: Como, Bellagio e crociera sul lago',
+    venue: 'Milan Piazza Quattro Novembre',
+    price: '€76.50',
+    priceValue: 76.5,
+    link: 'https://feverup.com/m/182359',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/a7c75188-1f1a-11ef-a5c1-72618b44f522',
+    rank: 7,
+    categories: ['experiences-and-exhibitions', 'valentines-related-events'],
+    city: 'milano',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '147270',
+    title: 'Verona e Lago di Garda: Gita in giornata da Milano',
+    venue: 'Milan Visitor Center, Largo Cairoli 18',
+    price: '€99',
+    priceValue: 99,
+    link: 'https://feverup.com/m/147270',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/9fef0dee-98cd-11ee-812c-fe9b3ef6d5f6',
+    rank: 8,
+    categories: ['experiences-and-exhibitions', 'valentines-related-events'],
+    city: 'milano',
+    isCandlelight: false,
+    eventDates: []
+  }
+];

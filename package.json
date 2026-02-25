@@ -1,0 +1,22 @@
+{
+  "name": "mothers-day-uk-static",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mother's Day UK - static site (HTML/CSS/JS, Nginx). UK only.",
+  "scripts": {
+    "build": "node scripts/generate-city-pages.js",
+    "generate-city-pages": "node scripts/generate-city-pages.js",
+    "serve": "npx serve . -p 3000",
+    "local": "node scripts/serve-local.js", "dev": "node scripts/serve-local.js",
+    "preview": "npx serve . -p 3000",
+    "preview:colvin": "npx serve . -p 3001",
+    "dev:branch": "npx serve . -l 3001",
+    "fetch-fever-plans": "node scripts/fetch-fever-plans.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}

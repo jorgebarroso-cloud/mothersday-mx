@@ -1,0 +1,52 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Elegant gradient for premium feel -->
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF1493;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF6B9D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFB6C1;stop-opacity:1" />
+    </linearGradient>
+    <!-- Subtle shadow for depth -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="0" dy="2" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background circle with gradient (optional, can be transparent) -->
+  <circle cx="256" cy="256" r="240" fill="url(#brandGradient)" opacity="0.1"/>
+  
+  <!-- Two elegant intertwined hearts - minimalist single line style -->
+  <!-- Left Heart -->
+  <path d="M 200 180 Q 180 160 160 180 Q 160 200 180 220 L 200 240 L 220 220 Q 240 200 240 180 Q 240 160 220 180 Q 200 160 200 180 Z" 
+        fill="url(#brandGradient)" 
+        stroke="url(#brandGradient)" 
+        stroke-width="8" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"
+        filter="url(#shadow)"/>
+  
+  <!-- Right Heart (intertwined) -->
+  <path d="M 312 180 Q 332 160 352 180 Q 352 200 332 220 L 312 240 L 292 220 Q 272 200 272 180 Q 272 160 292 180 Q 312 160 312 180 Z" 
+        fill="url(#brandGradient)" 
+        stroke="url(#brandGradient)" 
+        stroke-width="8" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"
+        filter="url(#shadow)"/>
+  
+  <!-- Connecting element - elegant line connecting the hearts -->
+  <path d="M 240 200 Q 256 210 272 200" 
+        stroke="url(#brandGradient)" 
+        stroke-width="6" 
+        stroke-linecap="round" 
+        fill="none"
+        opacity="0.7"/>
+</svg>

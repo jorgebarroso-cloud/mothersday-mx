@@ -1,0 +1,8 @@
+{
+  "domain": "https://celebratemothersday.co.uk",
+  "cities": [
+    { "slug": "london", "name": "London", "feverUrl": "https://feverup.com/en/london/mothers-day" },
+    { "slug": "manchester", "name": "Manchester", "feverUrl": "https://feverup.com/en/manchester/mothers-day" },
+    { "slug": "birmingham", "name": "Birmingham", "feverUrl": "https://feverup.com/en/birmingham/mothers-day" }
+  ]
+}

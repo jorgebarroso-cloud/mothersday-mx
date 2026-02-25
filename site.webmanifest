@@ -1,0 +1,18 @@
+{
+  "name": "Celebrate Mother's Day UK",
+  "short_name": "Mother's Day UK",
+  "description": "Mother's Day 2026 gifts and experiences across the UK. London, Manchester, Edinburgh and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF1493",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/images/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/images/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "lang": "en-GB",
+  "dir": "ltr",
+  "scope": "/"
+}

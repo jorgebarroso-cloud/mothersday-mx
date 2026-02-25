@@ -1,0 +1,863 @@
+{
+  "Hero": {
+    "title": "Unforgettable Mother's Day 2026:",
+    "subtitle": "Gifts & Experiences for Mom",
+    "description": "Curated gifts, experiences, dinners, and getaways in the world's best cities.",
+    "searchPlaceholder": "Where are you? (e.g., Paris, Madrid)",
+    "searchButton": "Search",
+    "cityTitle": "Mother's Day",
+    "citySubtitle": "in {city}",
+    "cityDescription": "Discover the best Mother's Day ideas, gifts, restaurants, and experiences in {city}"
+  },
+  "GlobalGuide": {
+    "title": "Your Global Guide to Mother's Day",
+    "description1": "Celebratemothersday.com is a global guide to Mother's Day experiences, helping you find the best gifts, restaurants, and ideas in your city.",
+    "description2": "From New York to Paris, Madrid to São Paulo, we curate the best plans for Mother's Day—wherever you are.",
+    "cta": "Explore All Cities"
+  },
+  "CitySelector": {
+    "title": "Explore Romantic Plans by City",
+    "searchPlaceholder": "🔍 Search your city (e.g., Madrid, Paris...)",
+    "regionAll": "All",
+    "regionEurope": "Europe",
+    "regionAmerica": "America",
+    "regionOceania": "Oceania",
+    "resultsCount": "{count} {count, plural, =1 {city found} other {cities found}}",
+    "noResults": "No cities found",
+    "noResultsHelp": "Try a different search term or change region"
+  },
+  "Footer": {
+    "description": "Celebratemothersday.com is a global guide to Mother's Day experiences, helping you find the best gifts, restaurants, and ideas in your city.",
+    "tagline": "From New York to Paris, Madrid to São Paulo, we curate the best plans for Mother's Day—wherever you are.",
+    "brand": "Celebrate Mother's Day",
+    "madeWithLove": "Made with love",
+    "popularCities": "Popular Cities",
+    "allCities": "All Cities",
+    "resources": "Resources",
+    "languages": "Languages",
+    "home": "Home",
+    "contact": "Contact",
+    "legal": "Legal",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
+    "allRightsReserved": "All rights reserved.",
+    "website": "Website:",
+    "valentinesDayIn": "Mother's Day in",
+    "viewAllCities": "View all cities →",
+    "operatedBy": "Celebrate Mother's Day is operated by Fever Up Entertainment.",
+    "doNotSell": "Do Not Sell My Personal Information"
+  },
+  "CookieBanner": {
+    "message": "We use cookies for analytics (e.g. Google Analytics). You can accept or reject non-essential cookies. See our Cookie Policy for details.",
+    "accept": "Accept",
+    "reject": "Reject"
+  },
+  "LegalCookies": {
+    "title": "Cookie Policy",
+    "metaDescription": "Cookie policy for Celebrate Mother's Day (celebratemothersday.com). Operator: Fever Up Entertainment. What cookies we use and how to manage them.",
+    "intro": "This page explains how Celebrate Mother's Day uses cookies on celebratemothersday.com.",
+    "whoWeAre": "Who we are",
+    "operator": "This website is operated by Fever Up Entertainment (same legal entity as Fever).",
+    "domain": "Domain: celebratemothersday.com.",
+    "whatCookies": "What cookies we use",
+    "cookiesWeUse": "We use the following cookies:",
+    "cookieConsent": "cookie_consent: stores your choice (accept or reject) for non-essential cookies. Duration: 1 year. Essential for compliance.",
+    "analytics": "If you accept: Google Analytics (GA4) may set cookies to measure site usage. You can reject to disable analytics cookies.",
+    "youCanReject": "You can reject non-essential cookies at any time using the cookie banner (clear cookies for this site to see it again) or by blocking cookies in your browser.",
+    "doNotSellTitle": "Do Not Sell My Personal Information (CCPA)",
+    "doNotSellText": "We do not sell your personal information. To limit use of analytics and similar non-essential cookies, choose \"Reject\" in the cookie banner or use the Cookie Policy links above to manage your preferences.",
+    "moreInfo": "More information",
+    "fullCookiePolicy": "Full Cookie Policy (Fever)",
+    "privacyPolicy": "Privacy Policy (Fever)",
+    "lastUpdated": "Last updated: January 2026.",
+    "backToHome": "Back to home"
+  },
+  "Common": {
+    "home": "Home",
+    "loading": "Loading...",
+    "comingSoon": "Coming Soon!",
+    "notAvailable": "Mother's Day experiences in {city} are not available yet.",
+    "checkBack": "Check back soon or explore another city.",
+    "errorLoadingPage": "Error Loading Page",
+    "pleaseTryAgainLater": "Please try again later",
+    "backTo": "Back to",
+    "priceRange": "Price Range",
+    "clearFilters": "Clear Filters",
+    "plan": "plan",
+    "plans": "plans",
+    "available": "available",
+    "noPlansFound": "No plans found matching your filters. Try adjusting your search criteria."
+  },
+  "Filters": {
+    "priceRange": "Price Range",
+    "date": "Date",
+    "cuisineType": "Cuisine Type",
+    "ambiance": "Ambiance",
+    "recipient": "Recipient",
+    "timeSlots": "Time Slots",
+    "clearAll": "Clear All Filters"
+  },
+  "Header": {
+    "searchPlaceholder": "Search city...",
+    "giftNow": "GIFT NOW",
+    "selectCity": "Select City"
+  },
+  "CategoryNav": {
+    "categories": "Categories",
+    "price": "Price",
+    "date": "Date",
+    "all": "All",
+    "candlelight": "🕯️ Candlelight",
+    "allExperiences": "All Experiences"
+  },
+  "CityPage": {
+    "top3Title": "♥ Top 3 Romantic Picks ♥",
+    "top3Subtitle": "Most loved experiences for Mother's Day",
+    "allExperiencesTitle": "All Experiences ♥",
+    "allExperiencesSubtitle": "Explore everything {city} has to offer",
+    "candlelightTitle": "🕯️ Candlelight Experiences"
+  },
+  "DateFilter": {
+    "selectDates": "Select dates",
+    "clear": "Clear",
+    "apply": "Apply",
+    "months": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    },
+    "weekdays": {
+      "sunday": "Su",
+      "monday": "Mo",
+      "tuesday": "Tu",
+      "wednesday": "We",
+      "thursday": "Th",
+      "friday": "Fr",
+      "saturday": "Sa"
+    }
+  },
+  "Metadata": {
+    "homeTitle": "Mother's Day 2026: Best Romantic Plans & Dinners",
+    "homeDescription": "Explore romantic plans for Mother's Day 2026. Book top dinners, concerts & unique getaways in NYC, Paris, Madrid & more. Make it unforgettable.",
+    "cityPageTitle": "Mother's Day 2026 in {city}: Best Gifts & Ideas",
+    "cityPageDescription": "Celebrate Mother's Day 2026 in {city}. Discover romantic ideas, gifts for her & him, and top restaurants for an unforgettable date.",
+    "cityPageGiftsTitle": "Mother's Day Gifts in {city} 2026 | Gifts for Her & Him",
+    "cityPageGiftsDescription": "Find the perfect Mother's Day gifts in {city}. Discover unique gifts for her and him, romantic experiences, and last-minute gift ideas. Book now for 2026.",
+    "cityPageRestaurantsTitle": "Romantic Restaurants in {city} | Mother's Day 2026",
+    "cityPageRestaurantsDescription": "Discover the best romantic restaurants in {city} for Mother's Day 2026. Fine dining, intimate venues, and romantic dinners. Make your reservation today.",
+    "cityPageIdeasTitle": "Mother's Day Ideas in {city} | Romantic Date Ideas 2026",
+    "cityPageIdeasDescription": "Explore romantic Mother's Day ideas in {city}. Unique date ideas, couple activities, and unforgettable experiences for Mother's Day 2026. Book now.",
+    "cityPageLastMinuteTitle": "Last-Minute Mother's Day Plans in {city} | Same Day 2026",
+    "cityPageLastMinuteDescription": "Last-minute Mother's Day plans in {city}. Same-day reservations, urgent gift ideas, and romantic experiences available now for 2026."
+  },
+  "Testimonials": {
+    "title": "What Our Couples Say",
+    "subtitle": "Real experiences from couples who made their Mother's Day unforgettable",
+    "items": [
+      {
+        "text": "The best dinner in Rome! The restaurant was perfect, the food incredible, and the atmosphere was exactly what we needed for our Mother's Day. Highly recommend!",
+        "author": "Sofia & Marc",
+        "location": "Rome, Italy"
+      },
+      {
+        "text": "Unforgettable night in NYC! We booked a romantic rooftop dinner and it exceeded all expectations. The view was breathtaking and the service was impeccable.",
+        "author": "Alex",
+        "location": "New York, USA"
+      },
+      {
+        "text": "Made our Mother's Day in Paris absolutely magical! The candlelight dinner cruise was romantic beyond words. Every detail was perfect, from the food to the ambiance.",
+        "author": "Emma & James",
+        "location": "Paris, France"
+      }
+    ]
+  },
+  "WhyCelebrate": {
+    "title": "Why Celebrate Mother's Day as a Couple?",
+    "description": "Mother's Day is a special opportunity to celebrate your love, create lasting memories, and strengthen your bond with romantic experiences and meaningful Mother's Day gifts.",
+    "reasons": [
+      {
+        "title": "Strengthen Your Bond",
+        "description": "Celebrating Mother's Day together creates unforgettable romantic experiences that deepen your connection. It's the perfect opportunity to show your partner how much they mean to you with thoughtful Mother's Day gifts and romantic moments."
+      },
+      {
+        "title": "Create Lasting Memories",
+        "description": "From intimate Candlelight concerts to romantic restaurants, Mother's Day experiences become cherished memories. These romantic Mother's Day ideas help you celebrate love in unique ways that you'll remember forever."
+      },
+      {
+        "title": "Express Your Love",
+        "description": "Mother's Day gifts for her and gifts for him are more than presents—they're expressions of love. Whether it's personalized Mother's Day gifts or last-minute Mother's Day gifts, each one shows you care."
+      },
+      {
+        "title": "Reconnect & Rekindle",
+        "description": "In our busy lives, Mother's Day offers a dedicated time to reconnect. Romantic experiences and date ideas help couples rekindle their romance and celebrate their relationship with meaningful Mother's Day ideas."
+      }
+    ],
+    "cta": "Find Your Perfect City"
+  },
+  "WhyUs": {
+    "title": "Why Choose Us for Your Mother's Day 2026 Plans",
+    "description1": "Discover the best Mother's Day gifts, romantic experiences, and unforgettable date ideas. From intimate Candlelight concerts to romantic restaurants, we help couples create perfect Mother's Day moments.",
+    "description2": "Trusted by thousands of couples for curated romantic experiences, last-minute Mother's Day gifts, and unique date ideas in cities worldwide.",
+    "features": [
+      {
+        "title": "Curated Mother's Day Experiences",
+        "description": "Discover handpicked romantic experiences, from intimate Candlelight concerts to exclusive romantic restaurants. We select only the best Mother's Day gifts and date ideas to create unforgettable romantic moments for couples."
+      },
+      {
+        "title": "Instant Booking for Last-Minute Plans",
+        "description": "Forgot to plan ahead? No problem. Book romantic experiences, Mother's Day gifts, and romantic dinners instantly. Perfect for last-minute Mother's Day gifts and spontaneous romantic date ideas."
+      },
+      {
+        "title": "Verified Reviews from Real Couples",
+        "description": "Every romantic experience is verified and reviewed by couples who've celebrated Mother's Day with us. Find trusted recommendations for Mother's Day gifts for her, gifts for him, and the best romantic experiences."
+      },
+      {
+        "title": "Unique Mother's Day Gifts & Ideas",
+        "description": "From personalized Mother's Day gifts to romantic getaways, discover unique Mother's Day gift ideas for every couple. Whether you're looking for gifts for her, gifts for him, or experiences for both."
+      },
+      {
+        "title": "Romantic Experiences in Top Cities",
+        "description": "Explore the best romantic restaurants, Candlelight concerts, and Mother's Day experiences in major cities worldwide. From romantic dinners to intimate concerts, find perfect date ideas in your city."
+      },
+      {
+        "title": "Global Guide to Mother's Day 2026",
+        "description": "Your comprehensive guide to celebrating Mother's Day 2026. Discover romantic experiences, Mother's Day gifts, romantic restaurants, and unforgettable date ideas in cities around the world."
+      }
+    ],
+    "trustedSource": {
+      "title": "Your Trusted Source for Mother's Day 2026",
+      "paragraph1": "Whether you're searching for Mother's Day gifts for her, gifts for him, or romantic experiences for couples, we've curated the best selection of romantic restaurants, Candlelight concerts, and unique date ideas. Perfect for last-minute Mother's Day gifts or planning ahead for Mother's Day 2026.",
+      "paragraph2": "Join thousands of couples who trust us for their romantic Mother's Day plans, from intimate dinners to unforgettable romantic getaways and couple activities."
+    }
+  },
+  "PlanCard": {
+    "getTickets": "Get Tickets →"
+  },
+  "Price": {
+    "from": "From",
+    "under": "Under"
+  },
+  "ValentinesIdeas": {
+    "title": "Mother's Day Ideas in {city}",
+    "subtitle": "Explore the best options to celebrate Mother's Day",
+    "ideas": [
+      {
+        "title": "Mother's Day Gifts",
+        "description": "Find the best Mother's Day gifts in {city}"
+      },
+      {
+        "title": "Romantic Restaurants",
+        "description": "Discover the best romantic restaurants for Mother's Day in {city}"
+      },
+      {
+        "title": "Romantic Mother's Day Ideas",
+        "description": "Unique and romantic ideas to celebrate Mother's Day in {city}"
+      },
+      {
+        "title": "Last-Minute Plans",
+        "description": "Perfect last-minute plans for Mother's Day in {city}"
+      }
+    ]
+  },
+  "CityInfo": {
+    "fallback": {
+      "title": "Why {city} is Perfect for Celebrating Mother's Day",
+      "intro": "{city} offers incredible romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. Whether you're searching for romantic Mother's Day ideas, last-minute Mother's Day gifts, or the perfect romantic restaurants, {city} has everything you need to celebrate love.",
+      "reasons": [
+        {
+          "title": "Perfect Mother's Day Gifts",
+          "description": "Find the perfect Mother's Day gifts in {city}! From romantic experiences and unique date ideas to last-minute Mother's Day gifts, discover gifts for her and gifts for him that create unforgettable moments."
+        },
+        {
+          "title": "Romantic Experiences & Date Ideas",
+          "description": "{city} offers incredible romantic experiences for couples. Whether you're looking for romantic restaurants, intimate concerts, or unique date ideas, you'll find romantic Mother's Day ideas that make this day truly special."
+        },
+        {
+          "title": "Unforgettable Romantic Moments",
+          "description": "Celebrate love in {city} with personalized Mother's Day gifts and romantic experiences. From luxury Mother's Day gifts to budget-friendly options, find the perfect way to celebrate Mother's Day with your loved one."
+        }
+      ]
+    },
+    "madrid": {
+      "title": "Why Madrid is Perfect for Celebrating Mother's Day",
+      "intro": "Madrid offers the perfect blend of romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From intimate Candlelight concerts to romantic restaurants in Malasaña, discover the best Mother's Day gifts for her and gifts for him in Spain's vibrant capital.",
+      "reasons": [
+        {
+          "title": "Romantic Parks & Iconic Spots",
+          "description": "El Retiro Park and illuminated streets create magical settings for Mother's Day. Find romantic Mother's Day ideas like sunset strolls and cozy terraces perfect for last-minute Mother's Day gifts and romantic experiences."
+        },
+        {
+          "title": "World-Class Romantic Restaurants",
+          "description": "From Michelin-starred restaurants to intimate tapas bars in La Latina, Madrid offers romantic restaurants for every couple. Perfect for Mother's Day gifts, these dining experiences create unforgettable romantic moments."
+        },
+        {
+          "title": "Cultural Experiences & Candlelight",
+          "description": "Intimate Candlelight concerts, flamenco shows, and cultural experiences make Madrid ideal for romantic Mother's Day ideas. Discover unique Mother's Day gifts and romantic experiences that celebrate love in style."
+        }
+      ]
+    },
+    "barcelona": {
+      "title": "Why Barcelona is Perfect for Celebrating Mother's Day",
+      "intro": "Barcelona combines Mediterranean romance with unique Mother's Day gifts and unforgettable date ideas. From romantic restaurants along the beach to intimate concerts in Gothic Quarter, find the perfect romantic Mother's Day ideas and Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Beachfront Romance & Views",
+          "description": "Barceloneta Beach and Montjuïc offer stunning sunset views perfect for romantic experiences. Discover last-minute Mother's Day gifts and romantic Mother's Day ideas with breathtaking Mediterranean backdrops."
+        },
+        {
+          "title": "Gastronomic Excellence",
+          "description": "From innovative Catalan cuisine to romantic restaurants in El Born, Barcelona offers exceptional dining experiences. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Architectural Romance & Culture",
+          "description": "Gaudí's masterpieces and Gothic Quarter create unique date ideas and romantic experiences. Find personalized Mother's Day gifts and romantic Mother's Day ideas that combine culture with romance."
+        }
+      ]
+    },
+    "valencia": {
+      "title": "Why Valencia is Perfect for Celebrating Mother's Day",
+      "intro": "Valencia offers romantic experiences along the Mediterranean with unique Mother's Day gifts and unforgettable date ideas. From romantic restaurants in the Old Town to beachside experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Beach Romance & City of Arts",
+          "description": "Malvarrosa Beach and the futuristic City of Arts and Sciences offer romantic experiences perfect for Mother's Day. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning coastal views."
+        },
+        {
+          "title": "Authentic Paella & Romantic Dining",
+          "description": "Valencia's romantic restaurants serve authentic paella and Mediterranean cuisine perfect for romantic experiences. Ideal Mother's Day gifts include intimate dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Historic Charm & Modern Romance",
+          "description": "The historic Old Town and Turia Gardens provide unique date ideas and romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this perfect blend of history and romance."
+        }
+      ]
+    },
+    "london": {
+      "title": "Why London is Perfect for Celebrating Mother's Day",
+      "intro": "London offers world-class romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Covent Garden to intimate West End shows, discover the best Mother's Day gifts for her and gifts for him in the UK capital.",
+      "reasons": [
+        {
+          "title": "Iconic Romantic Landmarks",
+          "description": "Thames River walks, Hyde Park, and London Eye create magical settings for romantic Mother's Day ideas. Find last-minute Mother's Day gifts and romantic experiences with iconic British charm."
+        },
+        {
+          "title": "Michelin-Starred & Intimate Dining",
+          "description": "From Mayfair's luxury restaurants to cozy pubs, London offers romantic restaurants for every couple. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "West End Shows & Candlelight",
+          "description": "Intimate Candlelight concerts and West End musicals provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas that celebrate love in style."
+        }
+      ]
+    },
+    "paris": {
+      "title": "Why Paris is Perfect for Celebrating Mother's Day",
+      "intro": "Paris, the City of Love, offers unparalleled romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants with Eiffel Tower views to intimate Seine cruises, find the perfect romantic Mother's Day ideas and Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "The City of Love & Romance",
+          "description": "Eiffel Tower, Montmartre, and Seine River create the ultimate romantic experiences. Discover last-minute Mother's Day gifts and romantic Mother's Day ideas in the world's most romantic city."
+        },
+        {
+          "title": "Gourmet Excellence & Intimate Dining",
+          "description": "From Michelin-starred restaurants to charming bistros, Paris offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Art, Culture & Romantic Moments",
+          "description": "Louvre, intimate Candlelight concerts, and charming cafés provide unique date ideas. Find personalized Mother's Day gifts and romantic Mother's Day ideas that celebrate love in true Parisian style."
+        }
+      ]
+    },
+    "new-york": {
+      "title": "Why New York is Perfect for Celebrating Mother's Day",
+      "intro": "New York offers iconic romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants with skyline views to Broadway shows, discover the best Mother's Day gifts for her and gifts for him in the Big Apple.",
+      "reasons": [
+        {
+          "title": "Iconic Skyline & Central Park",
+          "description": "Central Park, Brooklyn Bridge, and Empire State Building create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning city views."
+        },
+        {
+          "title": "World-Class Dining & Rooftop Romance",
+          "description": "From Michelin-starred restaurants to romantic rooftop bars, NYC offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Broadway Shows & Intimate Concerts",
+          "description": "Broadway musicals and intimate Candlelight concerts provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas that celebrate love in NYC style."
+        }
+      ]
+    },
+    "los-angeles": {
+      "title": "Why Los Angeles is Perfect for Celebrating Mother's Day",
+      "intro": "Los Angeles offers glamorous romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Beverly Hills to beachside experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Beach Romance & Hollywood Glamour",
+          "description": "Malibu beaches, Griffith Observatory, and Sunset Boulevard create perfect romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning Pacific views."
+        },
+        {
+          "title": "Celebrity Chefs & Intimate Dining",
+          "description": "From celebrity restaurants to romantic beachfront dining, LA offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Entertainment & Unique Date Ideas",
+          "description": "Hollywood Bowl concerts, intimate Candlelight experiences, and rooftop bars provide unique date ideas. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in the entertainment capital."
+        }
+      ]
+    },
+    "chicago": {
+      "title": "Why Chicago is Perfect for Celebrating Mother's Day",
+      "intro": "Chicago offers vibrant romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants along the Magnificent Mile to intimate jazz clubs, find the perfect romantic Mother's Day ideas and Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Lakefront Romance & Architecture",
+          "description": "Lake Michigan, Millennium Park, and iconic architecture create magical romantic experiences. Discover last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning lakefront views."
+        },
+        {
+          "title": "Award-Winning Dining Scene",
+          "description": "From Michelin-starred restaurants to intimate River North spots, Chicago offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Jazz & Intimate Concerts",
+          "description": "Jazz clubs and intimate Candlelight concerts provide unique romantic experiences. Find personalized Mother's Day gifts and romantic Mother's Day ideas that celebrate love in the Windy City."
+        }
+      ]
+    },
+    "miami": {
+      "title": "Why Miami is Perfect for Celebrating Mother's Day",
+      "intro": "Miami offers tropical romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in South Beach to intimate Art Deco experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Tropical Beach Romance",
+          "description": "South Beach, Key Biscayne, and oceanfront views create perfect romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning tropical backdrops."
+        },
+        {
+          "title": "Latin Fusion & Rooftop Dining",
+          "description": "From Cuban cuisine to romantic rooftop restaurants, Miami offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Art Deco & Nightlife Romance",
+          "description": "Art Deco District, intimate Candlelight concerts, and vibrant nightlife provide unique date ideas. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this tropical paradise."
+        }
+      ]
+    },
+    "san-francisco": {
+      "title": "Why San Francisco is Perfect for Celebrating Mother's Day",
+      "intro": "San Francisco offers charming romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants with Golden Gate views to intimate wine country experiences, find romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Iconic Bridges & Bay Views",
+          "description": "Golden Gate Bridge, Alcatraz views, and Pacific Heights create magical romantic experiences. Discover last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning bay views."
+        },
+        {
+          "title": "Culinary Excellence & Wine Country",
+          "description": "From Michelin-starred restaurants to Napa Valley experiences, SF offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Intimate Concerts & Cultural Romance",
+          "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences. Find personalized Mother's Day gifts and romantic Mother's Day ideas that celebrate love in the Bay Area."
+        }
+      ]
+    },
+    "lisbon": {
+      "title": "Why Lisbon is Perfect for Celebrating Mother's Day",
+      "intro": "Lisbon offers charming romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Alfama to intimate Fado experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Historic Hills & River Views",
+          "description": "Tagus River, historic trams, and Miradouros create perfect romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning Portuguese charm."
+        },
+        {
+          "title": "Authentic Portuguese Cuisine",
+          "description": "From traditional tascas to romantic restaurants in Chiado, Lisbon offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Fado & Intimate Cultural Experiences",
+          "description": "Intimate Fado shows and Candlelight concerts provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this enchanting European capital."
+        }
+      ]
+    },
+    "sao-paulo": {
+      "title": "Why São Paulo is Perfect for Celebrating Mother's Day",
+      "intro": "São Paulo offers vibrant romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Jardins to intimate cultural experiences, find romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Urban Romance & Cultural Diversity",
+          "description": "Ibirapuera Park, Paulista Avenue, and diverse neighborhoods create unique romantic experiences. Discover last-minute Mother's Day gifts and romantic Mother's Day ideas in Brazil's cultural capital."
+        },
+        {
+          "title": "World-Class Gastronomy",
+          "description": "From innovative Brazilian cuisine to romantic restaurants in Vila Madalena, SP offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Live Music & Intimate Concerts",
+          "description": "Intimate Candlelight concerts and live music venues provide unique romantic experiences. Find personalized Mother's Day gifts and romantic Mother's Day ideas that celebrate love in São Paulo style."
+        }
+      ]
+    },
+    "mexico-city": {
+      "title": "Why Mexico City is Perfect for Celebrating Mother's Day",
+      "intro": "Mexico City offers vibrant romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Polanco to intimate cultural experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Historic Romance & Modern Charm",
+          "description": "Chapultepec Park, Zócalo, and colorful neighborhoods create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with rich cultural heritage."
+        },
+        {
+          "title": "Exceptional Mexican Cuisine",
+          "description": "From traditional markets to romantic restaurants in Roma, CDMX offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Mariachi & Cultural Experiences",
+          "description": "Intimate Candlelight concerts and mariachi performances provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this vibrant capital."
+        }
+      ]
+    },
+    "berlin": {
+      "title": "Why Berlin is Perfect for Celebrating Mother's Day",
+      "intro": "Berlin offers unique romantic experiences, distinctive Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Mitte to intimate cultural experiences, find romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Historic Charm & Modern Romance",
+          "description": "Brandenburg Gate, Museum Island, and vibrant neighborhoods create unique romantic experiences. Discover last-minute Mother's Day gifts and romantic Mother's Day ideas in Germany's dynamic capital."
+        },
+        {
+          "title": "Innovative Dining & Cozy Cafés",
+          "description": "From innovative German cuisine to romantic restaurants in Prenzlauer Berg, Berlin offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Intimate Concerts & Cultural Scene",
+          "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences. Find personalized Mother's Day gifts and romantic Mother's Day ideas that celebrate love in Berlin style."
+        }
+      ]
+    },
+    "sydney": {
+      "title": "Why Sydney is Perfect for Celebrating Mother's Day",
+      "intro": "Sydney offers stunning romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants with harbor views to intimate beach experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Harbor Romance & Iconic Views",
+          "description": "Sydney Opera House, Harbour Bridge, and Bondi Beach create perfect romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning harbor views."
+        },
+        {
+          "title": "World-Class Dining & Waterfront",
+          "description": "From award-winning restaurants to romantic waterfront dining, Sydney offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Intimate Concerts & Beach Romance",
+          "description": "Intimate Candlelight concerts and beachside experiences provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this beautiful harbor city."
+        }
+      ]
+    },
+    "melbourne": {
+      "title": "Why Melbourne is Perfect for Celebrating Mother's Day",
+      "intro": "Melbourne offers sophisticated romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in laneways to intimate cultural experiences, find romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Laneway Romance & Cultural Charm",
+          "description": "Hidden laneways, Yarra River, and vibrant arts scene create unique romantic experiences. Discover last-minute Mother's Day gifts and romantic Mother's Day ideas in Australia's cultural capital."
+        },
+        {
+          "title": "Culinary Excellence & Coffee Culture",
+          "description": "From world-class restaurants to romantic laneway cafés, Melbourne offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Intimate Concerts & Arts Scene",
+          "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences. Find personalized Mother's Day gifts and romantic Mother's Day ideas that celebrate love in Melbourne style."
+        }
+      ]
+    },
+    "dublin": {
+      "title": "Why Dublin is Perfect for Celebrating Mother's Day",
+      "intro": "Dublin offers charming romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Temple Bar to intimate pub experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        {
+          "title": "Historic Romance & River Liffey",
+          "description": "Temple Bar, Trinity College, and Georgian architecture create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with Irish charm."
+        },
+        {
+          "title": "Traditional Pubs & Modern Dining",
+          "description": "From cozy pubs to romantic restaurants in Dublin Castle area, Dublin offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him."
+        },
+        {
+          "title": "Live Music & Intimate Concerts",
+          "description": "Intimate Candlelight concerts and traditional Irish music provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this enchanting capital."
+        }
+      ]
+    },
+    "lyon": {
+      "title": "Why Lyon is Perfect for Celebrating Mother's Day",
+      "intro": "Lyon offers exceptional romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Vieux Lyon to intimate cultural experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Gastronomic Romance", "description": "Lyon's bouchons and Michelin-starred restaurants create perfect romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with world-class dining." },
+        { "title": "Historic Charm & River Views", "description": "Fourvière, Presqu'île, and the Rhône create magical romantic experiences. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in France's gastronomic capital." }
+      ]
+    },
+    "washington-dc": {
+      "title": "Why Washington DC is Perfect for Celebrating Mother's Day",
+      "intro": "Washington DC offers iconic romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants near the National Mall to intimate cultural experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Monuments & Cherry Blossoms", "description": "National Mall, monuments, and seasonal beauty create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with iconic views." },
+        { "title": "World-Class Dining", "description": "From fine dining to romantic restaurants in Georgetown, DC offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and museums provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in the nation's capital." }
+      ]
+    },
+    "san-diego": {
+      "title": "Why San Diego is Perfect for Celebrating Mother's Day",
+      "intro": "San Diego offers sunny romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants on the waterfront to intimate beach experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Beach Romance & Harbor Views", "description": "La Jolla, Gaslamp Quarter, and Pacific sunsets create perfect romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with stunning coastal views." },
+        { "title": "Waterfront Dining", "description": "From seafood to romantic restaurants in Little Italy, San Diego offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and Balboa Park provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in America's Finest City." }
+      ]
+    },
+    "atlanta": {
+      "title": "Why Atlanta is Perfect for Celebrating Mother's Day",
+      "intro": "Atlanta offers Southern romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Buckhead to intimate cultural experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Southern Charm & Gardens", "description": "Botanical gardens, BeltLine, and Southern hospitality create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with Atlanta charm." },
+        { "title": "Culinary Excellence", "description": "From Southern cuisine to romantic restaurants in Midtown, Atlanta offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in the capital of the South." }
+      ]
+    },
+    "austin": {
+      "title": "Why Austin is Perfect for Celebrating Mother's Day",
+      "intro": "Austin offers vibrant romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants on Sixth Street to intimate live music experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Live Music & River Romance", "description": "Lady Bird Lake, live music venues, and Texas charm create perfect romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in the Live Music Capital." },
+        { "title": "Food Scene & Rooftop Dining", "description": "From BBQ to romantic restaurants downtown, Austin offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural events provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this vibrant city." }
+      ]
+    },
+    "hamburg": {
+      "title": "Why Hamburg is Perfect for Celebrating Mother's Day",
+      "intro": "Hamburg offers maritime romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in the Speicherstadt to intimate harbor experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Harbor Romance & Elbphilharmonie", "description": "Port, Elbe River, and iconic architecture create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with harbor views." },
+        { "title": "Culinary Excellence", "description": "From fish market to romantic restaurants in HafenCity, Hamburg offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and musical venues provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in Germany's gateway to the world." }
+      ]
+    },
+    "vienna": {
+      "title": "Why Vienna is Perfect for Celebrating Mother's Day",
+      "intro": "Vienna offers imperial romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in the Innere Stadt to intimate coffee house experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Imperial Romance & Architecture", "description": "Hofburg, Schönbrunn, and Ringstraße create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in the City of Music." },
+        { "title": "Coffee Houses & Fine Dining", "description": "From traditional coffee houses to romantic restaurants, Vienna offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Music & Intimate Concerts", "description": "Intimate Candlelight concerts and classical music provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this elegant capital." }
+      ]
+    },
+    "brisbane": {
+      "title": "Why Brisbane is Perfect for Celebrating Mother's Day",
+      "intro": "Brisbane offers sunny romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants along the River Walk to intimate cultural experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "River Romance & South Bank", "description": "Brisbane River, South Bank Parklands, and subtropical charm create perfect romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with river views." },
+        { "title": "Rooftop & Waterfront Dining", "description": "From riverside to romantic restaurants in Fortitude Valley, Brisbane offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in Queensland's capital." }
+      ]
+    },
+    "toronto": {
+      "title": "Why Toronto is Perfect for Celebrating Mother's Day",
+      "intro": "Toronto offers diverse romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Yorkville to intimate harbor experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Waterfront & CN Tower Romance", "description": "Harbourfront, CN Tower, and diverse neighborhoods create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas with skyline views." },
+        { "title": "World-Class Dining", "description": "From multicultural cuisine to romantic restaurants in Distillery District, Toronto offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in Canada's largest city." }
+      ]
+    },
+    "buenos-aires": {
+      "title": "Why Buenos Aires is Perfect for Celebrating Mother's Day",
+      "intro": "Buenos Aires offers passionate romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Palermo to intimate tango experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Tango & Historic Romance", "description": "Tango, Recoleta, and European charm create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in the Paris of South America." },
+        { "title": "Steak & Rooftop Dining", "description": "From parrillas to romantic restaurants in San Telmo, Buenos Aires offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and milongas provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this vibrant capital." }
+      ]
+    },
+    "montreal": {
+      "title": "Why Montréal is Perfect for Celebrating Mother's Day",
+      "intro": "Montréal offers French-Canadian romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Old Montréal to intimate cultural experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Old Town Romance & Mount Royal", "description": "Old Montréal, Mount Royal, and European charm create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in North America's francophone capital." },
+        { "title": "Culinary Excellence", "description": "From poutine to romantic restaurants in Plateau, Montréal offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and festivals provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this bilingual city." }
+      ]
+    },
+    "montréal": {
+      "title": "Why Montréal is Perfect for Celebrating Mother's Day",
+      "intro": "Montréal offers French-Canadian romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Old Montréal to intimate cultural experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Old Town Romance & Mount Royal", "description": "Old Montréal, Mount Royal, and European charm create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in North America's francophone capital." },
+        { "title": "Culinary Excellence", "description": "From poutine to romantic restaurants in Plateau, Montréal offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and festivals provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this bilingual city." }
+      ]
+    },
+    "munchen": {
+      "title": "Why München is Perfect for Celebrating Mother's Day",
+      "intro": "München offers Bavarian romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in the Altstadt to intimate beer garden experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Marienplatz & English Garden", "description": "Marienplatz, English Garden, and Bavarian charm create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in the heart of Bavaria." },
+        { "title": "Beer Gardens & Fine Dining", "description": "From beer gardens to romantic restaurants in Schwabing, München offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in Germany's cultural capital." }
+      ]
+    },
+    "münchen": {
+      "title": "Why München is Perfect for Celebrating Mother's Day",
+      "intro": "München offers Bavarian romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in the Altstadt to intimate beer garden experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Marienplatz & English Garden", "description": "Marienplatz, English Garden, and Bavarian charm create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in the heart of Bavaria." },
+        { "title": "Beer Gardens & Fine Dining", "description": "From beer gardens to romantic restaurants in Schwabing, München offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in Germany's cultural capital." }
+      ]
+    },
+    "roma": {
+      "title": "Why Rome is Perfect for Celebrating Mother's Day",
+      "intro": "Rome offers eternal romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Trastevere to intimate cultural experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Ancient Romance & Trevi Fountain", "description": "Colosseum, Trevi Fountain, and historic streets create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in the Eternal City." },
+        { "title": "Roman Cuisine & Rooftop Dining", "description": "From traditional trattorias to romantic restaurants near the Pantheon, Rome offers exceptional romantic restaurants. Ideal Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in the capital of la dolce vita." }
+      ]
+    },
+    "milano": {
+      "title": "Why Milan is Perfect for Celebrating Mother's Day",
+      "intro": "Milan offers stylish romantic experiences, unique Mother's Day gifts, and unforgettable date ideas. From romantic restaurants in Navigli to intimate fashion district experiences, discover romantic Mother's Day ideas and perfect Mother's Day gifts for couples.",
+      "reasons": [
+        { "title": "Duomo & Navigli Romance", "description": "Duomo, Navigli canals, and Italian style create magical romantic experiences. Find last-minute Mother's Day gifts and romantic Mother's Day ideas in Italy's fashion capital." },
+        { "title": "Fine Dining & Aperitivo", "description": "From Michelin-starred to romantic restaurants in Brera, Milan offers exceptional romantic restaurants. Perfect Mother's Day gifts include romantic dinners with gifts for her and gifts for him." },
+        { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and La Scala provide unique romantic experiences. Discover personalized Mother's Day gifts and romantic Mother's Day ideas in this design capital." }
+      ]
+    }
+  },
+  "CategoryPages": {
+    "gifts": {
+      "title": "Mother's Day Gifts in {city}",
+      "subtitle": "Find the perfect gift for your loved one",
+      "metaTitle": "Mother's Day Gifts in {city} 2026 | Gifts for Her & Him",
+      "metaDescription": "Find the perfect Mother's Day gifts in {city}. Discover unique gifts for her and him, romantic experiences, and last-minute gift ideas. Book now for 2026.",
+      "heroTitle": "The Perfect Mother's Day Gifts in {city}",
+      "heroSubtitle": "Discover unforgettable gifts and experiences",
+      "introSection": {
+        "title": "The Perfect Mother's Day Gifts in {city}",
+        "paragraph1": "Finding the perfect Mother's Day gift in {city} is about creating unforgettable moments. Whether you're looking for romantic experiences, unique presents, or last-minute ideas, {city} offers an incredible selection of gifts that show your love and appreciation.",
+        "paragraph2": "{city} is renowned for its diverse range of Mother's Day gift options. From intimate Candlelight concerts to exclusive romantic experiences, the city provides countless opportunities to surprise your loved one with something truly special this Mother's Day 2026.",
+        "paragraph3": "Our curated selection includes romantic experiences, unique date ideas, wellness activities, and exclusive events. Each gift is carefully chosen to create lasting memories and celebrate your love in the most meaningful way."
+      },
+      "giftsForHer": {
+        "title": "Mother's Day Gifts for Her in {city}",
+        "paragraph1": "When it comes to finding the perfect Mother's Day gifts for her in {city}, romantic experiences often create the most lasting memories. From intimate Candlelight concerts featuring her favorite music to exclusive spa experiences and romantic workshops, {city} offers unique gifts that go beyond traditional presents.",
+        "paragraph2": "Consider booking a romantic Candlelight concert in one of {city}'s most beautiful venues. These intimate experiences combine beautiful music with stunning settings, creating an unforgettable evening. Other popular gifts for her include wellness experiences, romantic cooking classes, and exclusive cultural events.",
+        "paragraph3": "For those seeking something truly unique, {city} offers exclusive romantic experiences that can't be found anywhere else. These carefully curated gifts show thoughtfulness and create moments she'll remember forever."
+      },
+      "giftsForHim": {
+        "title": "Mother's Day Gifts for Him in {city}",
+        "paragraph1": "Finding meaningful Mother's Day gifts for him in {city} means choosing experiences that match his interests. From exciting concerts and cultural events to unique activities and romantic experiences, {city} provides diverse options for every type of partner.",
+        "paragraph2": "Many partners appreciate experiential gifts over material items. Consider booking tickets to a concert featuring his favorite genre, an exclusive cultural experience, or a romantic activity you can enjoy together. {city}'s vibrant scene offers everything from intimate music performances to unique date experiences.",
+        "paragraph3": "The best Mother's Day gifts for him in {city} combine his interests with romantic moments you can share. Whether he loves music, culture, food, or adventure, you'll find the perfect gift that creates lasting memories."
+      },
+      "lastMinuteGifts": {
+        "title": "Last-Minute Mother's Day Gifts in {city}",
+        "paragraph1": "Forgot to plan ahead? Don't worry - {city} offers excellent last-minute Mother's Day gift options. Many romantic experiences and events have same-day availability, allowing you to create a perfect celebration even with short notice.",
+        "paragraph2": "Last-minute Mother's Day gifts in {city} include same-day concert tickets, available restaurant reservations, and immediate booking experiences. These options ensure you can still give your loved one an unforgettable Mother's Day, even if you're planning at the last moment."
+      },
+      "cta": "Explore our curated selection of Mother's Day gifts in {city} and book the perfect experience for your loved one."
+    },
+    "restaurants": {
+      "title": "Romantic Restaurants in {city}",
+      "subtitle": "Discover the best dining experiences for Mother's Day",
+      "metaTitle": "Romantic Restaurants in {city} | Mother's Day 2026",
+      "metaDescription": "Discover the best romantic restaurants in {city} for Mother's Day 2026. Fine dining, intimate venues, and romantic dinners. Make your reservation today.",
+      "heroTitle": "Romantic Restaurants in {city} for Mother's Day",
+      "heroSubtitle": "Discover exceptional dining experiences",
+      "introSection": {
+        "title": "Romantic Restaurants in {city} for Mother's Day",
+        "paragraph1": "A romantic dinner is one of the most cherished Mother's Day traditions, and {city} offers some of the world's most exceptional dining experiences. From Michelin-starred establishments to intimate hidden gems, the city's restaurant scene provides the perfect setting for celebrating love.",
+        "paragraph2": "{city} is home to an incredible variety of romantic restaurants, each offering unique atmospheres, exceptional cuisine, and unforgettable experiences. Whether you're seeking fine dining elegance, cozy intimate venues, or restaurants with breathtaking views, you'll find the perfect spot for your Mother's Day celebration.",
+        "paragraph3": "Our carefully curated selection features the best romantic restaurants in {city}, chosen for their ambiance, culinary excellence, and ability to create magical moments. Each venue offers something special, from candlelit dinners to rooftop dining with city views."
+      },
+      "fineDining": {
+        "title": "Fine Dining & Michelin Stars in {city}",
+        "paragraph1": "For couples seeking the ultimate romantic dining experience, {city} boasts an impressive selection of fine dining restaurants and Michelin-starred establishments. These venues combine world-class cuisine with impeccable service and elegant atmospheres, creating unforgettable Mother's Day memories.",
+        "paragraph2": "Fine dining restaurants in {city} offer meticulously crafted tasting menus, exceptional wine pairings, and intimate settings perfect for special occasions. Many feature private dining rooms, chef's tables, and exclusive experiences that make your Mother's Day celebration truly extraordinary."
+      },
+      "intimateVenues": {
+        "title": "Intimate & Cozy Venues in {city}",
+        "paragraph1": "Sometimes the most romantic restaurants are the intimate, cozy venues that feel like hidden secrets. {city} is filled with charming bistros, candlelit trattorias, and intimate dining spaces that create the perfect atmosphere for a romantic Mother's Day dinner.",
+        "paragraph2": "These intimate restaurants in {city} offer warm, welcoming atmospheres where you can focus entirely on each other. With soft lighting, comfortable seating, and attentive service, these venues provide the ideal setting for meaningful conversations and romantic moments."
+      },
+      "restaurantsWithViews": {
+        "title": "Restaurants with Stunning Views in {city}",
+        "paragraph1": "For a truly spectacular Mother's Day dinner, consider one of {city}'s restaurants with breathtaking views. Whether overlooking the city skyline, waterfront, or iconic landmarks, these venues combine exceptional cuisine with unforgettable vistas that make your celebration even more special."
+      },
+      "cta": "Browse our selection of romantic restaurants in {city} and make your Mother's Day reservation today."
+    },
+    "ideas": {
+      "title": "Romantic Mother's Day Ideas in {city}",
+      "subtitle": "Create unforgettable moments together",
+      "metaTitle": "Mother's Day Ideas in {city} | Romantic Date Ideas 2026",
+      "metaDescription": "Explore romantic Mother's Day ideas in {city}. Unique date ideas, couple activities, and unforgettable experiences for Mother's Day 2026. Book now.",
+      "heroTitle": "Romantic Mother's Day Ideas in {city}",
+      "heroSubtitle": "Discover unique experiences to celebrate love",
+      "introSection": {
+        "title": "Romantic Mother's Day Ideas in {city}",
+        "paragraph1": "Creating unforgettable Mother's Day moments in {city} means going beyond the ordinary. The city offers an incredible array of romantic experiences, unique date ideas, and special activities designed to help couples celebrate their love in meaningful ways.",
+        "paragraph2": "{city} is known for its vibrant cultural scene, beautiful settings, and diverse range of romantic activities. From intimate concerts and cultural experiences to unique workshops and wellness activities, the city provides countless opportunities to create lasting memories together.",
+        "paragraph3": "Whether you're planning a grand romantic gesture or seeking intimate moments to share, {city} offers Mother's Day ideas that suit every couple's style and preferences. Each experience is carefully selected to help you celebrate love in the most special way."
+      },
+      "romanticExperiences": {
+        "title": "Romantic Experiences in {city}",
+        "paragraph1": "Romantic experiences in {city} go far beyond traditional dates. The city offers intimate Candlelight concerts in stunning venues, exclusive cultural events, and unique activities designed specifically for couples. These experiences create deep connections and unforgettable memories.",
+        "paragraph2": "From classical music performances in historic settings to modern cultural experiences, {city}'s romantic offerings combine artistry with intimacy. Each experience is designed to help you connect, celebrate, and create moments that strengthen your bond."
+      },
+      "uniqueDateIdeas": {
+        "title": "Unique Date Ideas in {city}",
+        "paragraph1": "Looking for something different this Mother's Day? {city} offers unique date ideas that break away from the ordinary. Consider romantic workshops where you can create something together, exclusive cultural tours, or intimate experiences in the city's most beautiful locations.",
+        "paragraph2": "These unique date ideas in {city} are designed to help you discover new things about each other while creating shared memories. From cooking classes to art experiences, each activity offers a chance to connect in meaningful ways."
+      },
+      "coupleActivities": {
+        "title": "Couple Activities in {city}",
+        "paragraph1": "Mother's Day in {city} is the perfect time to explore couple activities that bring you closer together. The city offers everything from wellness experiences and spa days to adventurous activities and cultural explorations, all designed for couples to enjoy together."
+      },
+      "cta": "Explore our curated Mother's Day ideas in {city} and book the perfect experience for you and your loved one."
+    },
+    "lastMinute": {
+      "title": "Last-Minute Mother's Day Plans in {city}",
+      "subtitle": "Perfect plans available now",
+      "metaTitle": "Last-Minute Mother's Day Plans in {city} | Same Day 2026",
+      "metaDescription": "Last-minute Mother's Day plans in {city}. Same-day reservations, urgent gift ideas, and romantic experiences available now for 2026.",
+      "heroTitle": "Last-Minute Mother's Day Plans in {city}",
+      "heroSubtitle": "Still time to create the perfect celebration",
+      "introSection": {
+        "title": "Last-Minute Mother's Day Plans in {city}",
+        "paragraph1": "Forgot to plan ahead? Don't worry - {city} offers excellent last-minute Mother's Day options that can still create an unforgettable celebration. Many romantic experiences, restaurants, and activities have same-day availability, ensuring you can still give your loved one a perfect Mother's Day.",
+        "paragraph2": "Even with short notice, you can find incredible romantic experiences in {city}. The city's vibrant scene includes restaurants with last-minute reservations, concerts with available tickets, and experiences that can be booked immediately for same-day enjoyment.",
+        "paragraph3": "Our last-minute Mother's Day plans in {city} are carefully selected to ensure quality and availability. Each option offers the opportunity to create special moments, even when planning at the last moment."
+      },
+      "sameDayReservations": {
+        "title": "Same-Day Reservations in {city}",
+        "paragraph1": "Many of {city}'s best romantic restaurants and experiences offer same-day reservations, making it possible to plan a perfect Mother's Day celebration even at the last minute. These venues understand that sometimes the best plans are made spontaneously.",
+        "paragraph2": "Same-day Mother's Day reservations in {city} include intimate dining experiences, romantic activities, and special events that can be booked immediately. With flexible availability and exceptional quality, these options ensure your celebration is still perfect."
+      },
+      "urgentGiftIdeas": {
+        "title": "Urgent Gift Ideas in {city}",
+        "paragraph1": "Need a Mother's Day gift right away? {city} offers numerous urgent gift ideas that can be booked and enjoyed immediately. From same-day concert tickets to immediate booking experiences, you'll find options that show your love without the stress of advance planning.",
+        "paragraph2": "These urgent Mother's Day gift ideas in {city} include romantic experiences, activities, and events that are available now. Each option is carefully selected to ensure it's still special and meaningful, even when chosen at the last moment."
+      },
+      "availableNow": {
+        "title": "Available Now in {city}",
+        "paragraph1": "Many romantic experiences in {city} are available for immediate booking, allowing you to create a perfect Mother's Day celebration even with minimal planning. These experiences offer flexibility while maintaining the quality and romance that make Mother's Day special."
+      },
+      "cta": "Browse our last-minute Mother's Day plans in {city} and book your perfect celebration today."
+    }
+  }
+}

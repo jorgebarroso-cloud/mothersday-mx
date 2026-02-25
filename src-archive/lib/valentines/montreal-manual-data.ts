@@ -1,0 +1,117 @@
+// Manual data for Montreal - Plans added manually
+import { ValentinePlan } from './service';
+
+export const MONTREAL_MANUAL_PLANS: ValentinePlan[] = [
+  {
+    id: '386870',
+    title: 'Les rendez-vous musicaux Notre-Dame',
+    venue: 'Basilique Notre-Dame de Montréal, 110 Rue Notre-Dame Ouest',
+    price: 'From CA$24.50',
+    priceValue: 24.5,
+    link: 'https://feverup.com/m/386870',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/bb3c8dd6-ece2-11f0-864b-c29dd3fd6102.jpeg',
+    rank: 1,
+    categories: ['concerts-musicals-theater', 'valentines-related-events'],
+    city: 'montreal',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '531732',
+    title: 'Les soirées Notes en bouche',
+    venue: 'LABARAKE Caserne à Manger, 3165 Rue Rachel E',
+    price: 'CA$175',
+    priceValue: 175,
+    link: 'https://feverup.com/m/531732',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/6768f07e-db1b-11f0-beeb-e28f6973608b.jpeg',
+    rank: 2,
+    categories: ['food', 'valentines-related-events'],
+    city: 'montreal',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '545646',
+    title: 'Ballet of Lights : Cendrillon dans un spectacle étincelant',
+    venue: "L'Olympia, 1004 Rue Sainte-Catherine Est",
+    price: 'From CA$45.15',
+    priceValue: 45.15,
+    link: 'https://feverup.com/m/545646',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/4bfbb398-f7dc-11f0-8dd1-da314e8da062.jpg',
+    rank: 3,
+    categories: ['concerts-musicals-theater', 'valentines-related-events'],
+    city: 'montreal',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '192121',
+    title: 'Ballet of Lights : La Belle au bois dormant dans un spectacle étincelant',
+    venue: 'Théâtre Rialto, 5723 Avenue du Parc',
+    price: 'From CA$52.50',
+    priceValue: 52.5,
+    link: 'https://feverup.com/m/192121',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/b5203d7e-1940-11f0-9a0a-16541c266220.jpg',
+    rank: 4,
+    categories: ['concerts-musicals-theater', 'valentines-related-events'],
+    city: 'montreal',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '368260',
+    title: 'La Grande Roue de Montréal - VIP',
+    venue: 'La Grande Roue de Montréal, 362 Rue de la Commune Est',
+    price: 'From CA$84',
+    priceValue: 84,
+    link: 'https://feverup.com/m/368260',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/0158f290-bee5-11f0-a1c2-b235ccc3a7be.png',
+    rank: 5,
+    categories: ['experiences-and-exhibitions', 'valentines-related-events'],
+    city: 'montreal',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '429314',
+    title: 'Festilumi',
+    venue: 'Festilumi - Marché Central, 315 rue du Marché-Central',
+    price: 'From CA$34.95',
+    priceValue: 34.95,
+    link: 'https://feverup.com/m/429314',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/ef76e5b0-b89e-11f0-a9d8-36fad2b83101.png',
+    rank: 6,
+    categories: ['experiences-and-exhibitions', 'valentines-related-events'],
+    city: 'montreal',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '91754',
+    title: 'Visite guidée et bières artisanales au quartier latin !',
+    venue: 'Le Saint Bock, 1749 Rue Saint-Denis',
+    price: 'CA$117.95',
+    priceValue: 117.95,
+    link: 'https://feverup.com/m/91754',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/8aec1fde-f8d4-11ea-bf03-06551cb39bc6.jpg',
+    rank: 7,
+    categories: ['food', 'valentines-related-events'],
+    city: 'montreal',
+    isCandlelight: false,
+    eventDates: []
+  },
+  {
+    id: '531055',
+    title: 'Les soirées Notes en Bouche',
+    venue: 'LABARAKE Caserne à Manger, 3165 Rue Rachel E',
+    price: 'CA$175',
+    priceValue: 175,
+    link: 'https://feverup.com/m/531055',
+    imageUrl: 'https://applications-media.feverup.com/image/upload/f_auto,w_720,h_720/fever2/plan/photo/522db0ee-dc49-11f0-a406-4a4f98c4225e.jpeg',
+    rank: 8,
+    categories: ['food', 'valentines-related-events'],
+    city: 'montreal',
+    isCandlelight: false,
+    eventDates: []
+  }
+];

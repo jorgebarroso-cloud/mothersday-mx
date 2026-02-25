@@ -1,0 +1,28 @@
+{
+  "totalLinks": 2,
+  "samples": [
+    {
+      "name": "",
+      "href": "https://feverup.com/m/163280",
+      "cardTag": "A",
+      "imgInfo": {
+        "tag": "IMG",
+        "attrs": {
+          "_ngcontent-serverapp-c1184691278": "",
+          "uselegacyimageformatsifnecessary": "",
+          "alt": "Afternoon Tea at Shakedown",
+          "src": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+          "class": " ng-lazyloading"
+        }
+      },
+      "htmlSlice": "<a _ngcontent-serverapp-c1184691278=\"\" data-testid=\"fv-plan-card\" appexcludefilterqueryparamswithoptions=\"\" class=\"fv-plan-card-v2 fv-plan-card-v2--light\" title=\"Afternoon Tea at Shakedown - The Dixon, Tower Bridge, Autograph Collection\" href=\"https://feverup.com/m/163280\"><!----><img _ngcontent-serverapp-c1184691278=\"\" uselegacyimageformatsifnecessary=\"\" alt=\"Afternoon Tea at Shakedown\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" class=\" ng-lazyloading\"><!----><!----><!----></a>"
+    },
+    {
+      "name": "The Dixon, Tower Bridge, Autograph Collection Afternoon Tea ",
+      "href": "https://feverup.com/m/163280",
+      "cardTag": "A",
+      "imgInfo": null,
+      "htmlSlice": "<a _ngcontent-serverapp-c1184691278=\"\" data-testid=\"fv-plan-card\" appexcludefilterqueryparamswithoptions=\"\" class=\"fv-plan-card-v2 fv-plan-card-v2--light\" title=\"Afternoon Tea at Shakedown - The Dixon, Tower Bridge, Autograph Collection\" href=\"https://feverup.com/m/163280\"><div _ngcontent-serverapp-c1184691278=\"\" class=\"fv-plan-card-v2__content\"><div _ngcontent-serverapp-c1184691278=\"\"><!----><div _ngcontent-serverapp-c1184691278=\"\" data-testid=\"fv-plan-card-v2__location-v2\" class=\"fv-plan-card-v2__location-v2\"><app-plan-location _ngcontent-serverapp-c1184691278=\"\" _nghost-serverapp-c2950554128=\"\"><div _ngcontent-serverapp-c2950554128=\"\" data-testid=\"fv-plan-location\" class=\"fv-plan-location fv-plan-location--light fv-plan-location--small\"><fv-fa-icon _ngcontent-serverapp-c2950554128=\"\" cl"
+    }
+  ]
+}

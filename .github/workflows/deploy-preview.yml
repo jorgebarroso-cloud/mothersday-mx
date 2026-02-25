@@ -1,0 +1,56 @@
+# Deploy preview to GitHub Pages (static site under /repo-name/).
+# Enable in repo: Settings > Pages > Build and deployment > Source: GitHub Actions.
+name: Deploy preview
+
+on:
+  push:
+    branches: [feature/colvin-design]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: github_pages
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare for GitHub Pages (inject base href)
+        run: |
+          REPO_NAME="${{ github.event.repository.name }}"
+          BASE_HREF="/${REPO_NAME}/"
+          echo "Base href: $BASE_HREF"
+          mkdir -p _site
+          cp -r . _site/
+          cd _site
+          find . -name "*.html" -type f | while read f; do
+            sed -i "s|<head\\([^>]*\\)>|&<base href=\"${BASE_HREF}\">|" "$f"
+          done
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy-pages:
+    needs: deploy
+    runs-on: ubuntu-latest
+    environment: github_pages
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

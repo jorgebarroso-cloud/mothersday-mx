@@ -1,0 +1,735 @@
+{
+  "Hero": {
+    "title": "Dia das Mães 2026 Inesquecível:",
+    "subtitle": "Planos Românticos e Experiências Extraordinárias",
+    "description": "Jantares românticos, experiências íntimas e escapadelas selecionadas nas cidades mais românticas do mundo.",
+    "searchPlaceholder": "Onde você está? (ex: Paris, Madrid)",
+    "searchButton": "Pesquisar",
+    "cityTitle": "Dia das Mães",
+    "citySubtitle": "em {city}",
+    "cityDescription": "Descubra as melhores ideias, presentes, restaurantes e experiências românticas para o Dia das Mães em {city}"
+  },
+  "GlobalGuide": {
+    "title": "Seu Guia Global do Dia das Mães",
+    "description1": "Celebratevalentines.com é o seu guia global de experiências do Dia das Mães, ajudando casais a encontrar os melhores presentes, restaurantes e ideias românticas em sua cidade.",
+    "description2": "De Nova York a Paris, Madrid a São Paulo, selecionamos os planos mais românticos para o Dia das Mães, onde quer que você esteja.",
+    "cta": "Explorar Todas as Cidades"
+  },
+  "CitySelector": {
+    "title": "Explore Planos Românticos por Cidade",
+    "searchPlaceholder": "🔍 Pesquise sua cidade (ex: Madrid, Paris...)",
+    "regionAll": "Todas",
+    "regionEurope": "Europa",
+    "regionAmerica": "América",
+    "regionOceania": "Oceania",
+    "resultsCount": "{count} {count, plural, =1 {cidade encontrada} other {cidades encontradas}}",
+    "noResults": "Nenhuma cidade encontrada",
+    "noResultsHelp": "Tente um termo de pesquisa diferente ou mude de região"
+  },
+  "Footer": {
+    "description": "Celebratevalentines.com é o seu guia global de experiências do Dia das Mães, ajudando casais a encontrar os melhores presentes, restaurantes e ideias românticas em sua cidade.",
+    "tagline": "De Nova York a Paris, Madrid a São Paulo, selecionamos os planos mais românticos para o Dia das Mães, onde quer que você esteja.",
+    "brand": "Celebrate Valentine's",
+    "madeWithLove": "Feito com amor",
+    "popularCities": "Cidades Populares",
+    "allCities": "Todas as Cidades",
+    "resources": "Recursos",
+    "languages": "Idiomas",
+    "home": "Início",
+    "contact": "Contato",
+    "legal": "Legal",
+    "termsOfService": "Termos de Serviço",
+    "privacyPolicy": "Política de Privacidade",
+    "cookiePolicy": "Política de Cookies",
+    "allRightsReserved": "Todos os direitos reservados.",
+    "website": "Website:",
+    "valentinesDayIn": "Dia das Mães em",
+    "viewAllCities": "Ver todas as cidades →",
+    "operatedBy": "Celebrate Valentine's é operado pela Fever Up Entertainment.",
+    "doNotSell": "Não vender minhas informações pessoais"
+  },
+  "CookieBanner": {
+    "message": "Usamos cookies para análise (ex. Google Analytics). Pode aceitar ou rejeitar cookies não essenciais. Ver Política de Cookies.",
+    "accept": "Aceitar",
+    "reject": "Rejeitar"
+  },
+  "LegalCookies": {
+    "title": "Política de Cookies",
+    "metaDescription": "Política de cookies do Celebrate Valentine's (celebratemothersday.com). Operador: Fever Up Entertainment.",
+    "intro": "Esta página explica como o Celebrate Valentine's utiliza cookies em celebratemothersday.com.",
+    "whoWeAre": "Quem somos",
+    "operator": "Este site é operado pela Fever Up Entertainment (mesma entidade legal que Fever).",
+    "domain": "Domínio: celebratemothersday.com.",
+    "whatCookies": "Que cookies utilizamos",
+    "cookiesWeUse": "Utilizamos os seguintes cookies:",
+    "cookieConsent": "cookie_consent: guarda a sua escolha (aceitar/rejeitar) para cookies não essenciais. Duração: 1 ano.",
+    "analytics": "Se aceitar: o Google Analytics (GA4) pode definir cookies. Pode rejeitar para desativar cookies de análise.",
+    "youCanReject": "Pode rejeitar cookies não essenciais a qualquer momento através do banner ou nas definições do navegador.",
+    "doNotSellTitle": "Não vender as minhas informações pessoais (CCPA)",
+    "doNotSellText": "Não vendemos os seus dados pessoais. Para limitar cookies de análise, escolha \"Rejeitar\" no banner de cookies.",
+    "moreInfo": "Mais informação",
+    "fullCookiePolicy": "Política de Cookies completa (Fever)",
+    "privacyPolicy": "Política de Privacidade (Fever)",
+    "lastUpdated": "Última atualização: janeiro 2026.",
+    "backToHome": "Voltar ao início"
+  },
+  "Common": {
+    "home": "Início",
+    "loading": "Carregando...",
+    "comingSoon": "Em breve!",
+    "notAvailable": "As experiências do Dia das Mães em {city} ainda não estão disponíveis.",
+    "checkBack": "Volte em breve ou explore outra cidade.",
+    "errorLoadingPage": "Erro ao Carregar a Página",
+    "pleaseTryAgainLater": "Por favor, tente novamente mais tarde",
+    "backTo": "Voltar para",
+    "priceRange": "Faixa de Preço",
+    "clearFilters": "Limpar Filtros",
+    "plan": "plano",
+    "plans": "planos",
+    "available": "disponíveis",
+    "noPlansFound": "Nenhum plano encontrado correspondente aos seus filtros. Tente ajustar seus critérios de pesquisa."
+  },
+  "Filters": {
+    "priceRange": "Faixa de Preço",
+    "date": "Data",
+    "cuisineType": "Tipo de Cozinha",
+    "ambiance": "Ambiente",
+    "recipient": "Destinatário",
+    "timeSlots": "Horários",
+    "clearAll": "Limpar Todos os Filtros"
+  },
+  "Header": {
+    "searchPlaceholder": "Pesquisar cidade...",
+    "giftNow": "PRESENTEAR AGORA",
+    "selectCity": "Selecionar Cidade"
+  },
+  "CategoryNav": {
+    "categories": "Categorias",
+    "price": "Preço",
+    "date": "Data",
+    "all": "Todas",
+    "candlelight": "🕯️ Candlelight",
+    "allExperiences": "Todas as Experiências"
+  },
+  "CityPage": {
+    "top3Title": "♥ Top 3 Escolhas Românticas ♥",
+    "top3Subtitle": "As experiências mais amadas para o Dia das Mães",
+    "allExperiencesTitle": "Todas as Experiências ♥",
+    "allExperiencesSubtitle": "Explore tudo que {city} tem para oferecer",
+    "candlelightTitle": "🕯️ Experiências Candlelight"
+  },
+  "DateFilter": {
+    "selectDates": "Selecionar datas",
+    "clear": "Limpar",
+    "apply": "Aplicar",
+    "months": {
+      "january": "Janeiro",
+      "february": "Fevereiro",
+      "march": "Março",
+      "april": "Abril",
+      "may": "Maio",
+      "june": "Junho",
+      "july": "Julho",
+      "august": "Agosto",
+      "september": "Setembro",
+      "october": "Outubro",
+      "november": "Novembro",
+      "december": "Dezembro"
+    },
+    "weekdays": {
+      "sunday": "Do",
+      "monday": "Se",
+      "tuesday": "Te",
+      "wednesday": "Qua",
+      "thursday": "Qui",
+      "friday": "Se",
+      "saturday": "Sá"
+    }
+  },
+  "Metadata": {
+    "homeTitle": "Dia das Mães 2026: Melhores Planos e Jantares Românticos",
+    "homeDescription": "Explore planos românticos para o Dia das Mães 2026. Reserve os melhores jantares, concertos e escapadelas únicas em NYC, Paris, Madrid e mais. Torne-o inesquecível.",
+    "cityPageTitle": "Dia das Mães 2026 em {city}: Melhores Presentes e Ideias",
+    "cityPageDescription": "Celebre o Dia das Mães 2026 em {city}. Descubra ideias românticas, presentes para ela e ele e os melhores restaurantes para um encontro inesquecível.",
+    "cityPageGiftsTitle": "Presentes Dia das Mães em {city} 2026 | Para Ela e Ele",
+    "cityPageGiftsDescription": "Encontre os presentes de Dia das Mães perfeitos em {city}. Presentes únicos para ela e ele, experiências românticas e ideias de última hora. Reserve para 2026.",
+    "cityPageRestaurantsTitle": "Restaurantes Românticos em {city} | Dia das Mães 2026",
+    "cityPageRestaurantsDescription": "Descubra os melhores restaurantes românticos em {city} para o Dia das Mães 2026. Jantares íntimos e jantares românticos. Reserve hoje.",
+    "cityPageIdeasTitle": "Ideias Dia das Mães em {city} | Encontros Românticos 2026",
+    "cityPageIdeasDescription": "Explore ideias românticas de Dia das Mães em {city}. Ideias de encontros, atividades a dois e experiências inesquecíveis para 2026. Reserve agora.",
+    "cityPageLastMinuteTitle": "Planos Dia das Mães de Última Hora em {city} | Mesmo Dia 2026",
+    "cityPageLastMinuteDescription": "Planos de Dia das Mães de última hora em {city}. Reservas no mesmo dia, ideias de presentes urgentes e experiências românticas disponíveis para 2026."
+  },
+  "Testimonials": {
+    "title": "O Que Nossos Casais Dizem",
+    "subtitle": "Experiências reais de casais que tornaram seu Dia das Mães inesquecível",
+    "items": [
+      {
+        "text": "O melhor jantar em Roma! O restaurante era perfeito, a comida incrível e a atmosfera era exatamente o que precisávamos para nosso Dia das Mães. Altamente recomendado!",
+        "author": "Sofia & Marc",
+        "location": "Roma, Itália"
+      },
+      {
+        "text": "Noite inesquecível em NYC! Reservamos um jantar romântico no terraço e superou todas as expectativas. A vista era de tirar o fôlego e o serviço impecável.",
+        "author": "Alex",
+        "location": "Nova York, EUA"
+      },
+      {
+        "text": "Tornou nosso Dia das Mães em Paris absolutamente mágico! O cruzeiro jantar à luz de velas foi romântico além das palavras. Cada detalhe era perfeito, da comida ao ambiente.",
+        "author": "Emma & James",
+        "location": "Paris, França"
+      }
+    ]
+  },
+  "WhyCelebrate": {
+    "title": "Por Que Celebrar o Dia das Mães como Casal?",
+    "description": "O Dia das Mães é uma oportunidade especial para celebrar seu amor, criar memórias duradouras e fortalecer seu vínculo com experiências românticas e presentes significativos do Dia das Mães.",
+    "reasons": [
+      {
+        "title": "Fortaleça Seu Vínculo",
+        "description": "Celebrar o Dia das Mães juntos cria experiências românticas inesquecíveis que aprofundam sua conexão. É a oportunidade perfeita para mostrar ao seu parceiro o quanto ele significa para você com presentes pensados do Dia das Mães e momentos românticos."
+      },
+      {
+        "title": "Crie Memórias Duradouras",
+        "description": "De concertos Candlelight íntimos a restaurantes românticos, as experiências do Dia das Mães se tornam memórias preciosas. Essas ideias românticas do Dia das Mães ajudam você a celebrar o amor de formas únicas que você lembrará para sempre."
+      },
+      {
+        "title": "Expresse Seu Amor",
+        "description": "Presentes do Dia das Mães para ela e para ele são mais que presentes—são expressões de amor. Sejam presentes personalizados do Dia das Mães ou presentes de última hora, cada um mostra que você se importa."
+      },
+      {
+        "title": "Reconecte e Reacenda",
+        "description": "Em nossas vidas ocupadas, o Dia das Mães oferece um tempo dedicado para se reconectar. Experiências românticas e ideias para encontros ajudam casais a reacender seu romance e celebrar seu relacionamento com ideias significativas do Dia das Mães."
+      }
+    ],
+    "cta": "Encontre Sua Cidade Perfeita"
+  },
+  "WhyUs": {
+    "title": "Por Que Nos Escolher para Seus Planos do Dia das Mães 2026",
+    "description1": "Descubra os melhores presentes do Dia das Mães, experiências românticas e ideias inesquecíveis para encontros. De concertos Candlelight íntimos a restaurantes românticos, ajudamos casais a criar momentos perfeitos do Dia das Mães.",
+    "description2": "Confiado por milhares de casais por experiências românticas curadas, presentes de última hora do Dia das Mães e ideias únicas para encontros em cidades ao redor do mundo.",
+    "features": [
+      {
+        "title": "Experiências Curadas do Dia das Mães",
+        "description": "Descubra experiências românticas selecionadas à mão, de concertos Candlelight íntimos a restaurantes românticos exclusivos. Selecionamos apenas os melhores presentes do Dia das Mães e ideias para encontros para criar momentos românticos inesquecíveis para casais."
+      },
+      {
+        "title": "Reserva Instantânea para Planos de Última Hora",
+        "description": "Esqueceu de planejar com antecedência? Sem problemas. Reserve experiências românticas, presentes do Dia das Mães e jantares românticos instantaneamente. Perfeito para presentes de última hora do Dia das Mães e ideias espontâneas para encontros românticos."
+      },
+      {
+        "title": "Avaliações Verificadas de Casais Reais",
+        "description": "Cada experiência romântica é verificada e avaliada por casais que celebraram o Dia das Mães conosco. Encontre recomendações confiáveis para presentes do Dia das Mães para ela, para ele e as melhores experiências românticas."
+      },
+      {
+        "title": "Presentes e Ideias Únicos do Dia das Mães",
+        "description": "De presentes personalizados do Dia das Mães a escapadelas românticas, descubra ideias únicas de presentes do Dia das Mães para cada casal. Se você está procurando presentes para ela, para ele ou experiências para ambos."
+      },
+      {
+        "title": "Experiências Românticas nas Principais Cidades",
+        "description": "Explore os melhores restaurantes românticos, concertos Candlelight e experiências do Dia das Mães nas principais cidades do mundo. De jantares românticos a concertos íntimos, encontre ideias perfeitas para encontros em sua cidade."
+      },
+      {
+        "title": "Guia Global do Dia das Mães 2026",
+        "description": "Seu guia abrangente para celebrar o Dia das Mães 2026. Descubra experiências românticas, presentes do Dia das Mães, restaurantes románticos e ideias inesquecíveis para encontros em cidades ao redor do mundo."
+      }
+    ],
+    "trustedSource": {
+      "title": "Sua Fonte Confiável para o Dia das Mães 2026",
+      "paragraph1": "Se você está procurando presentes do Dia das Mães para ela, para ele ou experiências românticas para casais, curamos a melhor seleção de restaurantes românticos, concertos Candlelight e ideias únicas para encontros. Perfeito para presentes de última hora do Dia das Mães ou planejamento antecipado para o Dia das Mães 2026.",
+      "paragraph2": "Junte-se a milhares de casais que confiam em nós para seus planos românticos do Dia das Mães, de jantares íntimos a escapadelas românticas inesquecíveis e atividades para casais."
+    }
+  },
+  "PlanCard": {
+    "getTickets": "Obter Ingressos →"
+  },
+  "Price": {
+    "from": "A partir de",
+    "under": "Abaixo de"
+  },
+  "ValentinesIdeas": {
+    "title": "Ideias do Dia das Mães em {city}",
+    "subtitle": "Explore as melhores opções para celebrar o Dia das Mães",
+    "ideas": [
+      {
+        "title": "Presentes do Dia das Mães",
+        "description": "Encontre os melhores presentes do Dia das Mães em {city}"
+      },
+      {
+        "title": "Restaurantes Românticos",
+        "description": "Descubra os melhores restaurantes românticos para o Dia das Mães em {city}"
+      },
+      {
+        "title": "Ideias Românticas do Dia das Mães",
+        "description": "Ideias únicas e românticas para celebrar o Dia das Mães em {city}"
+      },
+      {
+        "title": "Planos de Última Hora",
+        "description": "Planos perfeitos de última hora para o Dia das Mães em {city}"
+      }
+    ]
+  },
+  "CityInfo": {
+    "fallback": {
+      "title": "Por que {city} é Perfeito para Celebrar o Dia das Mães",
+      "intro": "{city} oferece experiências românticas incríveis, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. Seja você esteja procurando ideias românticas para o Dia das Mães, presentes de última hora ou os melhores restaurantes românticos, {city} tem tudo que você precisa para celebrar o amor.",
+      "reasons": [
+        {
+          "title": "Presentes Perfeitos do Dia das Mães",
+          "description": "Encontre os presentes perfeitos do Dia das Mães em {city}! De experiências românticas e ideias de encontros únicas até presentes de última hora, descubra presentes para ela e para ele que criam momentos inesquecíveis."
+        },
+        {
+          "title": "Experiências Românticas e Ideias de Encontros",
+          "description": "{city} oferece experiências românticas incríveis para casais. Seja você esteja procurando restaurantes românticos, shows íntimos ou ideias de encontros únicas, você encontrará ideias românticas para o Dia das Mães que tornam este dia verdadeiramente especial."
+        },
+        {
+          "title": "Momentos Românticos Inesquecíveis",
+          "description": "Celebre o amor em {city} com presentes personalizados do Dia das Mães e experiências românticas. De presentes de luxo até opções econômicas, encontre a forma perfeita de celebrar o Dia das Mães com sua pessoa amada."
+        }
+      ]
+    },
+    "madrid": {
+      "title": "Por que Madrid é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Madrid oferece a combinação perfeita de experiências românticas, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De shows íntimos de Candlelight até restaurantes românticos em Malasaña, descubra os melhores presentes do Dia das Mães para ela e para ele na vibrante capital espanhola.",
+      "reasons": [
+        {
+          "title": "Parques Românticos e Lugares Icônicos",
+          "description": "O Parque do Retiro e as ruas iluminadas criam cenários mágicos para o Dia das Mães. Encontre ideias românticas como passeios ao pôr do sol e terraços aconchegantes perfeitos para presentes de última hora e experiências românticas."
+        },
+        {
+          "title": "Restaurantes Românticos de Classe Mundial",
+          "description": "De restaurantes estrelados Michelin até bares de tapas íntimos em La Latina, Madrid oferece restaurantes românticos para cada casal. Perfeitos para presentes do Dia das Mães, essas experiências culinárias criam momentos românticos inesquecíveis."
+        },
+        {
+          "title": "Experiências Culturais e Candlelight",
+          "description": "Shows íntimos de Candlelight, apresentações de flamenco e experiências culturais tornam Madrid ideal para ideias românticas do Dia das Mães. Descubra presentes únicos do Dia das Mães e experiências românticas que celebram o amor com estilo."
+        }
+      ]
+    },
+    "barcelona": {
+      "title": "Por que Barcelona é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Barcelona combina o romantismo mediterrâneo com presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos à beira-mar até shows íntimos no Bairro Gótico, encontre as melhores ideias românticas para o Dia das Mães e presentes para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo à Beira-Mar e Vistas",
+          "description": "A praia de Barceloneta e Montjuïc oferecem vistas espetaculares do pôr do sol perfeitas para experiências românticas. Descubra presentes de última hora do Dia das Mães e ideias românticas com cenários mediterrâneos de tirar o fôlego."
+        },
+        {
+          "title": "Excelência Gastronômica",
+          "description": "Da culinária catalã inovadora até restaurantes românticos em El Born, Barcelona oferece experiências culinárias excepcionais. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Romantismo Arquitetônico e Cultura",
+          "description": "As obras-primas de Gaudí e o Bairro Gótico criam ideias de encontros únicas e experiências românticas. Encontre presentes personalizados do Dia das Mães e ideias românticas que combinam cultura com romantismo."
+        }
+      ]
+    },
+    "valencia": {
+      "title": "Por que Valência é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Valência oferece experiências românticas ao longo do Mediterrâneo com presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos no Centro Histórico até experiências à beira-mar, descubra ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo na Praia e Cidade das Artes",
+          "description": "A praia de Malvarrosa e a futurística Cidade das Artes e das Ciências oferecem experiências românticas perfeitas para o Dia das Mães. Encontre presentes de última hora do Dia das Mães e ideias românticas com vistas costeiras de tirar o fôlego."
+        },
+        {
+          "title": "Paella Autêntica e Jantares Românticos",
+          "description": "Os restaurantes românticos de Valência servem paella autêntica e culinária mediterrânea perfeitas para experiências românticas. Os presentes ideais do Dia das Mães incluem jantares íntimos com presentes para ela e para ele."
+        },
+        {
+          "title": "Charme Histórico e Romantismo Moderno",
+          "description": "O Centro Histórico e os Jardins do Turia oferecem ideias de encontros únicas e experiências românticas. Descubra presentes personalizados do Dia das Mães e ideias românticas nesta combinação perfeita de história e romantismo."
+        }
+      ]
+    },
+    "london": {
+      "title": "Por que Londres é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Londres oferece experiências românticas de classe mundial, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em Covent Garden até shows íntimos do West End, descubra os melhores presentes do Dia das Mães para ela e para ele na capital britânica.",
+      "reasons": [
+        {
+          "title": "Marco Romântico Icônico",
+          "description": "Caminhadas ao longo do Tâmisa, Hyde Park e a London Eye criam cenários mágicos para ideias românticas do Dia das Mães. Encontre presentes de última hora do Dia das Mães e experiências românticas com o charme icônico britânico."
+        },
+        {
+          "title": "Restaurantes Estrelados Michelin e Jantares Íntimos",
+          "description": "De restaurantes de luxo em Mayfair até pubs aconchegantes, Londres oferece restaurantes românticos para cada casal. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Shows do West End e Candlelight",
+          "description": "Shows íntimos de Candlelight e musicais do West End oferecem experiências românticas únicas. Descubra presentes personalizados do Dia das Mães e ideias românticas que celebram o amor com estilo."
+        }
+      ]
+    },
+    "paris": {
+      "title": "Por que Paris é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Paris, a Cidade do Amor, oferece experiências românticas sem igual, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos com vista para a Torre Eiffel até cruzeiros íntimos no Sena, encontre as melhores ideias românticas para o Dia das Mães e presentes para casais.",
+      "reasons": [
+        {
+          "title": "A Cidade do Amor e do Romantismo",
+          "description": "A Torre Eiffel, Montmartre e o Rio Sena criam as experiências românticas por excelência. Descubra presentes de última hora do Dia das Mães e ideias românticas na cidade mais romântica do mundo."
+        },
+        {
+          "title": "Excelência Gourmet e Jantares Íntimos",
+          "description": "De restaurantes estrelados Michelin até bistrôs encantadores, Paris oferece restaurantes românticos excepcionais. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Arte, Cultura e Momentos Românticos",
+          "description": "O Louvre, shows íntimos de Candlelight e cafés encantadores oferecem ideias de encontros únicas. Encontre presentes personalizados do Dia das Mães e ideias românticas que celebram o amor no verdadeiro estilo parisiense."
+        }
+      ]
+    },
+    "new-york": {
+      "title": "Por que Nova York é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Nova York oferece experiências românticas icônicas, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos com vista para o skyline até shows da Broadway, descubra os melhores presentes do Dia das Mães para ela e para ele na Big Apple.",
+      "reasons": [
+        {
+          "title": "Skyline Icônico e Central Park",
+          "description": "O Central Park, a Ponte do Brooklyn e o Empire State Building criam experiências românticas mágicas. Encontre presentes de última hora do Dia das Mães e ideias românticas com vistas deslumbrantes da cidade."
+        },
+        {
+          "title": "Culinária de Classe Mundial e Romantismo nos Telhados",
+          "description": "De restaurantes estrelados Michelin até bares românticos nos telhados, NYC oferece restaurantes românticos excepcionais. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Shows da Broadway e Shows Íntimos",
+          "description": "Musicais da Broadway e shows íntimos de Candlelight oferecem experiências românticas únicas. Descubra presentes personalizados do Dia das Mães e ideias românticas que celebram o amor no estilo NYC."
+        }
+      ]
+    },
+    "los-angeles": {
+      "title": "Por que Los Angeles é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Los Angeles oferece experiências românticas glamourosas, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em Beverly Hills até experiências à beira-mar, descubra ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo na Praia e Glamour de Hollywood",
+          "description": "As praias de Malibu, o Observatório Griffith e o Sunset Boulevard criam experiências românticas perfeitas. Encontre presentes de última hora do Dia das Mães e ideias românticas com vistas deslumbrantes do Pacífico."
+        },
+        {
+          "title": "Chefs Celebridades e Jantares Íntimos",
+          "description": "De restaurantes de celebridades até jantares românticos à beira-mar, LA oferece restaurantes românticos excepcionais. Os presentes ideais do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Entretenimento e Ideias de Encontros Únicas",
+          "description": "Shows do Hollywood Bowl, experiências íntimas de Candlelight e bares nos telhados oferecem ideias de encontros únicas. Descubra presentes personalizados do Dia das Mães e ideias românticas na capital do entretenimento."
+        }
+      ]
+    },
+    "chicago": {
+      "title": "Por que Chicago é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Chicago oferece experiências românticas vibrantes, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos ao longo da Magnificent Mile até clubes de jazz íntimos, encontre as melhores ideias românticas para o Dia das Mães e presentes para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo à Beira do Lago e Arquitetura",
+          "description": "O Lago Michigan, o Millennium Park e a arquitetura icônica criam experiências românticas mágicas. Descubra presentes de última hora do Dia das Mães e ideias românticas com vistas deslumbrantes do lago."
+        },
+        {
+          "title": "Cena Culinária Premiada",
+          "description": "De restaurantes estrelados Michelin até locais íntimos em River North, Chicago oferece restaurantes românticos excepcionais. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Jazz e Shows Íntimos",
+          "description": "Clubes de jazz e shows íntimos de Candlelight oferecem experiências românticas únicas. Encontre presentes personalizados do Dia das Mães e ideias românticas que celebram o amor na Windy City."
+        }
+      ]
+    },
+    "miami": {
+      "title": "Por que Miami é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Miami oferece experiências românticas tropicais, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em South Beach até experiências Art Déco íntimas, descubra ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo Tropical na Praia",
+          "description": "South Beach, Key Biscayne e vistas do oceano criam experiências românticas perfeitas. Encontre presentes de última hora do Dia das Mães e ideias românticas com cenários tropicais de tirar o fôlego."
+        },
+        {
+          "title": "Fusão Latina e Jantares nos Telhados",
+          "description": "Da culinária cubana até restaurantes românticos nos telhados, Miami oferece restaurantes românticos excepcionais. Os presentes ideais do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Art Déco e Romantismo Noturno",
+          "description": "O Distrito Art Déco, shows íntimos de Candlelight e vida noturna vibrante oferecem ideias de encontros únicas. Descubra presentes personalizados do Dia das Mães e ideias românticas neste paraíso tropical."
+        }
+      ]
+    },
+    "san-francisco": {
+      "title": "Por que San Francisco é Perfeita para Celebrar o Dia das Mães",
+      "intro": "San Francisco oferece experiências românticas encantadoras, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos com vista para o Golden Gate até experiências íntimas na região vinícola, encontre ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Pontes Icônicas e Vistas da Baía",
+          "description": "A Ponte Golden Gate, as vistas de Alcatraz e Pacific Heights criam experiências românticas mágicas. Descubra presentes de última hora do Dia das Mães e ideias românticas com vistas deslumbrantes da baía."
+        },
+        {
+          "title": "Excelência Culinária e Região Vinícola",
+          "description": "De restaurantes estrelados Michelin até experiências no Vale de Napa, SF oferece restaurantes românticos excepcionais. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Shows Íntimos e Romantismo Cultural",
+          "description": "Shows íntimos de Candlelight e locais culturais oferecem experiências românticas únicas. Encontre presentes personalizados do Dia das Mães e ideias românticas que celebram o amor na Bay Area."
+        }
+      ]
+    },
+    "lisbon": {
+      "title": "Por que Lisboa é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Lisboa oferece experiências românticas encantadoras, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em Alfama até experiências íntimas de Fado, descubra ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Colinas Históricas e Vistas do Rio",
+          "description": "O Rio Tejo, os bondes históricos e os Miradouros criam experiências românticas perfeitas. Encontre presentes de última hora do Dia das Mães e ideias românticas com o charme português de tirar o fôlego."
+        },
+        {
+          "title": "Culinária Portuguesa Autêntica",
+          "description": "De tascas tradicionais até restaurantes románticos em Chiado, Lisboa oferece restaurantes românticos excepcionais. Os presentes ideais do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Fado e Experiências Culturais Íntimas",
+          "description": "Shows íntimos de Fado e shows de Candlelight oferecem experiências românticas únicas. Descubra presentes personalizados do Dia das Mães e ideias românticas nesta encantadora capital europeia."
+        }
+      ]
+    },
+    "sao-paulo": {
+      "title": "Por que São Paulo é Perfeita para Celebrar o Dia das Mães",
+      "intro": "São Paulo oferece experiências românticas vibrantes, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em Jardins até experiências culturais íntimas, encontre ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo Urbano e Diversidade Cultural",
+          "description": "O Parque Ibirapuera, a Avenida Paulista e bairros diversos criam experiências românticas únicas. Descubra presentes de última hora do Dia das Mães e ideias românticas na capital cultural do Brasil."
+        },
+        {
+          "title": "Gastronomia de Classe Mundial",
+          "description": "Da culinária brasileira inovadora até restaurantes românticos em Vila Madalena, SP oferece restaurantes românticos excepcionais. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Música ao Vivo e Shows Íntimos",
+          "description": "Shows íntimos de Candlelight e locais de música ao vivo oferecem experiências românticas únicas. Encontre presentes personalizados do Dia das Mães e ideias românticas que celebram o amor no estilo paulista."
+        }
+      ]
+    },
+    "mexico-city": {
+      "title": "Por que Cidade do México é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Cidade do México oferece experiências românticas vibrantes, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em Polanco até experiências culturais íntimas, descubra ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo Histórico e Charme Moderno",
+          "description": "O Parque Chapultepec, o Zócalo e bairros coloridos criam experiências românticas mágicas. Encontre presentes de última hora do Dia das Mães e ideias românticas com rico patrimônio cultural."
+        },
+        {
+          "title": "Culinária Mexicana Excepcional",
+          "description": "De mercados tradicionais até restaurantes românticos em Roma, CDMX oferece restaurantes românticos excepcionais. Os presentes ideais do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Mariachi e Experiências Culturais",
+          "description": "Shows íntimos de Candlelight e apresentações de mariachi oferecem experiências românticas únicas. Descubra presentes personalizados do Dia das Mães e ideias românticas nesta vibrante capital."
+        }
+      ]
+    },
+    "berlin": {
+      "title": "Por que Berlim é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Berlim oferece experiências românticas únicas, presentes distintos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em Mitte até experiências culturais íntimas, encontre ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Charme Histórico e Romantismo Moderno",
+          "description": "O Portão de Brandemburgo, a Ilha dos Museus e bairros vibrantes criam experiências românticas únicas. Descubra presentes de última hora do Dia das Mães e ideias românticas na dinâmica capital alemã."
+        },
+        {
+          "title": "Culinária Inovadora e Cafés Aconchegantes",
+          "description": "Da culinária alemã inovadora até restaurantes românticos em Prenzlauer Berg, Berlim oferece restaurantes românticos excepcionais. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Shows Íntimos e Cena Cultural",
+          "description": "Shows íntimos de Candlelight e locais culturais oferecem experiências românticas únicas. Encontre presentes personalizados do Dia das Mães e ideias românticas que celebram o amor no estilo berlinense."
+        }
+      ]
+    },
+    "sydney": {
+      "title": "Por que Sydney é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Sydney oferece experiências românticas deslumbrantes, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos com vista para o porto até experiências íntimas na praia, descubra ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo do Porto e Vistas Icônicas",
+          "description": "A Ópera de Sydney, a Harbour Bridge e Bondi Beach criam experiências românticas perfeitas. Encontre presentes de última hora do Dia das Mães e ideias românticas com vistas deslumbrantes do porto."
+        },
+        {
+          "title": "Culinária de Classe Mundial e Waterfront",
+          "description": "De restaurantes premiados até jantares românticos à beira-mar, Sydney oferece restaurantes românticos excepcionais. Os presentes ideais do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Shows Íntimos e Romantismo na Praia",
+          "description": "Shows íntimos de Candlelight e experiências à beira-mar oferecem experiências românticas únicas. Descubra presentes personalizados do Dia das Mães e ideias românticas nesta bela cidade portuária."
+        }
+      ]
+    },
+    "melbourne": {
+      "title": "Por que Melbourne é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Melbourne oferece experiências românticas sofisticadas, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em becos até experiências culturais íntimas, encontre ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo nos Becos e Charme Cultural",
+          "description": "Becos escondidos, o Rio Yarra e uma cena artística vibrante criam experiências românticas únicas. Descubra presentes de última hora do Dia das Mães e ideias românticas na capital cultural da Austrália."
+        },
+        {
+          "title": "Excelência Culinária e Cultura do Café",
+          "description": "De restaurantes de classe mundial até cafés românticos em becos, Melbourne oferece restaurantes românticos excepcionais. Os presentes perfeitos do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Shows Íntimos e Cena Artística",
+          "description": "Shows íntimos de Candlelight e locais culturais oferecem experiências românticas únicas. Encontre presentes personalizados do Dia das Mães e ideias românticas que celebram o amor no estilo melburniano."
+        }
+      ]
+    },
+    "dublin": {
+      "title": "Por que Dublin é Perfeita para Celebrar o Dia das Mães",
+      "intro": "Dublin oferece experiências românticas encantadoras, presentes únicos do Dia das Mães e ideias de encontros inesquecíveis. De restaurantes românticos em Temple Bar até experiências íntimas em pubs, descubra ideias românticas para o Dia das Mães e presentes perfeitos para casais.",
+      "reasons": [
+        {
+          "title": "Romantismo Histórico e Liffey",
+          "description": "Temple Bar, o Trinity College e a arquitetura georgiana criam experiências românticas mágicas. Encontre presentes de última hora do Dia das Mães e ideias românticas com o charme irlandês."
+        },
+        {
+          "title": "Pubs Tradicionais e Culinária Moderna",
+          "description": "De pubs aconchegantes até restaurantes românticos na área do Castelo de Dublin, Dublin oferece restaurantes românticos excepcionais. Os presentes ideais do Dia das Mães incluem jantares românticos com presentes para ela e para ele."
+        },
+        {
+          "title": "Música ao Vivo e Shows Íntimos",
+          "description": "Shows íntimos de Candlelight e música tradicional irlandesa oferecem experiências românticas únicas. Descubra presentes personalizados do Dia das Mães e ideias românticas nesta encantadora capital."
+        }
+      ]
+    },
+    "lyon": { "title": "Why Lyon is Perfect for Celebrating Dia das Mães", "intro": "Lyon offers exceptional romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Gastronomic Romance", "description": "Lyon's bouchons and Michelin-starred restaurants create perfect romantic experiences." }, { "title": "Historic Charm & River Views", "description": "Fourvière, Presqu'île, and the Rhône create magical romantic experiences." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "washington-dc": { "title": "Why Washington DC is Perfect for Celebrating Dia das Mães", "intro": "Washington DC offers iconic romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Monuments & Cherry Blossoms", "description": "National Mall, monuments, and seasonal beauty create magical romantic experiences." }, { "title": "World-Class Dining", "description": "From fine dining to romantic restaurants in Georgetown, DC offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and museums provide unique romantic experiences." }] },
+    "san-diego": { "title": "Why San Diego is Perfect for Celebrating Dia das Mães", "intro": "San Diego offers sunny romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Beach Romance & Harbor Views", "description": "La Jolla, Gaslamp Quarter, and Pacific sunsets create perfect romantic experiences." }, { "title": "Waterfront Dining", "description": "From seafood to romantic restaurants in Little Italy, San Diego offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and Balboa Park provide unique romantic experiences." }] },
+    "atlanta": { "title": "Why Atlanta is Perfect for Celebrating Dia das Mães", "intro": "Atlanta offers Southern romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Southern Charm & Gardens", "description": "Botanical gardens, BeltLine, and Southern hospitality create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From Southern cuisine to romantic restaurants in Midtown, Atlanta offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "austin": { "title": "Why Austin is Perfect for Celebrating Dia das Mães", "intro": "Austin offers vibrant romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Live Music & River Romance", "description": "Lady Bird Lake, live music venues, and Texas charm create perfect romantic experiences." }, { "title": "Food Scene & Rooftop Dining", "description": "From BBQ to romantic restaurants downtown, Austin offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural events provide unique romantic experiences." }] },
+    "hamburg": { "title": "Why Hamburg is Perfect for Celebrating Dia das Mães", "intro": "Hamburg offers maritime romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Harbor Romance & Elbphilharmonie", "description": "Port, Elbe River, and iconic architecture create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From fish market to romantic restaurants in HafenCity, Hamburg offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and musical venues provide unique romantic experiences." }] },
+    "vienna": { "title": "Why Vienna is Perfect for Celebrating Dia das Mães", "intro": "Vienna offers imperial romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Imperial Romance & Architecture", "description": "Hofburg, Schönbrunn, and Ringstraße create magical romantic experiences." }, { "title": "Coffee Houses & Fine Dining", "description": "From traditional coffee houses to romantic restaurants, Vienna offers exceptional romantic restaurants." }, { "title": "Music & Intimate Concerts", "description": "Intimate Candlelight concerts and classical music provide unique romantic experiences." }] },
+    "brisbane": { "title": "Why Brisbane is Perfect for Celebrating Dia das Mães", "intro": "Brisbane offers sunny romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "River Romance & South Bank", "description": "Brisbane River, South Bank Parklands, and subtropical charm create perfect romantic experiences." }, { "title": "Rooftop & Waterfront Dining", "description": "From riverside to romantic restaurants in Fortitude Valley, Brisbane offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "toronto": { "title": "Why Toronto is Perfect for Celebrating Dia das Mães", "intro": "Toronto offers diverse romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Waterfront & CN Tower Romance", "description": "Harbourfront, CN Tower, and diverse neighborhoods create magical romantic experiences." }, { "title": "World-Class Dining", "description": "From multicultural cuisine to romantic restaurants in Distillery District, Toronto offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "buenos-aires": { "title": "Why Buenos Aires is Perfect for Celebrating Dia das Mães", "intro": "Buenos Aires offers passionate romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Tango & Historic Romance", "description": "Tango, Recoleta, and European charm create magical romantic experiences." }, { "title": "Steak & Rooftop Dining", "description": "From parrillas to romantic restaurants in San Telmo, Buenos Aires offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and milongas provide unique romantic experiences." }] },
+    "montreal": { "title": "Why Montréal is Perfect for Celebrating Dia das Mães", "intro": "Montréal offers French-Canadian romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Old Town Romance & Mount Royal", "description": "Old Montréal, Mount Royal, and European charm create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From poutine to romantic restaurants in Plateau, Montréal offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and festivals provide unique romantic experiences." }] },
+    "montréal": { "title": "Why Montréal is Perfect for Celebrating Dia das Mães", "intro": "Montréal offers French-Canadian romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Old Town Romance & Mount Royal", "description": "Old Montréal, Mount Royal, and European charm create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From poutine to romantic restaurants in Plateau, Montréal offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and festivals provide unique romantic experiences." }] },
+    "munchen": { "title": "Why München is Perfect for Celebrating Dia das Mães", "intro": "München offers Bavarian romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Marienplatz & English Garden", "description": "Marienplatz, English Garden, and Bavarian charm create magical romantic experiences." }, { "title": "Beer Gardens & Fine Dining", "description": "From beer gardens to romantic restaurants in Schwabing, München offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "münchen": { "title": "Why München is Perfect for Celebrating Dia das Mães", "intro": "München offers Bavarian romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Marienplatz & English Garden", "description": "Marienplatz, English Garden, and Bavarian charm create magical romantic experiences." }, { "title": "Beer Gardens & Fine Dining", "description": "From beer gardens to romantic restaurants in Schwabing, München offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "roma": { "title": "Why Rome is Perfect for Celebrating Dia das Mães", "intro": "Rome offers eternal romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Ancient Romance & Trevi Fountain", "description": "Colosseum, Trevi Fountain, and historic streets create magical romantic experiences." }, { "title": "Roman Cuisine & Rooftop Dining", "description": "From traditional trattorias to romantic restaurants near the Pantheon, Rome offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "milano": { "title": "Why Milan is Perfect for Celebrating Dia das Mães", "intro": "Milan offers stylish romantic experiences, unique Dia das Mães gifts, and unforgettable date ideas.", "reasons": [{ "title": "Duomo & Navigli Romance", "description": "Duomo, Navigli canals, and Italian style create magical romantic experiences." }, { "title": "Fine Dining & Aperitivo", "description": "From Michelin-starred to romantic restaurants in Brera, Milan offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and La Scala provide unique romantic experiences." }] }
+  },
+  "CategoryPages": {
+    "gifts": {
+      "title": "Presentes do Dia das Mães em {city}",
+      "subtitle": "Encontre o presente perfeito para sua pessoa amada",
+      "metaTitle": "Presentes do Dia das Mães em {city} 2026 | Presentes para Ela & Ele",
+      "metaDescription": "Encontre os melhores presentes do Dia das Mães em {city}. Descubra presentes únicos para ela e ele, experiências românticas e ideias de última hora. Reserve agora para 2026.",
+      "heroTitle": "Os Presentes Perfeitos do Dia das Mães em {city}",
+      "heroSubtitle": "Descubra presentes e experiências inesquecíveis",
+      "introSection": {
+        "title": "Os Presentes Perfeitos do Dia das Mães em {city}",
+        "paragraph1": "Encontrar o presente perfeito do Dia das Mães em {city} é sobre criar momentos inesquecíveis. Seja você esteja procurando experiências românticas, presentes únicos ou ideias de última hora, {city} oferece uma seleção incrível de presentes que mostram seu amor e apreciação.",
+        "paragraph2": "{city} é renomada por sua ampla gama de opções de presentes para o Dia das Mães. Desde shows íntimos de Candlelight até experiências românticas exclusivas, a cidade oferece inúmeras oportunidades para surpreender sua pessoa amada com algo verdadeiramente especial neste Dia das Mães 2026.",
+        "paragraph3": "Nossa seleção cuidadosamente curada inclui experiências românticas, ideias de encontros únicos, atividades de bem-estar e eventos exclusivos. Cada presente é escolhido com cuidado para criar memórias duradouras e celebrar seu amor da maneira mais significativa."
+      },
+      "giftsForHer": {
+        "title": "Presentes do Dia das Mães para Ela em {city}",
+        "paragraph1": "Quando se trata de encontrar os presentes perfeitos do Dia das Mães para ela em {city}, as experiências românticas frequentemente criam as memórias mais duradouras. Desde shows íntimos de Candlelight com sua música favorita até experiências exclusivas de spa e workshops românticos, {city} oferece presentes únicos que vão além dos presentes tradicionais.",
+        "paragraph2": "Considere reservar um show romântico de Candlelight em um dos locais mais bonitos de {city}. Essas experiências íntimas combinam música linda com cenários deslumbrantes, criando uma noite inesquecível. Outros presentes populares para ela incluem experiências de bem-estar, aulas de culinária românticas e eventos culturais exclusivos.",
+        "paragraph3": "Para aqueles que buscam algo verdadeiramente único, {city} oferece experiências românticas exclusivas que não podem ser encontradas em nenhum outro lugar. Esses presentes cuidadosamente selecionados mostram consideração e criam momentos que ela lembrará para sempre."
+      },
+      "giftsForHim": {
+        "title": "Presentes do Dia das Mães para Ele em {city}",
+        "paragraph1": "Encontrar presentes significativos do Dia das Mães para ele em {city} significa escolher experiências que correspondam aos seus interesses. Desde shows emocionantes e eventos culturais até atividades únicas e experiências românticas, {city} fornece opções diversas para cada tipo de parceiro.",
+        "paragraph2": "Muitos parceiros apreciam presentes experienciais sobre itens materiais. Considere reservar ingressos para um show de seu gênero favorito, uma experiência cultural exclusiva ou uma atividade romântica que vocês podem desfrutar juntos. A cena vibrante de {city} oferece tudo, desde performances musicais íntimas até experiências de encontros únicas.",
+        "paragraph3": "Os melhores presentes do Dia das Mães para ele em {city} combinam seus interesses com momentos românticos que vocês podem compartilhar. Seja ele ame música, cultura, comida ou aventura, você encontrará o presente perfeito que cria memórias duradouras."
+      },
+      "lastMinuteGifts": {
+        "title": "Presentes de Última Hora do Dia das Mães em {city}",
+        "paragraph1": "Esqueceu de planejar com antecedência? Não se preocupe - {city} oferece excelentes opções de presentes de última hora para o Dia das Mães. Muitas experiências românticas e eventos têm disponibilidade no mesmo dia, permitindo que você crie uma celebração perfeita mesmo com pouco aviso.",
+        "paragraph2": "Os presentes de última hora do Dia das Mães em {city} incluem ingressos para shows do mesmo dia, reservas de restaurantes disponíveis e experiências de reserva imediata. Essas opções garantem que você ainda possa dar à sua pessoa amada um Dia das Mães inesquecível, mesmo se estiver planejando no último momento."
+      },
+      "cta": "Explore nossa seleção curada de presentes do Dia das Mães em {city} e reserve a experiência perfeita para sua pessoa amada."
+    },
+    "restaurants": {
+      "title": "Restaurantes Românticos em {city}",
+      "subtitle": "Descubra as melhores experiências gastronômicas para o Dia das Mães",
+      "metaTitle": "Restaurantes Românticos em {city} | Dia das Mães 2026",
+      "metaDescription": "Descubra os melhores restaurantes românticos em {city} para o Dia das Mães 2026. Alta gastronomia, locais íntimos e jantares românticos. Faça sua reserva hoje.",
+      "heroTitle": "Restaurantes Românticos em {city} para o Dia das Mães",
+      "heroSubtitle": "Descubra experiências gastronômicas excepcionais",
+      "introSection": {
+        "title": "Restaurantes Românticos em {city} para o Dia das Mães",
+        "paragraph1": "Um jantar romântico é uma das tradições mais queridas do Dia das Mães, e {city} oferece algumas das experiências gastronômicas mais excepcionais do mundo. Desde estabelecimentos estrelados Michelin até joias escondidas íntimas, a cena gastronômica da cidade fornece o cenário perfeito para celebrar o amor.",
+        "paragraph2": "{city} abriga uma variedade incrível de restaurantes românticos, cada um oferecendo atmosferas únicas, culinária excepcional e experiências inesquecíveis. Seja você esteja procurando elegância de alta gastronomia, locais íntimos e aconchegantes, ou restaurantes com vistas deslumbrantes, você encontrará o lugar perfeito para sua celebração do Dia das Mães.",
+        "paragraph3": "Nossa seleção cuidadosamente curada apresenta os melhores restaurantes românticos em {city}, escolhidos por sua atmosfera, excelência culinária e capacidade de criar momentos mágicos. Cada local oferece algo especial, desde jantares à luz de velas até refeições em terraços com vista para a cidade."
+      },
+      "fineDining": {
+        "title": "Alta Gastronomia e Estrelas Michelin em {city}",
+        "paragraph1": "Para casais que buscam a experiência gastronômica romântica definitiva, {city} possui uma seleção impressionante de restaurantes de alta gastronomia e estabelecimentos estrelados Michelin. Esses locais combinam culinária de classe mundial com serviço impecável e atmosferas elegantes, criando memórias inesquecíveis do Dia das Mães.",
+        "paragraph2": "Os restaurantes de alta gastronomia em {city} oferecem menus degustação meticulosamente elaborados, harmonizações de vinhos excepcionais e ambientes íntimos perfeitos para ocasiões especiais. Muitos dispõem de salas privadas, mesas do chef e experiências exclusivas que tornam sua celebração do Dia das Mães verdadeiramente extraordinária."
+      },
+      "intimateVenues": {
+        "title": "Locais Íntimos e Aconchegantes em {city}",
+        "paragraph1": "Às vezes os restaurantes mais românticos são os locais íntimos e aconchegantes que parecem segredos escondidos. {city} está cheia de bistrôs encantadores, trattorias iluminadas por velas e espaços de jantar íntimos que criam a atmosfera perfeita para um jantar romântico do Dia das Mães.",
+        "paragraph2": "Esses restaurantes íntimos em {city} oferecem atmosferas quentes e acolhedoras onde vocês podem se concentrar completamente um no outro. Com iluminação suave, assentos confortáveis e serviço atencioso, esses locais fornecem o cenário ideal para conversas significativas e momentos românticos."
+      },
+      "restaurantsWithViews": {
+        "title": "Restaurantes com Vistas Deslumbrantes em {city}",
+        "paragraph1": "Para um jantar do Dia das Mães verdadeiramente espetacular, considere um dos restaurantes de {city} com vistas deslumbrantes. Seja com vista para o skyline da cidade, para o waterfront ou para marcos icônicos, esses locais combinam culinária excepcional com vistas inesquecíveis que tornam sua celebração ainda mais especial."
+      },
+      "cta": "Navegue nossa seleção de restaurantes românticos em {city} e faça sua reserva para o Dia das Mães hoje."
+    },
+    "ideas": {
+      "title": "Ideias Românticas do Dia das Mães em {city}",
+      "subtitle": "Crie momentos inesquecíveis juntos",
+      "metaTitle": "Ideias do Dia das Mães em {city} | Ideias para Encontros Românticos 2026",
+      "metaDescription": "Explore ideias românticas do Dia das Mães em {city}. Ideias para encontros únicos, atividades para casais e experiências inesquecíveis para o Dia das Mães 2026. Reserve agora.",
+      "heroTitle": "Ideias Românticas do Dia das Mães em {city}",
+      "heroSubtitle": "Descubra experiências únicas para celebrar o amor",
+      "introSection": {
+        "title": "Ideias Românticas do Dia das Mães em {city}",
+        "paragraph1": "Criar momentos inesquecíveis do Dia das Mães em {city} significa ir além do ordinário. A cidade oferece uma incrível variedade de experiências românticas, ideias para encontros únicos e atividades especiais projetadas para ajudar casais a celebrar seu amor de maneiras significativas.",
+        "paragraph2": "{city} é conhecida por sua cena cultural vibrante, cenários bonitos e ampla gama de atividades românticas. Desde shows íntimos e experiências culturais até workshops únicos e atividades de bem-estar, a cidade fornece inúmeras oportunidades para criar memórias duradouras juntos.",
+        "paragraph3": "Seja você esteja planejando um gesto romântico grandioso ou buscando momentos íntimos para compartilhar, {city} oferece ideias do Dia das Mães que se adequam ao estilo e preferências de cada casal. Cada experiência é cuidadosamente selecionada para ajudá-lo a celebrar o amor da maneira mais especial."
+      },
+      "romanticExperiences": {
+        "title": "Esperiências Românticas em {city}",
+        "paragraph1": "As experiências românticas em {city} vão muito além dos encontros tradicionais. A cidade oferece shows íntimos de Candlelight em locais deslumbrantes, eventos culturais exclusivos e atividades únicas projetadas especificamente para casais. Essas experiências criam conexões profundas e memórias inesquecíveis.",
+        "paragraph2": "Desde performances de música clássica em cenários históricos até experiências culturais modernas, as ofertas românticas de {city} combinam arte com intimidade. Cada experiência é projetada para ajudá-lo a se conectar, celebrar e criar momentos que fortalecem seu vínculo."
+      },
+      "uniqueDateIdeas": {
+        "title": "Ideias para Encontros Únicos em {city}",
+        "paragraph1": "Procurando algo diferente neste Dia das Mães? {city} oferece ideias para encontros únicos que se afastam do ordinário. Considere workshops românticos onde vocês podem criar algo juntos, tours culturais exclusivos ou experiências íntimas nos locais mais bonitos da cidade.",
+        "paragraph2": "Essas ideias para encontros únicos em {city} são projetadas para ajudá-lo a descobrir coisas novas sobre o outro enquanto cria memórias compartilhadas. Desde aulas de culinária até experiências artísticas, cada atividade oferece uma chance de se conectar de maneiras significativas."
+      },
+      "coupleActivities": {
+        "title": "Atividades para Casais em {city}",
+        "paragraph1": "O Dia das Mães em {city} é o momento perfeito para explorar atividades para casais que os aproximam. A cidade oferece tudo, desde experiências de bem-estar e dias de spa até atividades aventureiras e explorações culturais, tudo projetado para ser desfrutado juntos por casais."
+      },
+      "cta": "Explore nossas ideias curadas do Dia das Mães em {city} e reserve a experiência perfeita para você e sua pessoa amada."
+    },
+    "lastMinute": {
+      "title": "Planos de Última Hora do Dia das Mães em {city}",
+      "subtitle": "Planos perfeitos disponíveis agora",
+      "metaTitle": "Planos de Última Hora do Dia das Mães em {city} | Mesmo Dia 2026",
+      "metaDescription": "Planos de última hora do Dia das Mães em {city}. Reservas no mesmo dia, ideias de presentes urgentes e experiências românticas disponíveis agora para 2026.",
+      "heroTitle": "Planos de Última Hora do Dia das Mães em {city}",
+      "heroSubtitle": "Ainda há tempo para criar a celebração perfeita",
+      "introSection": {
+        "title": "Planos de Última Hora do Dia das Mães em {city}",
+        "paragraph1": "Esqueceu de planejar com antecedência? Não se preocupe - {city} oferece excelentes opções de última hora para o Dia das Mães que ainda podem criar uma celebração inesquecível. Muitas experiências românticas, restaurantes e atividades têm disponibilidade no mesmo dia, garantindo que você ainda possa dar à sua pessoa amada um Dia das Mães perfeito.",
+        "paragraph2": "Mesmo com pouco aviso, você pode encontrar experiências românticas incríveis em {city}. A cena vibrante da cidade inclui restaurantes com reservas de última hora, shows com ingressos disponíveis e experiências que podem ser reservadas imediatamente para desfrute no mesmo dia.",
+        "paragraph3": "Nossos planos de última hora do Dia das Mães em {city} são cuidadosamente selecionados para garantir qualidade e disponibilidade. Cada opção oferece a oportunidade de criar momentos especiais, mesmo ao planejar no último momento."
+      },
+      "sameDayReservations": {
+        "title": "Reservas no Mesmo Dia em {city}",
+        "paragraph1": "Muitos dos melhores restaurantes românticos e experiências de {city} oferecem reservas no mesmo dia, tornando possível planejar uma celebração perfeita do Dia das Mães mesmo na última hora. Esses locais entendem que às vezes os melhores planos são feitos espontaneamente.",
+        "paragraph2": "As reservas no mesmo dia para o Dia das Mães em {city} incluem experiências de jantar íntimas, atividades românticas e eventos especiais que podem ser reservados imediatamente. Com disponibilidade flexível e qualidade excepcional, essas opções garantem que sua celebração ainda seja perfeita."
+      },
+      "urgentGiftIdeas": {
+        "title": "Ideias de Presentes Urgentes em {city}",
+        "paragraph1": "Precisa de um presente do Dia das Mães imediatamente? {city} oferece numerosas ideias de presentes urgentes que podem ser reservadas e desfrutadas imediatamente. Desde ingressos para shows no mesmo dia até experiências de reserva imediata, você encontrará opções que mostram seu amor sem o estresse do planejamento antecipado.",
+        "paragraph2": "Essas ideias de presentes urgentes do Dia das Mães em {city} incluem experiências românticas, atividades e eventos que estão disponíveis agora. Cada opção é cuidadosamente selecionada para garantir que ainda seja especial e significativa, mesmo quando escolhida no último momento."
+      },
+      "availableNow": {
+        "title": "Disponível Agora em {city}",
+        "paragraph1": "Muitas experiências românticas em {city} estão disponíveis para reserva imediata, permitindo que você crie uma celebração perfeita do Dia das Mães mesmo com planejamento mínimo. Essas experiências oferecem flexibilidade enquanto mantêm a qualidade e o romantismo que tornam o Dia das Mães especial."
+      },
+      "cta": "Navegue nossos planos de última hora do Dia das Mães em {city} e reserve sua celebração perfeita hoje."
+    }
+  }
+}

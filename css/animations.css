@@ -1,0 +1,100 @@
+/* Seasonality Master Template — Animations (respeta prefers-reduced-motion) */
+
+/* Hero: zoom automático más marcado (estilo celebratevalentines.com) */
+@keyframes heroZoom {
+  from { transform: scale(1); }
+  to { transform: scale(1.15); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  @keyframes heroZoom {
+    from { transform: scale(1); }
+    to { transform: scale(1); }
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUpShort {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  @keyframes fadeInUp {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes fadeInUpShort {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+}
+
+.section--animate {
+  animation: fadeIn 0.4s ease-out;
+}
+
+/* Entrada suave para secciones (opcional: añadir .section--reveal en HTML) */
+.section--reveal {
+  animation: fadeInUp 0.5s var(--ease, cubic-bezier(0.4, 0, 0.2, 1)) forwards;
+}
+
+/* Stagger para grids: hijos se animan con delay */
+.picks-grid--stagger .pick-card,
+.ideas-grid--stagger .idea-card,
+.features-grid--stagger .feature-card,
+.city-grid--stagger .city-card {
+  opacity: 0;
+  animation: fadeInUpShort 0.45s var(--ease, cubic-bezier(0.4, 0, 0.2, 1)) forwards;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .picks-grid--stagger .pick-card:nth-child(1) { animation-delay: 0.05s; }
+  .picks-grid--stagger .pick-card:nth-child(2) { animation-delay: 0.1s; }
+  .picks-grid--stagger .pick-card:nth-child(3) { animation-delay: 0.15s; }
+  .picks-grid--stagger .pick-card:nth-child(4) { animation-delay: 0.2s; }
+  .picks-grid--stagger .pick-card:nth-child(5) { animation-delay: 0.25s; }
+  .picks-grid--stagger .pick-card:nth-child(6) { animation-delay: 0.3s; }
+  .ideas-grid--stagger .idea-card:nth-child(1) { animation-delay: 0.05s; }
+  .ideas-grid--stagger .idea-card:nth-child(2) { animation-delay: 0.1s; }
+  .ideas-grid--stagger .idea-card:nth-child(3) { animation-delay: 0.15s; }
+  .ideas-grid--stagger .idea-card:nth-child(4) { animation-delay: 0.2s; }
+  .city-grid--stagger .city-card:nth-child(1) { animation-delay: 0.05s; }
+  .city-grid--stagger .city-card:nth-child(2) { animation-delay: 0.1s; }
+  .city-grid--stagger .city-card:nth-child(3) { animation-delay: 0.15s; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .picks-grid--stagger .pick-card,
+  .ideas-grid--stagger .idea-card,
+  .features-grid--stagger .feature-card,
+  .city-grid--stagger .city-card {
+    opacity: 1;
+    animation: none;
+  }
+}
+
+.glide__slide {
+  transition: transform 0.3s ease;
+}

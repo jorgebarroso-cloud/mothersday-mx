@@ -1,0 +1,16 @@
+/* Self-hosted fonts - font-display: optional for LCP/CLS (README) */
+/* Download: Invoke-WebRequest -Uri "https://rsms.me/inter/font-files/Inter-Regular.woff2" -OutFile "fonts/inter-regular.woff2" */
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/inter-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: optional;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/inter-bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: optional;
+}

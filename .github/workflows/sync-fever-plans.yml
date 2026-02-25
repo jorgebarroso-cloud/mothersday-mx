@@ -1,0 +1,68 @@
+# Sync Mother's Day plans from Fever and regenerate city pages.
+# Runs on schedule and can be triggered manually. Commits and pushes changes
+# so Cloud Build (trigger on push to main) deploys with fresh data.
+name: Sync Fever plans
+
+on:
+  schedule:
+    # Run at 08:00 and 18:00 UTC daily
+    - cron: '0 8,18 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium --with-deps
+
+      - name: Fetch plans from Fever
+        run: node scripts/fetch-fever-plans.js
+
+      - name: Regenerate city pages
+        run: node scripts/generate-city-pages.js
+
+      - name: Get city folders from config
+        id: city_dirs
+        run: |
+          LIST=$(node -e "const c = require('./data/campaigns/mothers-day.json'); console.log((c.cities || []).map(x => x.slug + '/').join(' '));")
+          echo "list=$LIST" >> $GITHUB_OUTPUT
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CITY_DIRS: ${{ steps.city_dirs.outputs.list }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fever-plans-uk.json sitemap.xml $CITY_DIRS
+          git commit -m "chore: sync Fever plans and regenerate city pages"
+          git push

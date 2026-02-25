@@ -1,0 +1,4 @@
+# Asegurar LF en scripts y configs para que Docker/Cloud Build no falle por CRLF
+* text=auto
+*.sh text eol=lf
+*.bash text eol=lf

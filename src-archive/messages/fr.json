@@ -1,0 +1,735 @@
+{
+  "Hero": {
+    "title": "Fête des Mères 2026 Inoubliable :",
+    "subtitle": "Plans Romantiques & Expériences d'Exception",
+    "description": "Dîners romantiques, expériences intimes et escapades sélectionnées dans les plus belles villes du monde.",
+    "searchPlaceholder": "Où êtes-vous ? (ex: Paris, Madrid)",
+    "searchButton": "Rechercher",
+    "cityTitle": "Fête des Mères",
+    "citySubtitle": "à {city}",
+    "cityDescription": "Découvrez les meilleures idées, cadeaux, restaurants et expériences romantiques incontournables pour la Fête des Mères à {city}"
+  },
+  "GlobalGuide": {
+    "title": "Votre Guide Mondial de la Fête des Mères",
+    "description1": "Celebratevalentines.com est votre guide mondial des expériences de la Fête des Mères, aidant les couples à trouver les meilleurs cadeaux, restaurants et idées romantiques dans leur ville.",
+    "description2": "De New York à Paris, Madrid à São Paulo, nous sélectionnons les plans les plus romantiques pour la Fête des Mères, où que vous soyez.",
+    "cta": "Explorer Toutes les Villes"
+  },
+  "CitySelector": {
+    "title": "Explorez les Plans Romantiques par Ville",
+    "searchPlaceholder": "🔍 Recherchez votre ville (ex: Madrid, Paris...)",
+    "regionAll": "Toutes",
+    "regionEurope": "Europe",
+    "regionAmerica": "Amérique",
+    "regionOceania": "Océanie",
+    "resultsCount": "{count} {count, plural, =1 {ville trouvée} other {villes trouvées}}",
+    "noResults": "Aucune ville trouvée",
+    "noResultsHelp": "Essayez un autre terme de recherche ou changez de région"
+  },
+  "Footer": {
+    "description": "Celebratevalentines.com est votre guide mondial des expériences de la Fête des Mères, aidant les couples à trouver les meilleurs cadeaux, restaurants et idées romantiques dans leur ville.",
+    "tagline": "De New York à Paris, Madrid à São Paulo, nous sélectionnons les plans les plus romantiques pour la Fête des Mères, où que vous soyez.",
+    "brand": "Celebrate Valentine's",
+    "madeWithLove": "Fait avec amour",
+    "popularCities": "Villes Populaires",
+    "allCities": "Toutes les Villes",
+    "resources": "Ressources",
+    "languages": "Langues",
+    "home": "Accueil",
+    "contact": "Contact",
+    "legal": "Légal",
+    "termsOfService": "Conditions d'utilisation",
+    "privacyPolicy": "Politique de Confidentialité",
+    "cookiePolicy": "Politique des Cookies",
+    "allRightsReserved": "Tous droits réservés.",
+    "website": "Site web:",
+    "valentinesDayIn": "Fête des Mères à",
+    "viewAllCities": "Voir toutes les villes →",
+    "operatedBy": "Celebrate Valentine's est exploité par Fever Up Entertainment.",
+    "doNotSell": "Ne pas vendre mes informations personnelles"
+  },
+  "CookieBanner": {
+    "message": "Nous utilisons des cookies pour l'analyse (ex. Google Analytics). Vous pouvez accepter ou refuser les cookies non essentiels. Voir notre Politique des Cookies.",
+    "accept": "Accepter",
+    "reject": "Refuser"
+  },
+  "LegalCookies": {
+    "title": "Politique des Cookies",
+    "metaDescription": "Politique des cookies de Celebrate Valentine's (celebratemothersday.com). Exploitant: Fever Up Entertainment.",
+    "intro": "Cette page explique comment Celebrate Valentine's utilise les cookies sur celebratemothersday.com.",
+    "whoWeAre": "Qui nous sommes",
+    "operator": "Ce site est exploité par Fever Up Entertainment (même entité légale que Fever).",
+    "domain": "Domaine: celebratemothersday.com.",
+    "whatCookies": "Cookies utilisés",
+    "cookiesWeUse": "Nous utilisons les cookies suivants:",
+    "cookieConsent": "cookie_consent: enregistre votre choix (accepter/refuser) pour les cookies non essentiels. Durée: 1 an.",
+    "analytics": "Si vous acceptez: Google Analytics (GA4) peut utiliser des cookies. Vous pouvez refuser pour désactiver les cookies d'analyse.",
+    "youCanReject": "Vous pouvez refuser les cookies non essentiels à tout moment via le bandeau ou en bloquant les cookies dans votre navigateur.",
+    "doNotSellTitle": "Ne pas vendre mes informations personnelles (CCPA)",
+    "doNotSellText": "Nous ne vendons pas vos données personnelles. Pour limiter les cookies d'analyse, choisissez \"Refuser\" dans le bandeau cookies.",
+    "moreInfo": "Plus d'information",
+    "fullCookiePolicy": "Politique des Cookies complète (Fever)",
+    "privacyPolicy": "Politique de Confidentialité (Fever)",
+    "lastUpdated": "Dernière mise à jour: janvier 2026.",
+    "backToHome": "Retour à l'accueil"
+  },
+  "Common": {
+    "home": "Accueil",
+    "loading": "Chargement...",
+    "comingSoon": "Bientôt disponible !",
+    "notAvailable": "Les expériences de la Fête des Mères à {city} ne sont pas encore disponibles.",
+    "checkBack": "Revenez bientôt ou explorez une autre ville.",
+    "errorLoadingPage": "Erreur de Chargement de la Page",
+    "pleaseTryAgainLater": "Veuillez réessayer plus tard",
+    "backTo": "Retour à",
+    "priceRange": "Gamme de Prix",
+    "clearFilters": "Effacer les Filtres",
+    "plan": "plan",
+    "plans": "plans",
+    "available": "disponibles",
+    "noPlansFound": "Aucun plan trouvé correspondant à vos filtres. Essayez d'ajuster vos critères de recherche."
+  },
+  "Filters": {
+    "priceRange": "Gamme de Prix",
+    "date": "Date",
+    "cuisineType": "Type de Cuisine",
+    "ambiance": "Ambiance",
+    "recipient": "Destinataire",
+    "timeSlots": "Créneaux Horaires",
+    "clearAll": "Effacer Tous les Filtres"
+  },
+  "Header": {
+    "searchPlaceholder": "Rechercher une ville...",
+    "giftNow": "OFFRIR MAINTENANT",
+    "selectCity": "Sélectionner une Ville"
+  },
+  "CategoryNav": {
+    "categories": "Catégories",
+    "price": "Prix",
+    "date": "Date",
+    "all": "Toutes",
+    "candlelight": "🕯️ Candlelight",
+    "allExperiences": "Toutes les Expériences"
+  },
+  "CityPage": {
+    "top3Title": "♥ Top 3 Coup de Cœur Romantiques ♥",
+    "top3Subtitle": "Les expériences les plus appréciées pour la Fête des Mères",
+    "allExperiencesTitle": "Toutes les Expériences ♥",
+    "allExperiencesSubtitle": "Explorez tout ce que {city} a à offrir",
+    "candlelightTitle": "🕯️ Expériences Candlelight"
+  },
+  "DateFilter": {
+    "selectDates": "Sélectionner les dates",
+    "clear": "Effacer",
+    "apply": "Appliquer",
+    "months": {
+      "january": "Janvier",
+      "february": "Février",
+      "march": "Mars",
+      "april": "Avril",
+      "may": "Mai",
+      "june": "Juin",
+      "july": "Juillet",
+      "august": "Août",
+      "september": "Septembre",
+      "october": "Octobre",
+      "november": "Novembre",
+      "december": "Décembre"
+    },
+    "weekdays": {
+      "sunday": "Di",
+      "monday": "Lu",
+      "tuesday": "Ma",
+      "wednesday": "Me",
+      "thursday": "Je",
+      "friday": "Ve",
+      "saturday": "Sa"
+    }
+  },
+  "Metadata": {
+    "homeTitle": "Fête des Mères 2026 : Meilleurs Plans et Dîners Romantiques",
+    "homeDescription": "Explorez les plans romantiques pour la Fête des Mères 2026. Réservez les meilleurs dîners, concerts et escapades uniques à NYC, Paris, Madrid et plus encore. Rendez-le inoubliable.",
+    "cityPageTitle": "Fête des Mères 2026 à {city} : Cadeaux et Idées",
+    "cityPageDescription": "Fêtez la Fête des Mères 2026 à {city}. Découvrez les idées romantiques, cadeaux pour elle et lui et les meilleurs restaurants pour un rendez-vous inoubliable.",
+    "cityPageGiftsTitle": "Cadeaux Fête des Mères à {city} 2026 | Pour Elle et Lui",
+    "cityPageGiftsDescription": "Trouvez les cadeaux Fête des Mères parfaits à {city}. Cadeaux originaux pour elle et lui, expériences romantiques et idées de dernière minute. Réservez pour 2026.",
+    "cityPageRestaurantsTitle": "Restaurants Romantiques à {city} | Fête des Mères 2026",
+    "cityPageRestaurantsDescription": "Découvrez les meilleurs restaurants romantiques à {city} pour la Fête des Mères 2026. Dîners intimes et restaurants romantiques. Réservez aujourd'hui.",
+    "cityPageIdeasTitle": "Idées Fête des Mères à {city} | Sorties Romantiques 2026",
+    "cityPageIdeasDescription": "Explorez les idées romantiques pour la Fête des Mères à {city}. Sorties en couple, activités et expériences inoubliables pour 2026. Réservez maintenant.",
+    "cityPageLastMinuteTitle": "Plans Fête des Mères Dernière Minute à {city} | Même Jour 2026",
+    "cityPageLastMinuteDescription": "Plans Fête des Mères de dernière minute à {city}. Réservations le jour même, idées cadeaux urgentes et expériences romantiques disponibles pour 2026."
+  },
+  "Testimonials": {
+    "title": "Ce Que Disent Nos Couples",
+    "subtitle": "Expériences réelles de couples qui ont rendu leur Fête des Mères inoubliable",
+    "items": [
+      {
+        "text": "Le meilleur dîner à Rome ! Le restaurant était parfait, la nourriture incroyable et l'atmosphère était exactement ce dont nous avions besoin pour notre Fête des Mères. Je recommande vivement !",
+        "author": "Sofia & Marc",
+        "location": "Rome, Italie"
+      },
+      {
+        "text": "Nuit inoubliable à NYC ! Nous avons réservé un dîner romantique sur le toit et cela a dépassé toutes nos attentes. La vue était à couper le souffle et le service impeccable.",
+        "author": "Alex",
+        "location": "New York, États-Unis"
+      },
+      {
+        "text": "A rendu notre Fête des Mères à Paris absolument magique ! La croisière dîner aux chandelles était romantique au-delà des mots. Chaque détail était parfait, de la nourriture à l'ambiance.",
+        "author": "Emma & James",
+        "location": "Paris, France"
+      }
+    ]
+  },
+  "WhyCelebrate": {
+    "title": "Pourquoi Célébrer la Fête des Mères en Couple ?",
+    "description": "La Fête des Mères est une occasion spéciale de célébrer votre amour, créer des souvenirs durables et renforcer votre lien avec des expériences romantiques et des cadeaux significatifs de la Fête des Mères.",
+    "reasons": [
+      {
+        "title": "Renforcez Votre Lien",
+        "description": "Célébrer la Fête des Mères ensemble crée des expériences romantiques inoubliables qui approfondissent votre connexion. C'est l'occasion parfaite de montrer à votre partenaire à quel point il compte pour vous avec des cadeaux réfléchis de la Fête des Mères et des moments romantiques."
+      },
+      {
+        "title": "Créez des Souvenirs Durables",
+        "description": "Des concerts Candlelight intimes aux restaurants romantiques, les expériences de la Fête des Mères deviennent des souvenirs précieux. Ces idées romantiques de la Fête des Mères vous aident à célébrer l'amour de façons uniques que vous vous souviendrez pour toujours."
+      },
+      {
+        "title": "Exprimez Votre Amour",
+        "description": "Les cadeaux de la Fête des Mères pour elle et pour lui sont plus que des présents—ce sont des expressions d'amour. Qu'il s'agisse de cadeaux personnalisés de la Fête des Mères ou de cadeaux de dernière minute, chacun montre que vous vous souciez."
+      },
+      {
+        "title": "Reconnectez et Ranimez",
+        "description": "Dans nos vies occupées, la Fête des Mères offre un temps dédié pour se reconnecter. Les expériences romantiques et les idées de rendez-vous aident les couples à ranimer leur romance et à célébrer leur relation avec des idées significatives de la Fête des Mères."
+      }
+    ],
+    "cta": "Trouvez Votre Ville Parfaite"
+  },
+  "WhyUs": {
+    "title": "Pourquoi Nous Choisir pour Vos Plans de la Fête des Mères 2026",
+    "description1": "Découvrez les meilleurs cadeaux de la Fête des Mères, expériences romantiques et idées de rendez-vous inoubliables. Des concerts Candlelight intimes aux restaurants romantiques, nous aidons les couples à créer des moments parfaits de la Fête des Mères.",
+    "description2": "Approuvé par des milliers de couples pour des expériences romantiques sélectionnées, des cadeaux de dernière minute de la Fête des Mères et des idées de rendez-vous uniques dans les villes du monde entier.",
+    "features": [
+      {
+        "title": "Expériences de la Fête des Mères Sélectionnées",
+        "description": "Découvrez des expériences romantiques choisies à la main, des concerts Candlelight intimes aux restaurants romantiques exclusifs. Nous sélectionnons uniquement les meilleurs cadeaux de la Fête des Mères et idées de rendez-vous pour créer des moments romantiques inoubliables pour les couples."
+      },
+      {
+        "title": "Réservation Instantanée pour Plans de Dernière Minute",
+        "description": "Oublié de planifier à l'avance ? Pas de problème. Réservez des expériences romantiques, des cadeaux de la Fête des Mères et des dîners romantiques instantanément. Parfait pour les cadeaux de dernière minute de la Fête des Mères et les idées de rendez-vous romantiques spontanées."
+      },
+      {
+        "title": "Avis Vérifiés de Vrais Couples",
+        "description": "Chaque expérience romantique est vérifiée et examinée par des couples qui ont célébré la Fête des Mères avec nous. Trouvez des recommandations fiables pour les cadeaux de la Fête des Mères pour elle, pour lui et les meilleures expériences romantiques."
+      },
+      {
+        "title": "Cadeaux et Idées Uniques de la Fête des Mères",
+        "description": "Des cadeaux personnalisés de la Fête des Mères aux escapades romantiques, découvrez des idées de cadeaux uniques de la Fête des Mères pour chaque couple. Que vous cherchiez des cadeaux pour elle, pour lui ou des expériences pour les deux."
+      },
+      {
+        "title": "Expériences Romantiques dans les Grandes Villes",
+        "description": "Explorez les meilleurs restaurants romantiques, concerts Candlelight et expériences de la Fête des Mères dans les grandes villes du monde. Des dîners romantiques aux concerts intimes, trouvez des idées de rendez-vous parfaites dans votre ville."
+      },
+      {
+        "title": "Guide Mondial de la Fête des Mères 2026",
+        "description": "Votre guide complet pour célébrer la Fête des Mères 2026. Découvrez des expériences romantiques, des cadeaux de la Fête des Mères, des restaurants romantiques et des idées de rendez-vous inoubliables dans les villes du monde entier."
+      }
+    ],
+    "trustedSource": {
+      "title": "Votre Source de Confiance pour la Fête des Mères 2026",
+      "paragraph1": "Que vous cherchiez des cadeaux de la Fête des Mères pour elle, pour lui ou des expériences romantiques pour les couples, nous avons sélectionné la meilleure sélection de restaurants romantiques, concerts Candlelight et idées de rendez-vous uniques. Parfait pour les cadeaux de dernière minute de la Fête des Mères ou planifier à l'avance pour la Fête des Mères 2026.",
+      "paragraph2": "Rejoignez des milliers de couples qui nous font confiance pour leurs plans romantiques de la Fête des Mères, des dîners intimes aux escapades romantiques inoubliables et activités pour couples."
+    }
+  },
+  "PlanCard": {
+    "getTickets": "Obtenir les Billets →"
+  },
+  "Price": {
+    "from": "À partir de",
+    "under": "Moins de"
+  },
+  "ValentinesIdeas": {
+    "title": "Idées de la Fête des Mères à {city}",
+    "subtitle": "Explorez les meilleures options pour célébrer la Fête des Mères",
+    "ideas": [
+      {
+        "title": "Cadeaux de la Fête des Mères",
+        "description": "Trouvez les meilleurs cadeaux de la Fête des Mères à {city}"
+      },
+      {
+        "title": "Restaurants Romantiques",
+        "description": "Découvrez les meilleurs restaurants romantiques pour la Fête des Mères à {city}"
+      },
+      {
+        "title": "Idées Romantiques de la Fête des Mères",
+        "description": "Idées uniques et romantiques pour célébrer la Fête des Mères à {city}"
+      },
+      {
+        "title": "Plans de Dernière Minute",
+        "description": "Plans parfaits de dernière minute pour la Fête des Mères à {city}"
+      }
+    ]
+  },
+  "CityInfo": {
+    "fallback": {
+      "title": "Pourquoi {city} est Parfait pour Célébrer la Fête des Mères",
+      "intro": "{city} offre des expériences romantiques incroyables, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Que vous recherchiez des idées romantiques de la Fête des Mères, des cadeaux de dernière minute ou les meilleurs restaurants romantiques, {city} a tout ce dont vous avez besoin pour célébrer l'amour.",
+      "reasons": [
+        {
+          "title": "Cadeaux Parfaits de la Fête des Mères",
+          "description": "Trouvez les cadeaux parfaits de la Fête des Mères à {city} ! Des expériences romantiques et des idées de rendez-vous uniques aux cadeaux de dernière minute, découvrez des cadeaux pour elle et pour lui qui créent des moments inoubliables."
+        },
+        {
+          "title": "Expériences Romantiques et Idées de Rendez-vous",
+          "description": "{city} offre des expériences romantiques incroyables pour les couples. Que vous cherchiez des restaurants romantiques, des concerts intimes ou des idées de rendez-vous uniques, vous trouverez des idées romantiques de la Fête des Mères qui rendent cette journée vraiment spéciale."
+        },
+        {
+          "title": "Moments Romantiques Inoubliables",
+          "description": "Célébrez l'amour à {city} avec des cadeaux personnalisés de la Fête des Mères et des expériences romantiques. Des cadeaux de luxe aux options économiques, trouvez la façon parfaite de célébrer la Fête des Mères avec votre bien-aimé."
+        }
+      ]
+    },
+    "madrid": {
+      "title": "Pourquoi Madrid est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Madrid offre le mélange parfait d'expériences romantiques, de cadeaux uniques de la Fête des Mères et d'idées de rendez-vous inoubliables. Des concerts intimes de Candlelight aux restaurants romantiques de Malasaña, découvrez les meilleurs cadeaux de la Fête des Mères pour elle et pour lui dans la capitale vibrante de l'Espagne.",
+      "reasons": [
+        {
+          "title": "Parcs Romantiques et Lieux Emblématiques",
+          "description": "Le parc du Retiro et les rues illuminées créent des cadres magiques pour la Fête des Mères. Trouvez des idées romantiques comme des promenades au coucher du soleil et des terrasses confortables parfaites pour les cadeaux de dernière minute et les expériences romantiques."
+        },
+        {
+          "title": "Restaurants Romantiques de Classe Mondiale",
+          "description": "Des restaurants étoilés Michelin aux bars à tapas intimes de La Latina, Madrid offre des restaurants romantiques pour chaque couple. Parfaits pour les cadeaux de la Fête des Mères, ces expériences culinaires créent des moments romantiques inoubliables."
+        },
+        {
+          "title": "Expériences Culturelles et Candlelight",
+          "description": "Les concerts intimes de Candlelight, les spectacles de flamenco et les expériences culturelles font de Madrid l'endroit idéal pour les idées romantiques de la Fête des Mères. Découvrez des cadeaux uniques de la Fête des Mères et des expériences romantiques qui célèbrent l'amour avec style."
+        }
+      ]
+    },
+    "barcelona": {
+      "title": "Pourquoi Barcelone est Parfaite pour Célébrer la Fête des Mères",
+      "intro": "Barcelone combine le romance méditerranéen avec des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques le long de la plage aux concerts intimes du Quartier Gothique, trouvez les meilleures idées romantiques de la Fête des Mères et des cadeaux pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance en Bord de Mer et Vues",
+          "description": "La plage de Barceloneta et Montjuïc offrent des vues spectaculaires au coucher du soleil parfaites pour les expériences romantiques. Découvrez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec des arrière-plans méditerranéens à couper le souffle."
+        },
+        {
+          "title": "Excellence Gastronomique",
+          "description": "De la cuisine catalane innovante aux restaurants romantiques d'El Born, Barcelone offre des expériences culinaires exceptionnelles. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Romance Architecturale et Culture",
+          "description": "Les chefs-d'œuvre de Gaudí et le Quartier Gothique créent des idées de rendez-vous uniques et des expériences romantiques. Trouvez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui combinent culture et romance."
+        }
+      ]
+    },
+    "valencia": {
+      "title": "Pourquoi Valence est Parfaite pour Célébrer la Fête des Mères",
+      "intro": "Valence offre des expériences romantiques le long de la Méditerranée avec des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques de la Vieille Ville aux expériences en bord de mer, découvrez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance en Plage et Cité des Arts",
+          "description": "La plage de Malvarrosa et la futuriste Cité des Arts et des Sciences offrent des expériences romantiques parfaites pour la Fête des Mères. Trouvez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec des vues côtières époustouflantes."
+        },
+        {
+          "title": "Paella Authentique et Dîners Romantiques",
+          "description": "Les restaurants romantiques de Valence servent une paella authentique et une cuisine méditerranéenne parfaites pour les expériences romantiques. Les cadeaux idéaux de la Fête des Mères incluent des dîners intimes avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Charme Historique et Romance Moderne",
+          "description": "La Vieille Ville historique et les Jardins du Turia offrent des idées de rendez-vous uniques et des expériences romantiques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques dans ce mélange parfait d'histoire et de romance."
+        }
+      ]
+    },
+    "london": {
+      "title": "Pourquoi Londres est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Londres offre des expériences romantiques de classe mondiale, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques de Covent Garden aux spectacles intimes du West End, découvrez les meilleurs cadeaux de la Fête des Mères pour elle et pour lui dans la capitale britannique.",
+      "reasons": [
+        {
+          "title": "Monuments Romantiques Emblématiques",
+          "description": "Les promenades le long de la Tamise, Hyde Park et le London Eye créent des cadres magiques pour les idées romantiques de la Fête des Mères. Trouvez des cadeaux de dernière minute de la Fête des Mères et des expériences romantiques avec le charme emblématique britannique."
+        },
+        {
+          "title": "Dîners Étoilés Michelin et Intimes",
+          "description": "Des restaurants de luxe de Mayfair aux pubs confortables, Londres offre des restaurants romantiques pour chaque couple. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Spectacles du West End et Candlelight",
+          "description": "Les concerts intimes de Candlelight et les comédies musicales du West End offrent des expériences romantiques uniques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui célèbrent l'amour avec style."
+        }
+      ]
+    },
+    "paris": {
+      "title": "Pourquoi Paris est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Paris, la Ville de l'Amour, offre des expériences romantiques sans pareil, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques avec vue sur la Tour Eiffel aux croisières intimes sur la Seine, trouvez les meilleures idées romantiques de la Fête des Mères et des cadeaux pour les couples.",
+      "reasons": [
+        {
+          "title": "La Ville de l'Amour et du Romance",
+          "description": "La Tour Eiffel, Montmartre et la Seine créent les expériences romantiques ultimes. Découvrez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques dans la ville la plus romantique du monde."
+        },
+        {
+          "title": "Excellence Gourmet et Dîners Intimes",
+          "description": "Des restaurants étoilés Michelin aux bistrots charmants, Paris offre des restaurants romantiques exceptionnels. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Art, Culture et Moments Romantiques",
+          "description": "Le Louvre, les concerts intimes de Candlelight et les cafés charmants offrent des idées de rendez-vous uniques. Trouvez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui célèbrent l'amour dans le vrai style parisien."
+        }
+      ]
+    },
+    "new-york": {
+      "title": "Pourquoi New York est Parfait pour Célébrer la Fête des Mères",
+      "intro": "New York offre des expériences romantiques emblématiques, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques avec vue sur la skyline aux spectacles de Broadway, découvrez les meilleurs cadeaux de la Fête des Mères pour elle et pour lui dans la Grande Pomme.",
+      "reasons": [
+        {
+          "title": "Skyline Emblématique et Central Park",
+          "description": "Central Park, le pont de Brooklyn et l'Empire State Building créent des expériences romantiques magiques. Trouvez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec des vues spectaculaires sur la ville."
+        },
+        {
+          "title": "Dîners de Classe Mondiale et Romance sur les Toits",
+          "description": "Des restaurants étoilés Michelin aux bars romantiques sur les toits, NYC offre des restaurants romantiques exceptionnels. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Spectacles de Broadway et Concerts Intimes",
+          "description": "Les comédies musicales de Broadway et les concerts intimes de Candlelight offrent des expériences romantiques uniques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui célèbrent l'amour dans le style new-yorkais."
+        }
+      ]
+    },
+    "los-angeles": {
+      "title": "Pourquoi Los Angeles est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Los Angeles offre des expériences romantiques glamour, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques de Beverly Hills aux expériences en bord de mer, découvrez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance en Plage et Glamour d'Hollywood",
+          "description": "Les plages de Malibu, l'Observatoire Griffith et Sunset Boulevard créent des expériences romantiques parfaites. Trouvez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec des vues spectaculaires sur le Pacifique."
+        },
+        {
+          "title": "Chefs Célébrités et Dîners Intimes",
+          "description": "Des restaurants de célébrités aux dîners romantiques en bord de mer, LA offre des restaurants romantiques exceptionnels. Les cadeaux idéaux de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Divertissement et Idées de Rendez-vous Uniques",
+          "description": "Les concerts du Hollywood Bowl, les expériences intimes de Candlelight et les bars sur les toits offrent des idées de rendez-vous uniques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques dans la capitale du divertissement."
+        }
+      ]
+    },
+    "chicago": {
+      "title": "Pourquoi Chicago est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Chicago offre des expériences romantiques vibrantes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques le long de la Magnificent Mile aux clubs de jazz intimes, trouvez les meilleures idées romantiques de la Fête des Mères et des cadeaux pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance en Bord de Lac et Architecture",
+          "description": "Le lac Michigan, Millennium Park et l'architecture emblématique créent des expériences romantiques magiques. Découvrez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec des vues spectaculaires sur le lac."
+        },
+        {
+          "title": "Scène Culinaire Primée",
+          "description": "Des restaurants étoilés Michelin aux endroits intimes de River North, Chicago offre des restaurants romantiques exceptionnels. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Jazz et Concerts Intimes",
+          "description": "Les clubs de jazz et les concerts intimes de Candlelight offrent des expériences romantiques uniques. Trouvez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui célèbrent l'amour dans la Ville des Vents."
+        }
+      ]
+    },
+    "miami": {
+      "title": "Pourquoi Miami est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Miami offre des expériences romantiques tropicales, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques de South Beach aux expériences Art Déco intimes, découvrez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance Tropicale en Plage",
+          "description": "South Beach, Key Biscayne et les vues sur l'océan créent des expériences romantiques parfaites. Trouvez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec des arrière-plans tropicaux époustouflants."
+        },
+        {
+          "title": "Fusion Latine et Dîners sur les Toits",
+          "description": "De la cuisine cubaine aux restaurants romantiques sur les toits, Miami offre des restaurants romantiques exceptionnels. Les cadeaux idéaux de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Art Déco et Romance Nocturne",
+          "description": "Le quartier Art Déco, les concerts intimes de Candlelight et la vie nocturne vibrante offrent des idées de rendez-vous uniques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques dans ce paradis tropical."
+        }
+      ]
+    },
+    "san-francisco": {
+      "title": "Pourquoi San Francisco est Parfait pour Célébrer la Fête des Mères",
+      "intro": "San Francisco offre des expériences romantiques charmantes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques avec vue sur le Golden Gate aux expériences intimes dans la région viticole, trouvez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Ponts Emblématiques et Vues sur la Baie",
+          "description": "Le Golden Gate Bridge, les vues d'Alcatraz et Pacific Heights créent des expériences romantiques magiques. Découvrez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec des vues spectaculaires sur la baie."
+        },
+        {
+          "title": "Excellence Culinaire et Région Viticole",
+          "description": "Des restaurants étoilés Michelin aux expériences de Napa Valley, SF offre des restaurants romantiques exceptionnels. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Concerts Intimes et Romance Culturelle",
+          "description": "Les concerts intimes de Candlelight et les lieux culturels offrent des expériences romantiques uniques. Trouvez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui célèbrent l'amour dans la région de la Baie."
+        }
+      ]
+    },
+    "lisbon": {
+      "title": "Pourquoi Lisbonne est Parfaite pour Célébrer la Fête des Mères",
+      "intro": "Lisbonne offre des expériences romantiques charmantes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques d'Alfama aux expériences intimes de Fado, découvrez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Collines Historiques et Vues sur le Fleuve",
+          "description": "Le Tage, les tramways historiques et les Miradouros créent des expériences romantiques parfaites. Trouvez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec le charme portugais époustouflant."
+        },
+        {
+          "title": "Cuisine Portugaise Authentique",
+          "description": "Des tascas traditionnelles aux restaurants romantiques de Chiado, Lisbonne offre des restaurants romantiques exceptionnels. Les cadeaux idéaux de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Fado et Expériences Culturelles Intimes",
+          "description": "Les spectacles intimes de Fado et les concerts de Candlelight offrent des expériences romantiques uniques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques dans cette capitale européenne enchanteresse."
+        }
+      ]
+    },
+    "sao-paulo": {
+      "title": "Pourquoi São Paulo est Parfait pour Célébrer la Fête des Mères",
+      "intro": "São Paulo offre des expériences romantiques vibrantes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques de Jardins aux expériences culturelles intimes, trouvez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance Urbaine et Diversité Culturelle",
+          "description": "Le parc Ibirapuera, l'avenue Paulista et les quartiers diversifiés créent des expériences romantiques uniques. Découvrez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques dans la capitale culturelle du Brésil."
+        },
+        {
+          "title": "Gastronomie de Classe Mondiale",
+          "description": "De la cuisine brésilienne innovante aux restaurants romantiques de Vila Madalena, SP offre des restaurants romantiques exceptionnels. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Musique Live et Concerts Intimes",
+          "description": "Les concerts intimes de Candlelight et les lieux de musique live offrent des expériences romantiques uniques. Trouvez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui célèbrent l'amour dans le style pauliste."
+        }
+      ]
+    },
+    "mexico-city": {
+      "title": "Pourquoi Mexico est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Mexico offre des expériences romantiques vibrantes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques de Polanco aux expériences culturelles intimes, découvrez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance Historique et Charme Moderne",
+          "description": "Le parc Chapultepec, le Zócalo et les quartiers colorés créent des expériences romantiques magiques. Trouvez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec un riche patrimoine culturel."
+        },
+        {
+          "title": "Cuisine Mexicaine Exceptionnelle",
+          "description": "Des marchés traditionnels aux restaurants romantiques de Roma, CDMX offre des restaurants romantiques exceptionnels. Les cadeaux idéaux de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Mariachi et Expériences Culturelles",
+          "description": "Les concerts intimes de Candlelight et les spectacles de mariachi offrent des expériences romantiques uniques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques dans cette capitale vibrante."
+        }
+      ]
+    },
+    "berlin": {
+      "title": "Pourquoi Berlin est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Berlin offre des expériences romantiques uniques, des cadeaux distinctifs de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques de Mitte aux expériences culturelles intimes, trouvez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Charme Historique et Romance Moderne",
+          "description": "La Porte de Brandebourg, l'Île aux Musées et les quartiers vibrants créent des expériences romantiques uniques. Découvrez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques dans la capitale dynamique de l'Allemagne."
+        },
+        {
+          "title": "Dîners Innovants et Cafés Confortables",
+          "description": "De la cuisine allemande innovante aux restaurants romantiques de Prenzlauer Berg, Berlin offre des restaurants romantiques exceptionnels. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Concerts Intimes et Scène Culturelle",
+          "description": "Les concerts intimes de Candlelight et les lieux culturels offrent des expériences romantiques uniques. Trouvez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui célèbrent l'amour dans le style berlinois."
+        }
+      ]
+    },
+    "sydney": {
+      "title": "Pourquoi Sydney est Parfaite pour Célébrer la Fête des Mères",
+      "intro": "Sydney offre des expériences romantiques époustouflantes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques avec vue sur le port aux expériences intimes en plage, découvrez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance du Port et Vues Emblématiques",
+          "description": "L'Opéra de Sydney, le pont du port et Bondi Beach créent des expériences romantiques parfaites. Trouvez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec des vues spectaculaires sur le port."
+        },
+        {
+          "title": "Dîners de Classe Mondiale et Waterfront",
+          "description": "Des restaurants primés aux dîners romantiques en bord de mer, Sydney offre des restaurants romantiques exceptionnels. Les cadeaux idéaux de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Concerts Intimes et Romance en Plage",
+          "description": "Les concerts intimes de Candlelight et les expériences en bord de mer offrent des expériences romantiques uniques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques dans cette belle ville portuaire."
+        }
+      ]
+    },
+    "melbourne": {
+      "title": "Pourquoi Melbourne est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Melbourne offre des expériences romantiques sophistiquées, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques dans les ruelles aux expériences culturelles intimes, trouvez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance dans les Ruelles et Charme Culturel",
+          "description": "Les ruelles cachées, la rivière Yarra et la scène artistique vibrante créent des expériences romantiques uniques. Découvrez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques dans la capitale culturelle de l'Australie."
+        },
+        {
+          "title": "Excellence Culinaire et Culture du Café",
+          "description": "Des restaurants de classe mondiale aux cafés romantiques dans les ruelles, Melbourne offre des restaurants romantiques exceptionnels. Les cadeaux parfaits de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Concerts Intimes et Scène Artistique",
+          "description": "Les concerts intimes de Candlelight et les lieux culturels offrent des expériences romantiques uniques. Trouvez des cadeaux personnalisés de la Fête des Mères et des idées romantiques qui célèbrent l'amour dans le style melburnien."
+        }
+      ]
+    },
+    "dublin": {
+      "title": "Pourquoi Dublin est Parfait pour Célébrer la Fête des Mères",
+      "intro": "Dublin offre des expériences romantiques charmantes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables. Des restaurants romantiques de Temple Bar aux expériences intimes dans les pubs, découvrez des idées romantiques de la Fête des Mères et des cadeaux parfaits pour les couples.",
+      "reasons": [
+        {
+          "title": "Romance Historique et Liffey",
+          "description": "Temple Bar, Trinity College et l'architecture géorgienne créent des expériences romantiques magiques. Trouvez des cadeaux de dernière minute de la Fête des Mères et des idées romantiques avec le charme irlandais."
+        },
+        {
+          "title": "Pubs Traditionnels et Dîners Modernes",
+          "description": "Des pubs confortables aux restaurants romantiques près du château de Dublin, Dublin offre des restaurants romantiques exceptionnels. Les cadeaux idéaux de la Fête des Mères incluent des dîners romantiques avec des cadeaux pour elle et pour lui."
+        },
+        {
+          "title": "Musique Live et Concerts Intimes",
+          "description": "Les concerts intimes de Candlelight et la musique traditionnelle irlandaise offrent des expériences romantiques uniques. Découvrez des cadeaux personnalisés de la Fête des Mères et des idées romantiques dans cette capitale enchanteresse."
+        }
+      ]
+    },
+    "lyon": { "title": "Pourquoi Lyon est Parfait pour Célébrer la Fête des Mères", "intro": "Lyon offre des expériences romantiques exceptionnelles, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables.", "reasons": [{ "title": "Romance Gastronomique", "description": "Les bouchons lyonnais et les restaurants étoilés créent des expériences romantiques parfaites." }, { "title": "Charme Historique et Vues sur le Rhône", "description": "Fourvière, la Presqu'île et le Rhône créent des expériences romantiques magiques." }, { "title": "Culture et Concerts Intimes", "description": "Les concerts intimes de Candlelight et les lieux culturels offrent des expériences romantiques uniques." }] },
+    "washington-dc": { "title": "Why Washington DC is Perfect for Celebrating Fête des Mères", "intro": "Washington DC offers iconic romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Monuments & Cherry Blossoms", "description": "National Mall, monuments, and seasonal beauty create magical romantic experiences." }, { "title": "World-Class Dining", "description": "From fine dining to romantic restaurants in Georgetown, DC offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and museums provide unique romantic experiences." }] },
+    "san-diego": { "title": "Why San Diego is Perfect for Celebrating Fête des Mères", "intro": "San Diego offers sunny romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Beach Romance & Harbor Views", "description": "La Jolla, Gaslamp Quarter, and Pacific sunsets create perfect romantic experiences." }, { "title": "Waterfront Dining", "description": "From seafood to romantic restaurants in Little Italy, San Diego offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and Balboa Park provide unique romantic experiences." }] },
+    "atlanta": { "title": "Why Atlanta is Perfect for Celebrating Fête des Mères", "intro": "Atlanta offers Southern romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Southern Charm & Gardens", "description": "Botanical gardens, BeltLine, and Southern hospitality create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From Southern cuisine to romantic restaurants in Midtown, Atlanta offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "austin": { "title": "Why Austin is Perfect for Celebrating Fête des Mères", "intro": "Austin offers vibrant romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Live Music & River Romance", "description": "Lady Bird Lake, live music venues, and Texas charm create perfect romantic experiences." }, { "title": "Food Scene & Rooftop Dining", "description": "From BBQ to romantic restaurants downtown, Austin offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural events provide unique romantic experiences." }] },
+    "hamburg": { "title": "Why Hamburg is Perfect for Celebrating Fête des Mères", "intro": "Hamburg offers maritime romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Harbor Romance & Elbphilharmonie", "description": "Port, Elbe River, and iconic architecture create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From fish market to romantic restaurants in HafenCity, Hamburg offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and musical venues provide unique romantic experiences." }] },
+    "vienna": { "title": "Why Vienna is Perfect for Celebrating Fête des Mères", "intro": "Vienna offers imperial romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Imperial Romance & Architecture", "description": "Hofburg, Schönbrunn, and Ringstraße create magical romantic experiences." }, { "title": "Coffee Houses & Fine Dining", "description": "From traditional coffee houses to romantic restaurants, Vienna offers exceptional romantic restaurants." }, { "title": "Music & Intimate Concerts", "description": "Intimate Candlelight concerts and classical music provide unique romantic experiences." }] },
+    "brisbane": { "title": "Why Brisbane is Perfect for Celebrating Fête des Mères", "intro": "Brisbane offers sunny romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "River Romance & South Bank", "description": "Brisbane River, South Bank Parklands, and subtropical charm create perfect romantic experiences." }, { "title": "Rooftop & Waterfront Dining", "description": "From riverside to romantic restaurants in Fortitude Valley, Brisbane offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "toronto": { "title": "Why Toronto is Perfect for Celebrating Fête des Mères", "intro": "Toronto offers diverse romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Waterfront & CN Tower Romance", "description": "Harbourfront, CN Tower, and diverse neighborhoods create magical romantic experiences." }, { "title": "World-Class Dining", "description": "From multicultural cuisine to romantic restaurants in Distillery District, Toronto offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "buenos-aires": { "title": "Why Buenos Aires is Perfect for Celebrating Fête des Mères", "intro": "Buenos Aires offers passionate romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Tango & Historic Romance", "description": "Tango, Recoleta, and European charm create magical romantic experiences." }, { "title": "Steak & Rooftop Dining", "description": "From parrillas to romantic restaurants in San Telmo, Buenos Aires offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and milongas provide unique romantic experiences." }] },
+    "montreal": { "title": "Pourquoi Montréal est Parfait pour Célébrer la Fête des Mères", "intro": "Montréal offre des expériences romantiques franco-canadiennes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables.", "reasons": [{ "title": "Romance du Vieux-Montréal et Mont Royal", "description": "Le Vieux-Montréal, le Mont Royal et le charme européen créent des expériences romantiques magiques." }, { "title": "Excellence Culinaire", "description": "De la poutine aux restaurants romantiques du Plateau, Montréal offre des restaurants romantiques exceptionnels." }, { "title": "Culture et Concerts Intimes", "description": "Les concerts intimes de Candlelight et les festivals offrent des expériences romantiques uniques." }] },
+    "montréal": { "title": "Pourquoi Montréal est Parfait pour Célébrer la Fête des Mères", "intro": "Montréal offre des expériences romantiques franco-canadiennes, des cadeaux uniques de la Fête des Mères et des idées de rendez-vous inoubliables.", "reasons": [{ "title": "Romance du Vieux-Montréal et Mont Royal", "description": "Le Vieux-Montréal, le Mont Royal et le charme européen créent des expériences romantiques magiques." }, { "title": "Excellence Culinaire", "description": "De la poutine aux restaurants romantiques du Plateau, Montréal offre des restaurants romantiques exceptionnels." }, { "title": "Culture et Concerts Intimes", "description": "Les concerts intimes de Candlelight et les festivals offrent des expériences romantiques uniques." }] },
+    "munchen": { "title": "Why München is Perfect for Celebrating Fête des Mères", "intro": "München offers Bavarian romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Marienplatz & English Garden", "description": "Marienplatz, English Garden, and Bavarian charm create magical romantic experiences." }, { "title": "Beer Gardens & Fine Dining", "description": "From beer gardens to romantic restaurants in Schwabing, München offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "münchen": { "title": "Why München is Perfect for Celebrating Fête des Mères", "intro": "München offers Bavarian romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Marienplatz & English Garden", "description": "Marienplatz, English Garden, and Bavarian charm create magical romantic experiences." }, { "title": "Beer Gardens & Fine Dining", "description": "From beer gardens to romantic restaurants in Schwabing, München offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "roma": { "title": "Why Rome is Perfect for Celebrating Fête des Mères", "intro": "Rome offers eternal romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Ancient Romance & Trevi Fountain", "description": "Colosseum, Trevi Fountain, and historic streets create magical romantic experiences." }, { "title": "Roman Cuisine & Rooftop Dining", "description": "From traditional trattorias to romantic restaurants near the Pantheon, Rome offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "milano": { "title": "Why Milan is Perfect for Celebrating Fête des Mères", "intro": "Milan offers stylish romantic experiences, unique Fête des Mères gifts, and unforgettable date ideas.", "reasons": [{ "title": "Duomo & Navigli Romance", "description": "Duomo, Navigli canals, and Italian style create magical romantic experiences." }, { "title": "Fine Dining & Aperitivo", "description": "From Michelin-starred to romantic restaurants in Brera, Milan offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and La Scala provide unique romantic experiences." }] }
+  },
+  "CategoryPages": {
+    "gifts": {
+      "title": "Cadeaux de la Fête des Mères à {city}",
+      "subtitle": "Trouvez le cadeau parfait pour votre bien-aimé",
+      "metaTitle": "Cadeaux de la Fête des Mères à {city} 2026 | Cadeaux pour Elle & Lui",
+      "metaDescription": "Trouvez les meilleurs cadeaux de la Fête des Mères à {city}. Découvrez des cadeaux uniques pour elle et lui, des expériences romantiques et des idées de dernière minute. Réservez maintenant pour 2026.",
+      "heroTitle": "Les Cadeaux Parfaits de la Fête des Mères à {city}",
+      "heroSubtitle": "Découvrez des cadeaux et expériences inoubliables",
+      "introSection": {
+        "title": "Les Cadeaux Parfaits de la Fête des Mères à {city}",
+        "paragraph1": "Trouver le cadeau parfait de la Fête des Mères à {city} consiste à créer des moments inoubliables. Que vous recherchiez des expériences romantiques, des présents uniques ou des idées de dernière minute, {city} offre une sélection incroyable de cadeaux qui expriment votre amour et votre appréciation.",
+        "paragraph2": "{city} est réputée pour sa gamme diversifiée d'options de cadeaux pour la Fête des Mères. Des concerts intimes de Candlelight aux expériences romantiques exclusives, la ville offre d'innombrables opportunités de surprendre votre bien-aimé avec quelque chose de vraiment spécial cette Fête des Mères 2026.",
+        "paragraph3": "Notre sélection soigneusement choisie comprend des expériences romantiques, des idées de rendez-vous uniques, des activités de bien-être et des événements exclusifs. Chaque cadeau est sélectionné avec soin pour créer des souvenirs durables et célébrer votre amour de la manière la plus significative."
+      },
+      "giftsForHer": {
+        "title": "Cadeaux de la Fête des Mères pour Elle à {city}",
+        "paragraph1": "Lorsqu'il s'agit de trouver les cadeaux parfaits de la Fête des Mères pour elle à {city}, les expériences romantiques créent souvent les souvenirs les plus durables. Des concerts intimes de Candlelight mettant en vedette sa musique préférée aux expériences de spa exclusives et aux ateliers romantiques, {city} offre des cadeaux uniques qui vont au-delà des présents traditionnels.",
+        "paragraph2": "Envisagez de réserver un concert romantique de Candlelight dans l'un des plus beaux lieux de {city}. Ces expériences intimes combinent une belle musique avec des cadres magnifiques, créant une soirée inoubliable. D'autres cadeaux populaires pour elle incluent des expériences de bien-être, des cours de cuisine romantiques et des événements culturels exclusifs.",
+        "paragraph3": "Pour ceux qui recherchent quelque chose de vraiment unique, {city} offre des expériences romantiques exclusives que l'on ne trouve nulle part ailleurs. Ces cadeaux soigneusement sélectionnés montrent la réflexion et créent des moments qu'elle se souviendra pour toujours."
+      },
+      "giftsForHim": {
+        "title": "Cadeaux de la Fête des Mères pour Lui à {city}",
+        "paragraph1": "Trouver des cadeaux significatifs de la Fête des Mères pour lui à {city} signifie choisir des expériences qui correspondent à ses intérêts. Des concerts passionnants et des événements culturels aux activités uniques et aux expériences romantiques, {city} offre des options diverses pour chaque type de partenaire.",
+        "paragraph2": "De nombreux partenaires apprécient les cadeaux expérientiels plutôt que les articles matériels. Envisagez de réserver des billets pour un concert de son genre préféré, une expérience culturelle exclusive ou une activité romantique que vous pouvez apprécier ensemble. La scène vibrante de {city} offre tout, des performances musicales intimes aux expériences de rendez-vous uniques.",
+        "paragraph3": "Les meilleurs cadeaux de la Fête des Mères pour lui à {city} combinent ses intérêts avec des moments romantiques que vous pouvez partager. Qu'il aime la musique, la culture, la nourriture ou l'aventure, vous trouverez le cadeau parfait qui crée des souvenirs durables."
+      },
+      "lastMinuteGifts": {
+        "title": "Cadeaux de Dernière Minute de la Fête des Mères à {city}",
+        "paragraph1": "Oublié de planifier à l'avance ? Ne vous inquiétez pas - {city} offre d'excellentes options de cadeaux de dernière minute pour la Fête des Mères. De nombreuses expériences romantiques et événements ont une disponibilité le jour même, vous permettant de créer une célébration parfaite même avec un préavis court.",
+        "paragraph2": "Les cadeaux de dernière minute de la Fête des Mères à {city} incluent des billets de concert le jour même, des réservations de restaurants disponibles et des expériences de réservation immédiate. Ces options garantissent que vous pouvez toujours offrir à votre bien-aimé une Fête des Mères inoubliable, même si vous planifiez au dernier moment."
+      },
+      "cta": "Explorez notre sélection soigneusement choisie de cadeaux de la Fête des Mères à {city} et réservez l'expérience parfaite pour votre bien-aimé."
+    },
+    "restaurants": {
+      "title": "Restaurants Romantiques à {city}",
+      "subtitle": "Découvrez les meilleures expériences gastronomiques pour la Fête des Mères",
+      "metaTitle": "Restaurants Romantiques à {city} | Fête des Mères 2026",
+      "metaDescription": "Découvrez les meilleurs restaurants romantiques à {city} pour la Fête des Mères 2026. Haute gastronomie, lieux intimes et dîners romantiques. Réservez dès aujourd'hui.",
+      "heroTitle": "Restaurants Romantiques à {city} pour la Fête des Mères",
+      "heroSubtitle": "Découvrez des expériences gastronomiques exceptionnelles",
+      "introSection": {
+        "title": "Restaurants Romantiques à {city} pour la Fête des Mères",
+        "paragraph1": "Un dîner romantique est l'une des traditions les plus chères de la Fête des Mères, et {city} offre certaines des expériences gastronomiques les plus exceptionnelles au monde. Des établissements étoilés Michelin aux joyaux cachés intimes, la scène gastronomique de la ville offre le cadre parfait pour célébrer l'amour.",
+        "paragraph2": "{city} abrite une incroyable variété de restaurants romantiques, chacun offrant des atmosphères uniques, une cuisine exceptionnelle et des expériences inoubliables. Que vous recherchiez l'élégance de la haute gastronomie, des lieux intimes et chaleureux, ou des restaurants avec des vues à couper le souffle, vous trouverez l'endroit parfait pour votre célébration de la Fête des Mères.",
+        "paragraph3": "Notre sélection soigneusement choisie présente les meilleurs restaurants romantiques à {city}, sélectionnés pour leur ambiance, leur excellence culinaire et leur capacité à créer des moments magiques. Chaque lieu offre quelque chose de spécial, des dîners aux chandelles aux repas en terrasse avec vue sur la ville."
+      },
+      "fineDining": {
+        "title": "Haute Gastronomie et Étoiles Michelin à {city}",
+        "paragraph1": "Pour les couples recherchant l'expérience gastronomique romantique ultime, {city} possède une sélection impressionnante de restaurants de haute gastronomie et d'établissements étoilés Michelin. Ces lieux combinent une cuisine de classe mondiale avec un service impeccable et des atmosphères élégantes, créant des souvenirs inoubliables de la Fête des Mères.",
+        "paragraph2": "Les restaurants de haute gastronomie à {city} offrent des menus de dégustation méticuleusement élaborés, des accords de vins exceptionnels et des cadres intimes parfaits pour les occasions spéciales. Beaucoup disposent de salles privées, de tables du chef et d'expériences exclusives qui rendent votre célébration de la Fête des Mères vraiment extraordinaire."
+      },
+      "intimateVenues": {
+        "title": "Lieux Intimes et Chaleureux à {city}",
+        "paragraph1": "Parfois, les restaurants les plus romantiques sont les lieux intimes et chaleureux qui ressemblent à des secrets cachés. {city} est remplie de bistrots charmants, de trattorias aux chandelles et d'espaces de restauration intimes qui créent l'atmosphère parfaite pour un dîner romantique de la Fête des Mères.",
+        "paragraph2": "Ces restaurants intimes à {city} offrent des atmosphères chaleureuses et accueillantes où vous pouvez vous concentrer entièrement l'un sur l'autre. Avec un éclairage doux, des sièges confortables et un service attentif, ces lieux offrent le cadre idéal pour des conversations significatives et des moments romantiques."
+      },
+      "restaurantsWithViews": {
+        "title": "Restaurants avec Vues Imprenables à {city}",
+        "paragraph1": "Pour un dîner de la Fête des Mères vraiment spectaculaire, envisagez l'un des restaurants de {city} avec des vues à couper le souffle. Qu'ils surplombent la ligne d'horizon de la ville, le front de mer ou des monuments emblématiques, ces lieux combinent une cuisine exceptionnelle avec des vues inoubliables qui rendent votre célébration encore plus spéciale."
+      },
+      "cta": "Parcourez notre sélection de restaurants romantiques à {city} et faites votre réservation pour la Fête des Mères dès aujourd'hui."
+    },
+    "ideas": {
+      "title": "Idées Romantiques de la Fête des Mères à {city}",
+      "subtitle": "Créez des moments inoubliables ensemble",
+      "metaTitle": "Idées de la Fête des Mères à {city} | Idées de Rendez-vous Romantiques 2026",
+      "metaDescription": "Explorez des idées romantiques de la Fête des Mères à {city}. Idées de rendez-vous uniques, activités pour couples et expériences inoubliables pour la Fête des Mères 2026. Réservez maintenant.",
+      "heroTitle": "Idées Romantiques de la Fête des Mères à {city}",
+      "heroSubtitle": "Découvrez des expériences uniques pour célébrer l'amour",
+      "introSection": {
+        "title": "Idées Romantiques de la Fête des Mères à {city}",
+        "paragraph1": "Créer des moments inoubliables de la Fête des Mères à {city} signifie aller au-delà de l'ordinaire. La ville offre un incroyable éventail d'expériences romantiques, d'idées de rendez-vous uniques et d'activités spéciales conçues pour aider les couples à célébrer leur amour de manière significative.",
+        "paragraph2": "{city} est connue pour sa scène culturelle vibrante, ses beaux cadres et sa gamme diversifiée d'activités romantiques. Des concerts intimes et des expériences culturelles aux ateliers uniques et aux activités de bien-être, la ville offre d'innombrables opportunités de créer des souvenirs durables ensemble.",
+        "paragraph3": "Que vous planifiiez un geste romantique grandiose ou que vous recherchiez des moments intimes à partager, {city} offre des idées de la Fête des Mères qui correspondent au style et aux préférences de chaque couple. Chaque expérience est soigneusement sélectionnée pour vous aider à célébrer l'amour de la manière la plus spéciale."
+      },
+      "romanticExperiences": {
+        "title": "Expériences Romantiques à {city}",
+        "paragraph1": "Les expériences romantiques à {city} vont bien au-delà des rendez-vous traditionnels. La ville offre des concerts intimes de Candlelight dans des lieux magnifiques, des événements culturels exclusifs et des activités uniques conçues spécifiquement pour les couples. Ces expériences créent des connexions profondes et des souvenirs inoubliables.",
+        "paragraph2": "Des performances de musique classique dans des cadres historiques aux expériences culturelles modernes, les offres romantiques de {city} combinent l'art avec l'intimité. Chaque expérience est conçue pour vous aider à vous connecter, célébrer et créer des moments qui renforcent votre lien."
+      },
+      "uniqueDateIdeas": {
+        "title": "Idées de Rendez-vous Uniques à {city}",
+        "paragraph1": "Vous cherchez quelque chose de différent cette Fête des Mères ? {city} offre des idées de rendez-vous uniques qui sortent de l'ordinaire. Envisagez des ateliers romantiques où vous pouvez créer quelque chose ensemble, des visites culturelles exclusives ou des expériences intimes dans les plus beaux endroits de la ville.",
+        "paragraph2": "Ces idées de rendez-vous uniques à {city} sont conçues pour vous aider à découvrir de nouvelles choses sur l'autre tout en créant des souvenirs partagés. Des cours de cuisine aux expériences artistiques, chaque activité offre une chance de se connecter de manière significative."
+      },
+      "coupleActivities": {
+        "title": "Activités pour Couples à {city}",
+        "paragraph1": "La Fête des Mères à {city} est le moment parfait pour explorer des activités pour couples qui vous rapprochent. La ville offre tout, des expériences de bien-être et des journées spa aux activités aventureuses et aux explorations culturelles, tout conçu pour que les couples apprécient ensemble."
+      },
+      "cta": "Explorez nos idées soigneusement choisies de la Fête des Mères à {city} et réservez l'expérience parfaite pour vous et votre bien-aimé."
+    },
+    "lastMinute": {
+      "title": "Plans de Dernière Minute de la Fête des Mères à {city}",
+      "subtitle": "Plans parfaits disponibles maintenant",
+      "metaTitle": "Plans de Dernière Minute de la Fête des Mères à {city} | Même Jour 2026",
+      "metaDescription": "Plans de dernière minute de la Fête des Mères à {city}. Réservations le jour même, idées de cadeaux urgents et expériences romantiques disponibles maintenant pour 2026.",
+      "heroTitle": "Plans de Dernière Minute de la Fête des Mères à {city}",
+      "heroSubtitle": "Il est encore temps de créer la célébration parfaite",
+      "introSection": {
+        "title": "Plans de Dernière Minute de la Fête des Mères à {city}",
+        "paragraph1": "Oublié de planifier à l'avance ? Ne vous inquiétez pas - {city} offre d'excellentes options de dernière minute pour la Fête des Mères qui peuvent encore créer une célébration inoubliable. De nombreuses expériences romantiques, restaurants et activités ont une disponibilité le jour même, garantissant que vous pouvez toujours offrir à votre bien-aimé une Fête des Mères parfaite.",
+        "paragraph2": "Même avec un préavis court, vous pouvez trouver des expériences romantiques incroyables à {city}. La scène vibrante de la ville comprend des restaurants avec des réservations de dernière minute, des concerts avec des billets disponibles et des expériences qui peuvent être réservées immédiatement pour une jouissance le jour même.",
+        "paragraph3": "Nos plans de dernière minute de la Fête des Mères à {city} sont soigneusement sélectionnés pour assurer la qualité et la disponibilité. Chaque option offre la possibilité de créer des moments spéciaux, même lors de la planification au dernier moment."
+      },
+      "sameDayReservations": {
+        "title": "Réservations le Jour Même à {city}",
+        "paragraph1": "Beaucoup des meilleurs restaurants romantiques et expériences de {city} offrent des réservations le jour même, permettant de planifier une célébration parfaite de la Fête des Mères même à la dernière minute. Ces lieux comprennent que parfois les meilleurs plans sont faits spontanément.",
+        "paragraph2": "Les réservations le jour même de la Fête des Mères à {city} incluent des expériences de restauration intimes, des activités romantiques et des événements spéciaux qui peuvent être réservés immédiatement. Avec une disponibilité flexible et une qualité exceptionnelle, ces options garantissent que votre célébration reste parfaite."
+      },
+      "urgentGiftIdeas": {
+        "title": "Idées de Cadeaux Urgents à {city}",
+        "paragraph1": "Besoin d'un cadeau de la Fête des Mères tout de suite ? {city} offre de nombreuses idées de cadeaux urgents qui peuvent être réservées et appréciées immédiatement. Des billets de concert le jour même aux expériences de réservation immédiate, vous trouverez des options qui montrent votre amour sans le stress de la planification à l'avance.",
+        "paragraph2": "Ces idées de cadeaux urgents de la Fête des Mères à {city} incluent des expériences romantiques, des activités et des événements qui sont disponibles maintenant. Chaque option est soigneusement sélectionnée pour s'assurer qu'elle reste spéciale et significative, même lorsqu'elle est choisie au dernier moment."
+      },
+      "availableNow": {
+        "title": "Disponible Maintenant à {city}",
+        "paragraph1": "De nombreuses expériences romantiques à {city} sont disponibles pour une réservation immédiate, vous permettant de créer une célébration parfaite de la Fête des Mères même avec une planification minimale. Ces expériences offrent de la flexibilité tout en maintenant la qualité et le romantisme qui rendent la Fête des Mères spéciale."
+      },
+      "cta": "Parcourez nos plans de dernière minute de la Fête des Mères à {city} et réservez votre célébration parfaite dès aujourd'hui."
+    }
+  }
+}

@@ -1,0 +1,735 @@
+{
+  "Hero": {
+    "title": "Unvergesslicher Muttertag 2026:",
+    "subtitle": "Romantische Pläne & Unvergessliche Momente",
+    "description": "Intime Erlebnisse, romantische Abendessen und ausgewählte Ausflüge in den romantischsten Städten der Welt.",
+    "searchPlaceholder": "Wo sind Sie? (z.B. Paris, Madrid)",
+    "searchButton": "Suchen",
+    "cityTitle": "Muttertag",
+    "citySubtitle": "in {city}",
+    "cityDescription": "Entdecken Sie die besten Ideen, Geschenke, Restaurants und romantischen Erlebnisse für den Muttertag in {city}"
+  },
+  "GlobalGuide": {
+    "title": "Ihr Globaler Guide zum Muttertag",
+    "description1": "Celebratevalentines.com ist Ihr globaler Guide für Muttertag-Erlebnisse und hilft Paaren, die besten Geschenke, Restaurants und romantischen Ideen in ihrer Stadt zu finden.",
+    "description2": "Von New York bis Paris, Madrid bis São Paulo kuratieren wir die romantischsten Pläne für den Muttertag, wo immer Sie sind.",
+    "cta": "Alle Städte Erkunden"
+  },
+  "CitySelector": {
+    "title": "Romantische Pläne nach Stadt Erkunden",
+    "searchPlaceholder": "🔍 Suchen Sie Ihre Stadt (z.B. Madrid, Paris...)",
+    "regionAll": "Alle",
+    "regionEurope": "Europa",
+    "regionAmerica": "Amerika",
+    "regionOceania": "Ozeanien",
+    "resultsCount": "{count} {count, plural, =1 {Stadt gefunden} other {Städte gefunden}}",
+    "noResults": "Keine Städte gefunden",
+    "noResultsHelp": "Versuchen Sie einen anderen Suchbegriff oder ändern Sie die Region"
+  },
+  "Footer": {
+    "description": "Celebratevalentines.com ist Ihr globaler Guide für Muttertag-Erlebnisse und hilft Paaren, die besten Geschenke, Restaurants und romantischen Ideen in ihrer Stadt zu finden.",
+    "tagline": "Von New York bis Paris, Madrid bis São Paulo kuratieren wir die romantischsten Pläne für den Muttertag, wo immer Sie sind.",
+    "brand": "Celebrate Mother's Day",
+    "madeWithLove": "Mit Liebe gemacht",
+    "popularCities": "Beliebte Städte",
+    "allCities": "Alle Städte",
+    "resources": "Ressourcen",
+    "languages": "Sprachen",
+    "home": "Startseite",
+    "contact": "Kontakt",
+    "legal": "Rechtliches",
+    "termsOfService": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "cookiePolicy": "Cookie-Richtlinie",
+    "allRightsReserved": "Alle Rechte vorbehalten.",
+    "website": "Website:",
+    "valentinesDayIn": "Muttertag in",
+    "viewAllCities": "Alle Städte anzeigen →",
+    "operatedBy": "Celebrate Mother's Day wird betrieben von Fever Up Entertainment.",
+    "doNotSell": "Meine Daten nicht verkaufen"
+  },
+  "CookieBanner": {
+    "message": "Wir verwenden Cookies für Analysen (z. B. Google Analytics). Sie können nicht essentielle Cookies akzeptieren oder ablehnen. Siehe Cookie-Richtlinie.",
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen"
+  },
+  "LegalCookies": {
+    "title": "Cookie-Richtlinie",
+    "metaDescription": "Cookie-Richtlinie von Celebrate Mother's Day (celebratemothersday.com). Betreiber: Fever Up Entertainment.",
+    "intro": "Diese Seite erklärt, wie Celebrate Mother's Day Cookies auf celebratemothersday.com verwendet.",
+    "whoWeAre": "Wer wir sind",
+    "operator": "Diese Website wird von Fever Up Entertainment betrieben (dieselbe rechtliche Einheit wie Fever).",
+    "domain": "Domain: celebratemothersday.com.",
+    "whatCookies": "Welche Cookies wir verwenden",
+    "cookiesWeUse": "Wir verwenden folgende Cookies:",
+    "cookieConsent": "cookie_consent: speichert Ihre Wahl (akzeptieren/ablehnen) für nicht essentielle Cookies. Dauer: 1 Jahr.",
+    "analytics": "Wenn Sie akzeptieren: Google Analytics (GA4) kann Cookies setzen. Sie können ablehnen, um Analyse-Cookies zu deaktivieren.",
+    "youCanReject": "Sie können nicht essentielle Cookies jederzeit über den Cookie-Hinweis oder in den Browsereinstellungen ablehnen.",
+    "doNotSellTitle": "Meine Daten nicht verkaufen (CCPA)",
+    "doNotSellText": "Wir verkaufen Ihre personenbezogenen Daten nicht. Um Analyse-Cookies zu begrenzen, wählen Sie \"Ablehnen\" im Cookie-Hinweis.",
+    "moreInfo": "Weitere Informationen",
+    "fullCookiePolicy": "Vollständige Cookie-Richtlinie (Fever)",
+    "privacyPolicy": "Datenschutzrichtlinie (Fever)",
+    "lastUpdated": "Zuletzt aktualisiert: Januar 2026.",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "Common": {
+    "home": "Startseite",
+    "loading": "Laden...",
+    "comingSoon": "Demnächst verfügbar!",
+    "notAvailable": "Muttertag-Erlebnisse in {city} sind noch nicht verfügbar.",
+    "checkBack": "Schauen Sie bald wieder vorbei oder erkunden Sie eine andere Stadt.",
+    "errorLoadingPage": "Fehler beim Laden der Seite",
+    "pleaseTryAgainLater": "Bitte versuchen Sie es später erneut",
+    "backTo": "Zurück zu",
+    "priceRange": "Preisspanne",
+    "clearFilters": "Filter zurücksetzen",
+    "plan": "Plan",
+    "plans": "Pläne",
+    "available": "verfügbar",
+    "noPlansFound": "Keine Pläne gefunden, die Ihren Filtern entsprechen. Versuchen Sie, Ihre Suchkriterien anzupassen."
+  },
+  "Filters": {
+    "priceRange": "Preisspanne",
+    "date": "Datum",
+    "cuisineType": "Küchentyp",
+    "ambiance": "Atmosphäre",
+    "recipient": "Empfänger",
+    "timeSlots": "Zeitslots",
+    "clearAll": "Alle Filter zurücksetzen"
+  },
+  "Header": {
+    "searchPlaceholder": "Stadt suchen...",
+    "giftNow": "JETZT SCHENKEN",
+    "selectCity": "Stadt Auswählen"
+  },
+  "CategoryNav": {
+    "categories": "Kategorien",
+    "price": "Preis",
+    "date": "Datum",
+    "all": "Alle",
+    "candlelight": "🕯️ Candlelight",
+    "allExperiences": "Alle Erlebnisse"
+  },
+  "CityPage": {
+    "top3Title": "♥ Top 3 Romantische Auswahl ♥",
+    "top3Subtitle": "Die beliebtesten Erlebnisse für den Muttertag",
+    "allExperiencesTitle": "Alle Erlebnisse ♥",
+    "allExperiencesSubtitle": "Entdecken Sie alles, was {city} zu bieten hat",
+    "candlelightTitle": "🕯️ Candlelight Erlebnisse"
+  },
+  "DateFilter": {
+    "selectDates": "Daten auswählen",
+    "clear": "Löschen",
+    "apply": "Anwenden",
+    "months": {
+      "january": "Januar",
+      "february": "Februar",
+      "march": "März",
+      "april": "April",
+      "may": "Mai",
+      "june": "Juni",
+      "july": "Juli",
+      "august": "August",
+      "september": "September",
+      "october": "Oktober",
+      "november": "November",
+      "december": "Dezember"
+    },
+    "weekdays": {
+      "sunday": "So",
+      "monday": "Mo",
+      "tuesday": "Di",
+      "wednesday": "Mi",
+      "thursday": "Do",
+      "friday": "Fr",
+      "saturday": "Sa"
+    }
+  },
+  "Metadata": {
+    "homeTitle": "Muttertag 2026: Beste Romantische Pläne & Abendessen",
+    "homeDescription": "Entdecken Sie romantische Pläne für den Muttertag 2026. Buchen Sie die besten Abendessen, Konzerte und einzigartige Ausflüge in NYC, Paris, Madrid und mehr. Machen Sie es unvergesslich.",
+    "cityPageTitle": "Muttertag 2026 in {city}: Beste Geschenke & Ideen",
+    "cityPageDescription": "Feiern Sie den Muttertag 2026 in {city}. Entdecken Sie romantische Ideen, Geschenke für Sie & Ihn und die besten Restaurants für ein unvergessliches Date.",
+    "cityPageGiftsTitle": "Muttertag-Geschenke in {city} 2026 | Für Sie & Ihn",
+    "cityPageGiftsDescription": "Finden Sie die perfekten Muttertag-Geschenke in {city}. Einzigartige Geschenke für Sie und Ihn, romantische Erlebnisse und Last-Minute-Ideen. Jetzt für 2026 buchen.",
+    "cityPageRestaurantsTitle": "Romantische Restaurants in {city} | Muttertag 2026",
+    "cityPageRestaurantsDescription": "Entdecken Sie die besten romantischen Restaurants in {city} für den Muttertag 2026. Feines Dining, intime Locations und romantische Abendessen. Jetzt reservieren.",
+    "cityPageIdeasTitle": "Muttertag-Ideen in {city} | Romantische Date-Ideen 2026",
+    "cityPageIdeasDescription": "Entdecken Sie romantische Muttertag-Ideen in {city}. Einzigartige Date-Ideen, Paar-Aktivitäten und unvergessliche Erlebnisse für den Muttertag 2026. Jetzt buchen.",
+    "cityPageLastMinuteTitle": "Last-Minute-Muttertag-Pläne in {city} | Gleicher Tag 2026",
+    "cityPageLastMinuteDescription": "Last-Minute-Muttertag-Pläne in {city}. Reservierungen am gleichen Tag, dringende Geschenkideen und romantische Erlebnisse jetzt für 2026 verfügbar."
+  },
+  "Testimonials": {
+    "title": "Was Unsere Paare Sagen",
+    "subtitle": "Echte Erfahrungen von Paaren, die ihren Muttertag unvergesslich gemacht haben",
+    "items": [
+      {
+        "text": "Das beste Abendessen in Rom! Das Restaurant war perfekt, das Essen unglaublich und die Atmosphäre war genau das, was wir für unseren Muttertag brauchten. Sehr empfehlenswert!",
+        "author": "Sofia & Marc",
+        "location": "Rom, Italien"
+      },
+      {
+        "text": "Unvergessliche Nacht in NYC! Wir haben ein romantisches Dachrestaurant-Dinner gebucht und es übertraf alle Erwartungen. Die Aussicht war atemberaubend und der Service war makellos.",
+        "author": "Alex",
+        "location": "New York, USA"
+      },
+      {
+        "text": "Hatte unseren Muttertag in Paris absolut magisch gemacht! Die Kerzenlicht-Dinner-Kreuzfahrt war romantisch jenseits aller Worte. Jedes Detail war perfekt, vom Essen bis zur Atmosphäre.",
+        "author": "Emma & James",
+        "location": "Paris, Frankreich"
+      }
+    ]
+  },
+  "WhyCelebrate": {
+    "title": "Warum den Muttertag als Paar Feiern?",
+    "description": "Der Muttertag ist eine besondere Gelegenheit, Ihre Liebe zu feiern, bleibende Erinnerungen zu schaffen und Ihre Bindung mit romantischen Erlebnissen und bedeutungsvollen Muttertagsgeschenken zu stärken.",
+    "reasons": [
+      {
+        "title": "Stärken Sie Ihre Bindung",
+        "description": "Gemeinsam den Muttertag zu feiern schafft unvergessliche romantische Erlebnisse, die Ihre Verbindung vertiefen. Es ist die perfekte Gelegenheit, Ihrem Partner zu zeigen, wie viel er Ihnen bedeutet, mit durchdachten Muttertagsgeschenken und romantischen Momenten."
+      },
+      {
+        "title": "Schaffen Sie Bleibende Erinnerungen",
+        "description": "Von intimen Candlelight-Konzerten bis zu romantischen Restaurants werden Muttertags-Erlebnisse zu geschätzten Erinnerungen. Diese romantischen Muttertags-Ideen helfen Ihnen, die Liebe auf einzigartige Weise zu feiern, die Sie für immer in Erinnerung behalten werden."
+      },
+      {
+        "title": "Drücken Sie Ihre Liebe Aus",
+        "description": "Muttertagsgeschenke für sie und für ihn sind mehr als Geschenke—sie sind Ausdrücke der Liebe. Ob personalisierte Muttertagsgeschenke oder Last-Minute-Muttertagsgeschenke, jedes zeigt, dass Sie sich kümmern."
+      },
+      {
+        "title": "Neu Verbinden und Wieder Entfachen",
+        "description": "In unserem geschäftigen Leben bietet der Muttertag eine gewidmete Zeit, sich neu zu verbinden. Romantische Erlebnisse und Date-Ideen helfen Paaren, ihre Romantik wieder zu entfachen und ihre Beziehung mit bedeutungsvollen Muttertags-Ideen zu feiern."
+      }
+    ],
+    "cta": "Finden Sie Ihre Perfekte Stadt"
+  },
+  "WhyUs": {
+    "title": "Warum Uns für Ihre Muttertag 2026 Pläne Wählen",
+    "description1": "Entdecken Sie die besten Muttertagsgeschenke, romantische Erlebnisse und unvergessliche Date-Ideen. Von intimen Candlelight-Konzerten bis zu romantischen Restaurants helfen wir Paaren, perfekte Muttertags-Momente zu schaffen.",
+    "description2": "Vertraut von Tausenden von Paaren für kuratierte romantische Erlebnisse, Last-Minute-Muttertagsgeschenke und einzigartige Date-Ideen in Städten weltweit.",
+    "features": [
+      {
+        "title": "Kuratierte Muttertags-Erlebnisse",
+        "description": "Entdecken Sie handverlesene romantische Erlebnisse, von intimen Candlelight-Konzerten bis zu exklusiven romantischen Restaurants. Wir wählen nur die besten Muttertagsgeschenke und Date-Ideen aus, um unvergessliche romantische Momente für Paare zu schaffen."
+      },
+      {
+        "title": "Sofortige Buchung für Last-Minute-Pläne",
+        "description": "Vergessen, im Voraus zu planen? Kein Problem. Buchen Sie romantische Erlebnisse, Muttertagsgeschenke und romantische Abendessen sofort. Perfekt für Last-Minute-Muttertagsgeschenke und spontane romantische Date-Ideen."
+      },
+      {
+        "title": "Verifizierte Bewertungen von Echten Paaren",
+        "description": "Jedes romantische Erlebnis wird von Paaren verifiziert und überprüft, die den Muttertag mit uns gefeiert haben. Finden Sie vertrauenswürdige Empfehlungen für Muttertagsgeschenke für sie, für ihn und die besten romantischen Erlebnisse."
+      },
+      {
+        "title": "Einzigartige Muttertagsgeschenke & Ideen",
+        "description": "Von personalisierten Muttertagsgeschenken bis zu romantischen Ausflügen entdecken Sie einzigartige Muttertagsgeschenk-Ideen für jedes Paar. Ob Sie Geschenke für sie, für ihn oder Erlebnisse für beide suchen."
+      },
+      {
+        "title": "Romantische Erlebnisse in Top-Städten",
+        "description": "Erkunden Sie die besten romantischen Restaurants, Candlelight-Konzerte und Muttertags-Erlebnisse in großen Städten weltweit. Von romantischen Abendessen bis zu intimen Konzerten finden Sie perfekte Date-Ideen in Ihrer Stadt."
+      },
+      {
+        "title": "Globaler Guide zum Muttertag 2026",
+        "description": "Ihr umfassender Guide zum Feiern des Muttertags 2026. Entdecken Sie romantische Erlebnisse, Muttertagsgeschenke, romantische Restaurants und unvergessliche Date-Ideen in Städten auf der ganzen Welt."
+      }
+    ],
+    "trustedSource": {
+      "title": "Ihre Vertrauenswürdige Quelle für den Muttertag 2026",
+      "paragraph1": "Ob Sie nach Muttertagsgeschenken für sie, für ihn oder romantischen Erlebnissen für Paare suchen, wir haben die beste Auswahl an romantischen Restaurants, Candlelight-Konzerten und einzigartigen Date-Ideen kuratiert. Perfekt für Last-Minute-Muttertagsgeschenke oder Planung im Voraus für den Muttertag 2026.",
+      "paragraph2": "Schließen Sie sich Tausenden von Paaren an, die uns für ihre romantischen Muttertags-Pläne vertrauen, von intimen Abendessen bis zu unvergesslichen romantischen Ausflügen und Paaraktivitäten."
+    }
+  },
+  "PlanCard": {
+    "getTickets": "Tickets Erhalten →"
+  },
+  "Price": {
+    "from": "Ab",
+    "under": "Unter"
+  },
+  "ValentinesIdeas": {
+    "title": "Muttertags-Ideen in {city}",
+    "subtitle": "Entdecken Sie die besten Optionen, um den Muttertag zu feiern",
+    "ideas": [
+      {
+        "title": "Muttertagsgeschenke",
+        "description": "Finden Sie die besten Muttertagsgeschenke in {city}"
+      },
+      {
+        "title": "Romantische Restaurants",
+        "description": "Entdecken Sie die besten romantischen Restaurants für den Muttertag in {city}"
+      },
+      {
+        "title": "Romantische Muttertags-Ideen",
+        "description": "Einzigartige und romantische Ideen, um den Muttertag in {city} zu feiern"
+      },
+      {
+        "title": "Last-Minute-Pläne",
+        "description": "Perfekte Last-Minute-Pläne für den Muttertag in {city}"
+      }
+    ]
+  },
+  "CityInfo": {
+    "fallback": {
+      "title": "Warum {city} Perfekt für die Feier des Muttertags ist",
+      "intro": "{city} bietet unglaubliche romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Ob Sie nach romantischen Muttertags-Ideen, Last-Minute-Muttertagsgeschenken oder den besten romantischen Restaurants suchen, {city} hat alles, was Sie brauchen, um die Liebe zu feiern.",
+      "reasons": [
+        {
+          "title": "Perfekte Muttertagsgeschenke",
+          "description": "Finden Sie die perfekten Muttertagsgeschenke in {city}! Von romantischen Erlebnissen und einzigartigen Date-Ideen bis zu Last-Minute-Muttertagsgeschenken entdecken Sie Geschenke für sie und für ihn, die unvergessliche Momente schaffen."
+        },
+        {
+          "title": "Romantische Erlebnisse & Date-Ideen",
+          "description": "{city} bietet unglaubliche romantische Erlebnisse für Paare. Ob Sie nach romantischen Restaurants, intimen Konzerten oder einzigartigen Date-Ideen suchen, Sie finden romantische Muttertags-Ideen, die diesen Tag wirklich besonders machen."
+        },
+        {
+          "title": "Unvergessliche Romantische Momente",
+          "description": "Feiern Sie die Liebe in {city} mit personalisierten Muttertagsgeschenken und romantischen Erlebnissen. Von Luxus-Muttertagsgeschenken bis zu budgetfreundlichen Optionen finden Sie die perfekte Art, den Muttertag mit Ihrem Geliebten zu feiern."
+        }
+      ]
+    },
+    "madrid": {
+      "title": "Warum Madrid Perfekt für die Feier des Muttertags ist",
+      "intro": "Madrid bietet die perfekte Mischung aus romantischen Erlebnissen, einzigartigen Muttertagsgeschenken und unvergesslichen Date-Ideen. Von intimen Candlelight-Konzerten bis zu romantischen Restaurants in Malasaña entdecken Sie die besten Muttertagsgeschenke für sie und für ihn in Spaniens lebendiger Hauptstadt.",
+      "reasons": [
+        {
+          "title": "Romantische Parks & Ikonsiche Orte",
+          "description": "Der Retiro-Park und beleuchtete Straßen schaffen magische Kulissen für den Muttertag. Finden Sie romantische Muttertags-Ideen wie Sonnenuntergangsspaziergänge und gemütliche Terrassen, perfekt für Last-Minute-Muttertagsgeschenke und romantische Erlebnisse."
+        },
+        {
+          "title": "Weltklasse Romantische Restaurants",
+          "description": "Von Restaurants mit Michelin-Sternen bis zu intimen Tapas-Bars in La Latina bietet Madrid romantische Restaurants für jedes Paar. Perfekt für Muttertagsgeschenke schaffen diese kulinarischen Erlebnisse unvergessliche romantische Momente."
+        },
+        {
+          "title": "Kulturelle Erlebnisse & Candlelight",
+          "description": "Intime Candlelight-Konzerte, Flamenco-Shows und kulturelle Erlebnisse machen Madrid ideal für romantische Muttertags-Ideen. Entdecken Sie einzigartige Muttertagsgeschenke und romantische Erlebnisse, die die Liebe stilvoll feiern."
+        }
+      ]
+    },
+    "barcelona": {
+      "title": "Warum Barcelona Perfekt für die Feier des Muttertags ist",
+      "intro": "Barcelona kombiniert mediterrane Romantik mit einzigartigen Muttertagsgeschenken und unvergesslichen Date-Ideen. Von romantischen Restaurants am Strand bis zu intimen Konzerten im Gotischen Viertel finden Sie die perfekten romantischen Muttertags-Ideen und Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Strandromantik & Aussichten",
+          "description": "Der Strand von Barceloneta und Montjuïc bieten atemberaubende Sonnenuntergangsaussichten, perfekt für romantische Erlebnisse. Entdecken Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubenden mediterranen Kulissen."
+        },
+        {
+          "title": "Gastronomische Exzellenz",
+          "description": "Von innovativer katalanischer Küche bis zu romantischen Restaurants in El Born bietet Barcelona außergewöhnliche kulinarische Erlebnisse. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Architektonische Romantik & Kultur",
+          "description": "Gaudís Meisterwerke und das Gotische Viertel schaffen einzigartige Date-Ideen und romantische Erlebnisse. Finden Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die Kultur mit Romantik verbinden."
+        }
+      ]
+    },
+    "valencia": {
+      "title": "Warum Valencia Perfekt für die Feier des Muttertags ist",
+      "intro": "Valencia bietet romantische Erlebnisse entlang des Mittelmeers mit einzigartigen Muttertagsgeschenken und unvergesslichen Date-Ideen. Von romantischen Restaurants in der Altstadt bis zu Stranderlebnissen entdecken Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Strandromantik & Stadt der Künste",
+          "description": "Der Strand von Malvarrosa und die futuristische Stadt der Künste und Wissenschaften bieten romantische Erlebnisse, perfekt für den Muttertag. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubenden Küstenaussichten."
+        },
+        {
+          "title": "Authentische Paella & Romantisches Essen",
+          "description": "Valencias romantische Restaurants servieren authentische Paella und mediterrane Küche, perfekt für romantische Erlebnisse. Ideale Muttertagsgeschenke umfassen intime Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Historischer Charme & Moderne Romantik",
+          "description": "Die historische Altstadt und die Turia-Gärten bieten einzigartige Date-Ideen und romantische Erlebnisse. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen in dieser perfekten Mischung aus Geschichte und Romantik."
+        }
+      ]
+    },
+    "london": {
+      "title": "Warum London Perfekt für die Feier des Muttertags ist",
+      "intro": "London bietet romantische Erlebnisse auf Weltklasseniveau, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in Covent Garden bis zu intimen West-End-Shows entdecken Sie die besten Muttertagsgeschenke für sie und für ihn in der britischen Hauptstadt.",
+      "reasons": [
+        {
+          "title": "Ikonsiche Romantische Wahrzeichen",
+          "description": "Spaziergänge an der Themse, der Hyde Park und das London Eye schaffen magische Kulissen für romantische Muttertags-Ideen. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Erlebnisse mit ikonischem britischem Charme."
+        },
+        {
+          "title": "Michelin-Sterne & Intimes Essen",
+          "description": "Von Luxusrestaurants in Mayfair bis zu gemütlichen Pubs bietet London romantische Restaurants für jedes Paar. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "West-End-Shows & Candlelight",
+          "description": "Intime Candlelight-Konzerte und West-End-Musicals bieten einzigartige romantische Erlebnisse. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die die Liebe stilvoll feiern."
+        }
+      ]
+    },
+    "paris": {
+      "title": "Warum Paris Perfekt für die Feier des Muttertags ist",
+      "intro": "Paris, die Stadt der Liebe, bietet unvergleichliche romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants mit Eiffelturm-Aussicht bis zu intimen Seine-Kreuzfahrten finden Sie die perfekten romantischen Muttertags-Ideen und Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Die Stadt der Liebe & Romantik",
+          "description": "Der Eiffelturm, Montmartre und die Seine schaffen die ultimativen romantischen Erlebnisse. Entdecken Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen in der romantischsten Stadt der Welt."
+        },
+        {
+          "title": "Gourmet-Exzellenz & Intimes Essen",
+          "description": "Von Restaurants mit Michelin-Sternen bis zu charmanten Bistros bietet Paris außergewöhnliche romantische Restaurants. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Kunst, Kultur & Romantische Momente",
+          "description": "Der Louvre, intime Candlelight-Konzerte und charmante Cafés bieten einzigartige Date-Ideen. Finden Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die die Liebe im echten Pariser Stil feiern."
+        }
+      ]
+    },
+    "new-york": {
+      "title": "Warum New York Perfekt für die Feier des Muttertags ist",
+      "intro": "New York bietet ikonische romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants mit Skyline-Aussicht bis zu Broadway-Shows entdecken Sie die besten Muttertagsgeschenke für sie und für ihn im Big Apple.",
+      "reasons": [
+        {
+          "title": "Ikonische Skyline & Central Park",
+          "description": "Der Central Park, die Brooklyn Bridge und das Empire State Building schaffen magische romantische Erlebnisse. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubenden Stadtaussichten."
+        },
+        {
+          "title": "Weltklasse Essen & Dachterrassen-Romantik",
+          "description": "Von Restaurants mit Michelin-Sternen bis zu romantischen Dachterrassen-Bars bietet NYC außergewöhnliche romantische Restaurants. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Broadway-Shows & Intime Konzerte",
+          "description": "Broadway-Musicals und intime Candlelight-Konzerte bieten einzigartige romantische Erlebnisse. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die die Liebe im NYC-Stil feiern."
+        }
+      ]
+    },
+    "los-angeles": {
+      "title": "Warum Los Angeles Perfekt für die Feier des Muttertags ist",
+      "intro": "Los Angeles bietet glamouröse romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in Beverly Hills bis zu Stranderlebnissen entdecken Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Strandromantik & Hollywood-Glamour",
+          "description": "Die Strände von Malibu, das Griffith Observatory und der Sunset Boulevard schaffen perfekte romantische Erlebnisse. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubenden Pazifik-Aussichten."
+        },
+        {
+          "title": "Promi-Köche & Intimes Essen",
+          "description": "Von Promi-Restaurants bis zu romantischem Strandessen bietet LA außergewöhnliche romantische Restaurants. Ideale Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Unterhaltung & Einzigartige Date-Ideen",
+          "description": "Hollywood Bowl-Konzerte, intime Candlelight-Erlebnisse und Dachterrassen-Bars bieten einzigartige Date-Ideen. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen in der Unterhaltungshauptstadt."
+        }
+      ]
+    },
+    "chicago": {
+      "title": "Warum Chicago Perfekt für die Feier des Muttertags ist",
+      "intro": "Chicago bietet lebendige romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants entlang der Magnificent Mile bis zu intimen Jazz-Clubs finden Sie die perfekten romantischen Muttertags-Ideen und Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Seenromantik & Architektur",
+          "description": "Der Michigansee, der Millennium Park und die ikonische Architektur schaffen magische romantische Erlebnisse. Entdecken Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubenden Seeaussichten."
+        },
+        {
+          "title": "Ausgezeichnete Küche",
+          "description": "Von Restaurants mit Michelin-Sternen bis zu intimen Spots in River North bietet Chicago außergewöhnliche romantische Restaurants. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Jazz & Intime Konzerte",
+          "description": "Jazz-Clubs und intime Candlelight-Konzerte bieten einzigartige romantische Erlebnisse. Finden Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die die Liebe in der Windy City feiern."
+        }
+      ]
+    },
+    "miami": {
+      "title": "Warum Miami Perfekt für die Feier des Muttertags ist",
+      "intro": "Miami bietet tropische romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in South Beach bis zu intimen Art-Deco-Erlebnissen entdecken Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Tropische Strandromantik",
+          "description": "South Beach, Key Biscayne und Ozeanaussichten schaffen perfekte romantische Erlebnisse. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubenden tropischen Kulissen."
+        },
+        {
+          "title": "Lateinamerikanische Fusion & Dachterrassen-Essen",
+          "description": "Von kubanischer Küche bis zu romantischen Dachterrassen-Restaurants bietet Miami außergewöhnliche romantische Restaurants. Ideale Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Art Deco & Nachtleben-Romantik",
+          "description": "Das Art-Deco-Viertel, intime Candlelight-Konzerte und lebendiges Nachtleben bieten einzigartige Date-Ideen. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen in diesem tropischen Paradies."
+        }
+      ]
+    },
+    "san-francisco": {
+      "title": "Warum San Francisco Perfekt für die Feier des Muttertags ist",
+      "intro": "San Francisco bietet charmante romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants mit Golden-Gate-Aussicht bis zu intimen Weinanbaugebiets-Erlebnissen finden Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Ikonische Brücken & Buchtaussichten",
+          "description": "Die Golden Gate Bridge, Alcatraz-Aussichten und Pacific Heights schaffen magische romantische Erlebnisse. Entdecken Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubenden Buchtaussichten."
+        },
+        {
+          "title": "Kulinarische Exzellenz & Weinanbaugebiet",
+          "description": "Von Restaurants mit Michelin-Sternen bis zu Napa-Valley-Erlebnissen bietet SF außergewöhnliche romantische Restaurants. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Intime Konzerte & Kulturelle Romantik",
+          "description": "Intime Candlelight-Konzerte und kulturelle Veranstaltungsorte bieten einzigartige romantische Erlebnisse. Finden Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die die Liebe in der Bay Area feiern."
+        }
+      ]
+    },
+    "lisbon": {
+      "title": "Warum Lissabon Perfekt für die Feier des Muttertags ist",
+      "intro": "Lissabon bietet charmante romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in Alfama bis zu intimen Fado-Erlebnissen entdecken Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Historische Hügel & Flussaussichten",
+          "description": "Der Tejo, historische Straßenbahnen und Miradouros schaffen perfekte romantische Erlebnisse. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubendem portugiesischem Charme."
+        },
+        {
+          "title": "Authentische Portugiesische Küche",
+          "description": "Von traditionellen Tascas bis zu romantischen Restaurants in Chiado bietet Lissabon außergewöhnliche romantische Restaurants. Ideale Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Fado & Intime Kulturelle Erlebnisse",
+          "description": "Intime Fado-Shows und Candlelight-Konzerte bieten einzigartige romantische Erlebnisse. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen in dieser bezaubernden europäischen Hauptstadt."
+        }
+      ]
+    },
+    "sao-paulo": {
+      "title": "Warum São Paulo Perfekt für die Feier des Muttertags ist",
+      "intro": "São Paulo bietet lebendige romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in Jardins bis zu intimen kulturellen Erlebnissen finden Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Urbane Romantik & Kulturelle Vielfalt",
+          "description": "Der Ibirapuera-Park, die Avenida Paulista und vielfältige Viertel schaffen einzigartige romantische Erlebnisse. Entdecken Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen in Brasiliens Kulturhauptstadt."
+        },
+        {
+          "title": "Weltklasse Gastronomie",
+          "description": "Von innovativer brasilianischer Küche bis zu romantischen Restaurants in Vila Madalena bietet SP außergewöhnliche romantische Restaurants. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Live-Musik & Intime Konzerte",
+          "description": "Intime Candlelight-Konzerte und Live-Musik-Venues bieten einzigartige romantische Erlebnisse. Finden Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die die Liebe im São-Paulo-Stil feiern."
+        }
+      ]
+    },
+    "mexico-city": {
+      "title": "Warum Mexiko-Stadt Perfekt für die Feier des Muttertags ist",
+      "intro": "Mexiko-Stadt bietet lebendige romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in Polanco bis zu intimen kulturellen Erlebnissen entdecken Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Historische Romantik & Moderner Charme",
+          "description": "Der Chapultepec-Park, der Zócalo und bunte Viertel schaffen magische romantische Erlebnisse. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit reichem kulturellem Erbe."
+        },
+        {
+          "title": "Außergewöhnliche Mexikanische Küche",
+          "description": "Von traditionellen Märkten bis zu romantischen Restaurants in Roma bietet CDMX außergewöhnliche romantische Restaurants. Ideale Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Mariachi & Kulturelle Erlebnisse",
+          "description": "Intime Candlelight-Konzerte und Mariachi-Aufführungen bieten einzigartige romantische Erlebnisse. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen in dieser lebendigen Hauptstadt."
+        }
+      ]
+    },
+    "berlin": {
+      "title": "Warum Berlin Perfekt für die Feier des Muttertags ist",
+      "intro": "Berlin bietet einzigartige romantische Erlebnisse, unverwechselbare Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in Mitte bis zu intimen kulturellen Erlebnissen finden Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Historischer Charme & Moderne Romantik",
+          "description": "Das Brandenburger Tor, die Museumsinsel und lebendige Viertel schaffen einzigartige romantische Erlebnisse. Entdecken Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen in Deutschlands dynamischer Hauptstadt."
+        },
+        {
+          "title": "Innovative Küche & Gemütliche Cafés",
+          "description": "Von innovativer deutscher Küche bis zu romantischen Restaurants in Prenzlauer Berg bietet Berlin außergewöhnliche romantische Restaurants. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Intime Konzerte & Kulturszene",
+          "description": "Intime Candlelight-Konzerte und kulturelle Veranstaltungsorte bieten einzigartige romantische Erlebnisse. Finden Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die die Liebe im Berliner Stil feiern."
+        }
+      ]
+    },
+    "sydney": {
+      "title": "Warum Sydney Perfekt für die Feier des Muttertags ist",
+      "intro": "Sydney bietet atemberaubende romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants mit Hafenaussicht bis zu intimen Stranderlebnissen entdecken Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Hafenromantik & Ikonische Aussichten",
+          "description": "Das Sydney Opera House, die Harbour Bridge und Bondi Beach schaffen perfekte romantische Erlebnisse. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit atemberaubenden Hafenaussichten."
+        },
+        {
+          "title": "Weltklasse Essen & Waterfront",
+          "description": "Von ausgezeichneten Restaurants bis zu romantischem Waterfront-Essen bietet Sydney außergewöhnliche romantische Restaurants. Ideale Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Intime Konzerte & Strandromantik",
+          "description": "Intime Candlelight-Konzerte und Stranderlebnisse bieten einzigartige romantische Erlebnisse. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen in dieser wunderschönen Hafenstadt."
+        }
+      ]
+    },
+    "melbourne": {
+      "title": "Warum Melbourne Perfekt für die Feier des Muttertags ist",
+      "intro": "Melbourne bietet raffinierte romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in Gassen bis zu intimen kulturellen Erlebnissen finden Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Gassenromantik & Kultureller Charme",
+          "description": "Versteckte Gassen, der Yarra River und eine lebendige Kunstszene schaffen einzigartige romantische Erlebnisse. Entdecken Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen in Australiens Kulturhauptstadt."
+        },
+        {
+          "title": "Kulinarische Exzellenz & Kaffee-Kultur",
+          "description": "Von Restaurants auf Weltklasseniveau bis zu romantischen Gassen-Cafés bietet Melbourne außergewöhnliche romantische Restaurants. Perfekte Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Intime Konzerte & Kunstszene",
+          "description": "Intime Candlelight-Konzerte und kulturelle Veranstaltungsorte bieten einzigartige romantische Erlebnisse. Finden Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen, die die Liebe im Melbourne-Stil feiern."
+        }
+      ]
+    },
+    "dublin": {
+      "title": "Warum Dublin Perfekt für die Feier des Muttertags ist",
+      "intro": "Dublin bietet charmante romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen. Von romantischen Restaurants in Temple Bar bis zu intimen Pub-Erlebnissen entdecken Sie romantische Muttertags-Ideen und perfekte Muttertagsgeschenke für Paare.",
+      "reasons": [
+        {
+          "title": "Historische Romantik & Liffey",
+          "description": "Temple Bar, Trinity College und georgianische Architektur schaffen magische romantische Erlebnisse. Finden Sie Last-Minute-Muttertagsgeschenke und romantische Muttertags-Ideen mit irischem Charme."
+        },
+        {
+          "title": "Traditionelle Pubs & Modernes Essen",
+          "description": "Von gemütlichen Pubs bis zu romantischen Restaurants im Dublin Castle-Bereich bietet Dublin außergewöhnliche romantische Restaurants. Ideale Muttertagsgeschenke umfassen romantische Abendessen mit Geschenken für sie und für ihn."
+        },
+        {
+          "title": "Live-Musik & Intime Konzerte",
+          "description": "Intime Candlelight-Konzerte und traditionelle irische Musik bieten einzigartige romantische Erlebnisse. Entdecken Sie personalisierte Muttertagsgeschenke und romantische Muttertags-Ideen in dieser bezaubernden Hauptstadt."
+        }
+      ]
+    },
+    "lyon": { "title": "Why Lyon is Perfect for Celebrating Muttertag", "intro": "Lyon offers exceptional romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Gastronomic Romance", "description": "Lyon's bouchons and Michelin-starred restaurants create perfect romantic experiences." }, { "title": "Historic Charm & River Views", "description": "Fourvière, Presqu'île, and the Rhône create magical romantic experiences." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "washington-dc": { "title": "Why Washington DC is Perfect for Celebrating Muttertag", "intro": "Washington DC offers iconic romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Monuments & Cherry Blossoms", "description": "National Mall, monuments, and seasonal beauty create magical romantic experiences." }, { "title": "World-Class Dining", "description": "From fine dining to romantic restaurants in Georgetown, DC offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and museums provide unique romantic experiences." }] },
+    "san-diego": { "title": "Why San Diego is Perfect for Celebrating Muttertag", "intro": "San Diego offers sunny romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Beach Romance & Harbor Views", "description": "La Jolla, Gaslamp Quarter, and Pacific sunsets create perfect romantic experiences." }, { "title": "Waterfront Dining", "description": "From seafood to romantic restaurants in Little Italy, San Diego offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and Balboa Park provide unique romantic experiences." }] },
+    "atlanta": { "title": "Why Atlanta is Perfect for Celebrating Muttertag", "intro": "Atlanta offers Southern romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Southern Charm & Gardens", "description": "Botanical gardens, BeltLine, and Southern hospitality create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From Southern cuisine to romantic restaurants in Midtown, Atlanta offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "austin": { "title": "Why Austin is Perfect for Celebrating Muttertag", "intro": "Austin offers vibrant romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Live Music & River Romance", "description": "Lady Bird Lake, live music venues, and Texas charm create perfect romantic experiences." }, { "title": "Food Scene & Rooftop Dining", "description": "From BBQ to romantic restaurants downtown, Austin offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural events provide unique romantic experiences." }] },
+    "hamburg": { "title": "Warum Hamburg Perfekt für die Feier des Muttertags ist", "intro": "Hamburg bietet maritime romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen.", "reasons": [{ "title": "Hafenromantik & Elbphilharmonie", "description": "Hafen, Elbe und ikonische Architektur schaffen magische romantische Erlebnisse." }, { "title": "Kulinarische Exzellenz", "description": "Vom Fischmarkt bis zu romantischen Restaurants in der HafenCity bietet Hamburg außergewöhnliche romantische Restaurants." }, { "title": "Kultur & Intime Konzerte", "description": "Intime Candlelight-Konzerte und Musikorte bieten einzigartige romantische Erlebnisse." }] },
+    "vienna": { "title": "Warum Wien Perfekt für die Feier des Muttertags ist", "intro": "Wien bietet kaiserliche romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen.", "reasons": [{ "title": "Kaiserliche Romantik & Architektur", "description": "Hofburg, Schönbrunn und Ringstraße schaffen magische romantische Erlebnisse." }, { "title": "Kaffeehäuser & Feinschmecker", "description": "Von traditionellen Kaffeehäusern bis zu romantischen Restaurants bietet Wien außergewöhnliche romantische Restaurants." }, { "title": "Musik & Intime Konzerte", "description": "Intime Candlelight-Konzerte und klassische Musik bieten einzigartige romantische Erlebnisse." }] },
+    "brisbane": { "title": "Why Brisbane is Perfect for Celebrating Muttertag", "intro": "Brisbane offers sunny romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "River Romance & South Bank", "description": "Brisbane River, South Bank Parklands, and subtropical charm create perfect romantic experiences." }, { "title": "Rooftop & Waterfront Dining", "description": "From riverside to romantic restaurants in Fortitude Valley, Brisbane offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "toronto": { "title": "Why Toronto is Perfect for Celebrating Muttertag", "intro": "Toronto offers diverse romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Waterfront & CN Tower Romance", "description": "Harbourfront, CN Tower, and diverse neighborhoods create magical romantic experiences." }, { "title": "World-Class Dining", "description": "From multicultural cuisine to romantic restaurants in Distillery District, Toronto offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and cultural venues provide unique romantic experiences." }] },
+    "buenos-aires": { "title": "Why Buenos Aires is Perfect for Celebrating Muttertag", "intro": "Buenos Aires offers passionate romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Tango & Historic Romance", "description": "Tango, Recoleta, and European charm create magical romantic experiences." }, { "title": "Steak & Rooftop Dining", "description": "From parrillas to romantic restaurants in San Telmo, Buenos Aires offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and milongas provide unique romantic experiences." }] },
+    "montreal": { "title": "Why Montréal is Perfect for Celebrating Muttertag", "intro": "Montréal offers French-Canadian romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Old Town Romance & Mount Royal", "description": "Old Montréal, Mount Royal, and European charm create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From poutine to romantic restaurants in Plateau, Montréal offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and festivals provide unique romantic experiences." }] },
+    "montréal": { "title": "Why Montréal is Perfect for Celebrating Muttertag", "intro": "Montréal offers French-Canadian romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Old Town Romance & Mount Royal", "description": "Old Montréal, Mount Royal, and European charm create magical romantic experiences." }, { "title": "Culinary Excellence", "description": "From poutine to romantic restaurants in Plateau, Montréal offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and festivals provide unique romantic experiences." }] },
+    "munchen": { "title": "Warum München Perfekt für die Feier des Muttertags ist", "intro": "München bietet bayerische romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen.", "reasons": [{ "title": "Marienplatz & Englischer Garten", "description": "Marienplatz, Englischer Garten und bayerischer Charme schaffen magische romantische Erlebnisse." }, { "title": "Biergärten & Feinschmecker", "description": "Von Biergärten bis zu romantischen Restaurants in Schwabing bietet München außergewöhnliche romantische Restaurants." }, { "title": "Kultur & Intime Konzerte", "description": "Intime Candlelight-Konzerte und Oper bieten einzigartige romantische Erlebnisse." }] },
+    "münchen": { "title": "Warum München Perfekt für die Feier des Muttertags ist", "intro": "München bietet bayerische romantische Erlebnisse, einzigartige Muttertagsgeschenke und unvergessliche Date-Ideen.", "reasons": [{ "title": "Marienplatz & Englischer Garten", "description": "Marienplatz, Englischer Garten und bayerischer Charme schaffen magische romantische Erlebnisse." }, { "title": "Biergärten & Feinschmecker", "description": "Von Biergärten bis zu romantischen Restaurants in Schwabing bietet München außergewöhnliche romantische Restaurants." }, { "title": "Kultur & Intime Konzerte", "description": "Intime Candlelight-Konzerte und Oper bieten einzigartige romantische Erlebnisse." }] },
+    "roma": { "title": "Why Rome is Perfect for Celebrating Muttertag", "intro": "Rome offers eternal romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Ancient Romance & Trevi Fountain", "description": "Colosseum, Trevi Fountain, and historic streets create magical romantic experiences." }, { "title": "Roman Cuisine & Rooftop Dining", "description": "From traditional trattorias to romantic restaurants near the Pantheon, Rome offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and opera provide unique romantic experiences." }] },
+    "milano": { "title": "Why Milan is Perfect for Celebrating Muttertag", "intro": "Milan offers stylish romantic experiences, unique Muttertag gifts, and unforgettable date ideas.", "reasons": [{ "title": "Duomo & Navigli Romance", "description": "Duomo, Navigli canals, and Italian style create magical romantic experiences." }, { "title": "Fine Dining & Aperitivo", "description": "From Michelin-starred to romantic restaurants in Brera, Milan offers exceptional romantic restaurants." }, { "title": "Culture & Intimate Concerts", "description": "Intimate Candlelight concerts and La Scala provide unique romantic experiences." }] }
+  },
+  "CategoryPages": {
+    "gifts": {
+      "title": "Muttertagsgeschenke in {city}",
+      "subtitle": "Finden Sie das perfekte Geschenk für Ihren Geliebten",
+      "metaTitle": "Muttertagsgeschenke in {city} 2026 | Geschenke für Sie & Ihn",
+      "metaDescription": "Finden Sie die perfekten Muttertagsgeschenke in {city}. Entdecken Sie einzigartige Geschenke für sie und ihn, romantische Erlebnisse und Last-Minute-Geschenkideen. Buchen Sie jetzt für 2026.",
+      "heroTitle": "Die Perfekten Muttertagsgeschenke in {city}",
+      "heroSubtitle": "Entdecken Sie unvergessliche Geschenke und Erlebnisse",
+      "introSection": {
+        "title": "Die Perfekten Muttertagsgeschenke in {city}",
+        "paragraph1": "Das perfekte Muttertagsgeschenk in {city} zu finden bedeutet, unvergessliche Momente zu schaffen. Ob Sie romantische Erlebnisse, einzigartige Geschenke oder Last-Minute-Ideen suchen, {city} bietet eine unglaubliche Auswahl an Geschenken, die Ihre Liebe und Wertschätzung zeigen.",
+        "paragraph2": "{city} ist bekannt für seine vielfältige Palette an Muttertagsgeschenk-Optionen. Von intimen Candlelight-Konzerten bis zu exklusiven romantischen Erlebnissen bietet die Stadt unzählige Möglichkeiten, Ihren Geliebten mit etwas wirklich Besonderem an diesem Muttertag 2026 zu überraschen.",
+        "paragraph3": "Unsere sorgfältig kuratierte Auswahl umfasst romantische Erlebnisse, einzigartige Date-Ideen, Wellness-Aktivitäten und exklusive Veranstaltungen. Jedes Geschenk ist sorgfältig ausgewählt, um bleibende Erinnerungen zu schaffen und Ihre Liebe auf die bedeutungsvollste Weise zu feiern."
+      },
+      "giftsForHer": {
+        "title": "Muttertagsgeschenke für Sie in {city}",
+        "paragraph1": "Wenn es darum geht, die perfekten Muttertagsgeschenke für sie in {city} zu finden, schaffen romantische Erlebnisse oft die bleibendsten Erinnerungen. Von intimen Candlelight-Konzerten mit ihrer Lieblingsmusik bis zu exklusiven Spa-Erlebnissen und romantischen Workshops bietet {city} einzigartige Geschenke, die über traditionelle Präsente hinausgehen.",
+        "paragraph2": "Erwägen Sie die Buchung eines romantischen Candlelight-Konzerts in einem der schönsten Veranstaltungsorte von {city}. Diese intimen Erlebnisse verbinden schöne Musik mit atemberaubenden Kulissen und schaffen einen unvergesslichen Abend. Andere beliebte Geschenke für sie umfassen Wellness-Erlebnisse, romantische Kochkurse und exklusive kulturelle Veranstaltungen.",
+        "paragraph3": "Für diejenigen, die etwas wirklich Einzigartiges suchen, bietet {city} exklusive romantische Erlebnisse, die man nirgendwo anders findet. Diese sorgfältig kuratierten Geschenke zeigen Aufmerksamkeit und schaffen Momente, die sie für immer in Erinnerung behalten wird."
+      },
+      "giftsForHim": {
+        "title": "Muttertagsgeschenke für Ihn in {city}",
+        "paragraph1": "Bedeutungsvolle Muttertagsgeschenke für ihn in {city} zu finden bedeutet, Erlebnisse zu wählen, die seinen Interessen entsprechen. Von aufregenden Konzerten und kulturellen Veranstaltungen bis zu einzigartigen Aktivitäten und romantischen Erlebnissen bietet {city} vielfältige Optionen für jeden Partnertyp.",
+        "paragraph2": "Viele Partner schätzen Erlebnisgeschenke mehr als materielle Gegenstände. Erwägen Sie die Buchung von Tickets für ein Konzert seines Lieblingsgenres, ein exklusives kulturelles Erlebnis oder eine romantische Aktivität, die Sie gemeinsam genießen können. Die lebendige Szene von {city} bietet alles von intimen Musikaufführungen bis zu einzigartigen Date-Erlebnissen.",
+        "paragraph3": "Die besten Muttertagsgeschenke für ihn in {city} kombinieren seine Interessen mit romantischen Momenten, die Sie teilen können. Ob er Musik, Kultur, Essen oder Abenteuer liebt, Sie finden das perfekte Geschenk, das bleibende Erinnerungen schafft."
+      },
+      "lastMinuteGifts": {
+        "title": "Last-Minute-Muttertagsgeschenke in {city}",
+        "paragraph1": "Vergessen, im Voraus zu planen? Keine Sorge - {city} bietet ausgezeichnete Last-Minute-Muttertagsgeschenk-Optionen. Viele romantische Erlebnisse und Veranstaltungen haben Verfügbarkeit am selben Tag, sodass Sie eine perfekte Feier auch mit kurzer Vorlaufzeit schaffen können.",
+        "paragraph2": "Last-Minute-Muttertagsgeschenke in {city} umfassen Konzertkarten für denselben Tag, verfügbare Restaurantreservierungen und sofort buchbare Erlebnisse. Diese Optionen stellen sicher, dass Sie Ihrem Geliebten immer noch einen unvergesslichen Muttertag schenken können, auch wenn Sie in letzter Minute planen."
+      },
+      "cta": "Erkunden Sie unsere sorgfältig kuratierte Auswahl an Muttertagsgeschenken in {city} und buchen Sie das perfekte Erlebnis für Ihren Geliebten."
+    },
+    "restaurants": {
+      "title": "Romantische Restaurants in {city}",
+      "subtitle": "Entdecken Sie die besten kulinarischen Erlebnisse für den Muttertag",
+      "metaTitle": "Romantische Restaurants in {city} | Muttertag 2026",
+      "metaDescription": "Entdecken Sie die besten romantischen Restaurants in {city} für den Muttertag 2026. Haute Cuisine, intime Orte und romantische Abendessen. Machen Sie noch heute Ihre Reservierung.",
+      "heroTitle": "Romantische Restaurants in {city} für den Muttertag",
+      "heroSubtitle": "Entdecken Sie außergewöhnliche kulinarische Erlebnisse",
+      "introSection": {
+        "title": "Romantische Restaurants in {city} für den Muttertag",
+        "paragraph1": "Ein romantisches Abendessen ist eine der geschätztesten Muttertagstraditionen, und {city} bietet einige der außergewöhnlichsten kulinarischen Erlebnisse der Welt. Von Michelin-Sterne-Betrieben bis zu intimen versteckten Juwelen bietet die Restaurant-Szene der Stadt die perfekte Kulisse, um die Liebe zu feiern.",
+        "paragraph2": "{city} beherbergt eine unglaubliche Vielfalt romantischer Restaurants, von denen jedes einzigartige Atmosphären, außergewöhnliche Küche und unvergessliche Erlebnisse bietet. Ob Sie Eleganz der Haute Cuisine, gemütliche intime Orte oder Restaurants mit atemberaubenden Aussichten suchen, Sie finden den perfekten Ort für Ihre Muttertagsfeier.",
+        "paragraph3": "Unsere sorgfältig kuratierte Auswahl präsentiert die besten romantischen Restaurants in {city}, ausgewählt für ihre Atmosphäre, kulinarische Exzellenz und Fähigkeit, magische Momente zu schaffen. Jeder Ort bietet etwas Besonderes, von Kerzenlicht-Abendessen bis zu Dachterrassen-Dining mit Stadtblick."
+      },
+      "fineDining": {
+        "title": "Haute Cuisine & Michelin-Sterne in {city}",
+        "paragraph1": "Für Paare, die das ultimative romantische kulinarische Erlebnis suchen, verfügt {city} über eine beeindruckende Auswahl an Restaurants der Haute Cuisine und Michelin-Sterne-Betrieben. Diese Orte kombinieren Weltklasse-Küche mit makellosem Service und eleganten Atmosphären und schaffen unvergessliche Muttertagserinnerungen.",
+        "paragraph2": "Restaurants der Haute Cuisine in {city} bieten sorgfältig ausgearbeitete Degustationsmenüs, außergewöhnliche Weinbegleitungen und intime Einstellungen, perfekt für besondere Anlässe. Viele verfügen über private Speiseräume, Chef-Tische und exklusive Erlebnisse, die Ihre Muttertagsfeier wirklich außergewöhnlich machen."
+      },
+      "intimateVenues": {
+        "title": "Intime & Gemütliche Orte in {city}",
+        "paragraph1": "Manchmal sind die romantischsten Restaurants die intimen, gemütlichen Orte, die sich wie versteckte Geheimnisse anfühlen. {city} ist voller charmanter Bistros, kerzenbeleuchteter Trattorias und intimer Speiseräume, die die perfekte Atmosphäre für ein romantisches Muttertags-Abendessen schaffen.",
+        "paragraph2": "Diese intimen Restaurants in {city} bieten warme, einladende Atmosphären, in denen Sie sich vollständig aufeinander konzentrieren können. Mit sanfter Beleuchtung, bequemen Sitzgelegenheiten und aufmerksamem Service bieten diese Orte die ideale Kulisse für bedeutungsvolle Gespräche und romantische Momente."
+      },
+      "restaurantsWithViews": {
+        "title": "Restaurants mit Atemberaubenden Aussichten in {city}",
+        "paragraph1": "Für ein wirklich spektakuläres Muttertags-Abendessen sollten Sie eines der Restaurants von {city} mit atemberaubenden Aussichten in Betracht ziehen. Ob mit Blick auf die Skyline der Stadt, die Waterfront oder ikonische Wahrzeichen, diese Orte kombinieren außergewöhnliche Küche mit unvergesslichen Ausblicken, die Ihre Feier noch spezieller machen."
+      },
+      "cta": "Durchsuchen Sie unsere Auswahl romantischer Restaurants in {city} und machen Sie noch heute Ihre Muttertagsreservierung."
+    },
+    "ideas": {
+      "title": "Romantische Muttertags-Ideen in {city}",
+      "subtitle": "Schaffen Sie unvergessliche Momente zusammen",
+      "metaTitle": "Muttertags-Ideen in {city} | Romantische Date-Ideen 2026",
+      "metaDescription": "Erkunden Sie romantische Muttertags-Ideen in {city}. Einzigartige Date-Ideen, Paaraktivitäten und unvergessliche Erlebnisse für den Muttertag 2026. Buchen Sie jetzt.",
+      "heroTitle": "Romantische Muttertags-Ideen in {city}",
+      "heroSubtitle": "Entdecken Sie einzigartige Erlebnisse, um die Liebe zu feiern",
+      "introSection": {
+        "title": "Romantische Muttertags-Ideen in {city}",
+        "paragraph1": "Unvergessliche Muttertags-Momente in {city} zu schaffen bedeutet, über das Gewöhnliche hinauszugehen. Die Stadt bietet eine unglaubliche Vielfalt romantischer Erlebnisse, einzigartiger Date-Ideen und besonderer Aktivitäten, die Paaren helfen sollen, ihre Liebe auf bedeutungsvolle Weise zu feiern.",
+        "paragraph2": "{city} ist bekannt für seine lebendige Kulturszene, schöne Kulissen und vielfältige Palette romantischer Aktivitäten. Von intimen Konzerten und kulturellen Erlebnissen bis zu einzigartigen Workshops und Wellness-Aktivitäten bietet die Stadt unzählige Möglichkeiten, bleibende Erinnerungen zusammen zu schaffen.",
+        "paragraph3": "Ob Sie eine große romantische Geste planen oder intime Momente zum Teilen suchen, {city} bietet Muttertags-Ideen, die zu jedem Paar-Stil und den Vorlieben passen. Jedes Erlebnis ist sorgfältig ausgewählt, um Ihnen zu helfen, die Liebe auf die speziellste Weise zu feiern."
+      },
+      "romanticExperiences": {
+        "title": "Romantische Erlebnisse in {city}",
+        "paragraph1": "Romantische Erlebnisse in {city} gehen weit über traditionelle Dates hinaus. Die Stadt bietet intime Candlelight-Konzerte in atemberaubenden Veranstaltungsorten, exklusive kulturelle Veranstaltungen und einzigartige Aktivitäten, die speziell für Paare konzipiert sind. Diese Erlebnisse schaffen tiefe Verbindungen und unvergessliche Erinnerungen.",
+        "paragraph2": "Von klassischen Musikaufführungen in historischen Kulissen bis zu modernen kulturellen Erlebnissen kombinieren die romantischen Angebote von {city} Kunst mit Intimität. Jedes Erlebnis ist darauf ausgelegt, Ihnen zu helfen, sich zu verbinden, zu feiern und Momente zu schaffen, die Ihre Bindung stärken."
+      },
+      "uniqueDateIdeas": {
+        "title": "Einzigartige Date-Ideen in {city}",
+        "paragraph1": "Suchen Sie etwas anderes an diesem Muttertag? {city} bietet einzigartige Date-Ideen, die sich vom Gewöhnlichen abheben. Erwägen Sie romantische Workshops, bei denen Sie gemeinsam etwas schaffen können, exklusive kulturelle Touren oder intime Erlebnisse an den schönsten Orten der Stadt.",
+        "paragraph2": "Diese einzigartigen Date-Ideen in {city} sind darauf ausgelegt, Ihnen zu helfen, neue Dinge übereinander zu entdecken und gleichzeitig gemeinsame Erinnerungen zu schaffen. Von Kochkursen bis zu Kunsterlebnissen bietet jede Aktivität eine Chance, sich auf bedeutungsvolle Weise zu verbinden."
+      },
+      "coupleActivities": {
+        "title": "Paaraktivitäten in {city}",
+        "paragraph1": "Der Muttertag in {city} ist die perfekte Zeit, um Paaraktivitäten zu erkunden, die Sie näher zusammenbringen. Die Stadt bietet alles von Wellness-Erlebnissen und Spa-Tagen bis zu abenteuerlichen Aktivitäten und kulturellen Erkundungen, alles für Paare zum gemeinsamen Genießen konzipiert."
+      },
+      "cta": "Erkunden Sie unsere kuratierten Muttertags-Ideen in {city} und buchen Sie das perfekte Erlebnis für Sie und Ihren Geliebten."
+    },
+    "lastMinute": {
+      "title": "Last-Minute-Muttertags-Pläne in {city}",
+      "subtitle": "Perfekte Pläne jetzt verfügbar",
+      "metaTitle": "Last-Minute-Muttertags-Pläne in {city} | Gleicher Tag 2026",
+      "metaDescription": "Last-Minute-Muttertags-Pläne in {city}. Reservierungen am selben Tag, dringende Geschenkideen und romantische Erlebnisse jetzt für 2026 verfügbar.",
+      "heroTitle": "Last-Minute-Muttertags-Pläne in {city}",
+      "heroSubtitle": "Es ist noch Zeit, die perfekte Feier zu schaffen",
+      "introSection": {
+        "title": "Last-Minute-Muttertags-Pläne in {city}",
+        "paragraph1": "Vergessen, im Voraus zu planen? Keine Sorge - {city} bietet ausgezeichnete Last-Minute-Muttertags-Optionen, die immer noch eine unvergessliche Feier schaffen können. Viele romantische Erlebnisse, Restaurants und Aktivitäten haben Verfügbarkeit am selben Tag und stellen sicher, dass Sie Ihrem Geliebten immer noch einen perfekten Muttertag schenken können.",
+        "paragraph2": "Selbst mit kurzer Vorlaufzeit können Sie unglaubliche romantische Erlebnisse in {city} finden. Die lebendige Szene der Stadt umfasst Restaurants mit Last-Minute-Reservierungen, Konzerte mit verfügbaren Tickets und Erlebnisse, die sofort für den Genuss am selben Tag gebucht werden können.",
+        "paragraph3": "Unsere Last-Minute-Muttertags-Pläne in {city} sind sorgfältig ausgewählt, um Qualität und Verfügbarkeit sicherzustellen. Jede Option bietet die Möglichkeit, besondere Momente zu schaffen, auch bei der Planung in letzter Minute."
+      },
+      "sameDayReservations": {
+        "title": "Reservierungen am Selben Tag in {city}",
+        "paragraph1": "Viele der besten romantischen Restaurants und Erlebnisse von {city} bieten Reservierungen am selben Tag an, sodass es möglich ist, eine perfekte Muttertagsfeier auch in letzter Minute zu planen. Diese Orte verstehen, dass manchmal die besten Pläne spontan gemacht werden.",
+        "paragraph2": "Reservierungen am selben Tag für den Muttertag in {city} umfassen intime Speiseerlebnisse, romantische Aktivitäten und besondere Veranstaltungen, die sofort gebucht werden können. Mit flexibler Verfügbarkeit und außergewöhnlicher Qualität stellen diese Optionen sicher, dass Ihre Feier immer noch perfekt ist."
+      },
+      "urgentGiftIdeas": {
+        "title": "Dringende Geschenkideen in {city}",
+        "paragraph1": "Brauchen Sie sofort ein Muttertagsgeschenk? {city} bietet zahlreiche dringende Geschenkideen, die sofort gebucht und genossen werden können. Von Konzertkarten am selben Tag bis zu sofort buchbaren Erlebnissen finden Sie Optionen, die Ihre Liebe zeigen, ohne den Stress der Vorausplanung.",
+        "paragraph2": "Diese dringenden Muttertagsgeschenk-Ideen in {city} umfassen romantische Erlebnisse, Aktivitäten und Veranstaltungen, die jetzt verfügbar sind. Jede Option ist sorgfältig ausgewählt, um sicherzustellen, dass sie immer noch besonders und bedeutungsvoll ist, auch wenn sie in letzter Minute gewählt wird."
+      },
+      "availableNow": {
+        "title": "Jetzt Verfügbar in {city}",
+        "paragraph1": "Viele romantische Erlebnisse in {city} sind für sofortige Buchung verfügbar, sodass Sie eine perfekte Muttertagsfeier auch bei minimaler Planung schaffen können. Diese Erlebnisse bieten Flexibilität und behalten gleichzeitig die Qualität und Romantik bei, die den Muttertag besonders machen."
+      },
+      "cta": "Durchsuchen Sie unsere Last-Minute-Muttertags-Pläne in {city} und buchen Sie noch heute Ihre perfekte Feier."
+    }
+  }
+}

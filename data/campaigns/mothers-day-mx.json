@@ -1,0 +1,36 @@
+{
+  "slug": "mothers-day-mx",
+  "locale": "es-MX",
+  "domain": "https://celebrardiadelasmadres.mx",
+  "feverBase": "https://feverup.com",
+  "feverPathTemplate": "https://feverup.com/mx/{city}/dia-de-las-madres",
+  "feverCandlelightPathTemplate": "https://feverup.com/mx/{city}/candlelight-{city}",
+  "outputDataFile": "data/fever-plans-mx.json",
+  "cities": [
+    {
+      "slug": "mexico-city",
+      "name": "Ciudad de México"
+    },
+    {
+      "slug": "guadalajara",
+      "name": "Guadalajara"
+    }
+  ],
+  "maxExperiencesPerCity": 24,
+  "maxGiftCardsPerCity": 12,
+  "campaignName": "Día de las Madres",
+  "countryLabel": "México",
+  "siteName": "Celebrar Día de las Madres",
+  "countdownType": "none",
+  "copy": {
+    "countdownMessage": "¡Faltan {days} días para el Día de las Madres!",
+    "heroCta": "Ver experiencias para el Día de las Madres",
+    "seeAllOnFever": "Ver todo en Fever",
+    "breadcrumbHome": "México",
+    "heroTitleHome": "Día de las Madres 2026 — Regalos, ideas y experiencias",
+    "heroTitleCity": "Día de las Madres en {city} — Regalos e ideas",
+    "heroImageAltHome": "Mamá e hija tomando el té — regalo experiencia Día de las Madres",
+    "heroImageAltCity": "Mamá e hija — experiencia Día de las Madres en {city}",
+    "heroImageAltSubpage": "Mamá e hija — Día de las Madres {topic} en {city}"
+  }
+}

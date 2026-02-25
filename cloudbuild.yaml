@@ -1,0 +1,72 @@
+steps:
+  # Paso 1: Construir la imagen Docker
+  # --progress=plain para ver el error completo en los logs de Cloud Build
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '--progress=plain'
+      - '-t'
+      - '${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPOSITORY}/${_SERVICE_NAME}:${SHORT_SHA}'
+      - '-t'
+      - '${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPOSITORY}/${_SERVICE_NAME}:latest'
+      - '.'
+    id: 'build-image'
+
+  # Paso 2: Subir la imagen a Artifact Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - '${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPOSITORY}/${_SERVICE_NAME}:${SHORT_SHA}'
+    id: 'push-image-sha'
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - '${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPOSITORY}/${_SERVICE_NAME}:latest'
+    id: 'push-image-latest'
+
+  # Paso 3: Desplegar en Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - '${_SERVICE_NAME}'
+      - '--image'
+      - '${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPOSITORY}/${_SERVICE_NAME}:${SHORT_SHA}'
+      - '--region'
+      - '${_REGION}'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--port'
+      - '8080'
+      - '--timeout'
+      - '300'
+      - '--cpu'
+      - '1'
+      - '--memory'
+      - '512Mi'
+      - '--min-instances'
+      - '0'
+      - '--max-instances'
+      - '10'
+      - '--startup-cpu-boost'
+      - '--execution-environment'
+      - 'gen2'
+    id: 'deploy-cloud-run'
+
+# Variables de sustitución (pueden ser sobrescritas en el trigger)
+substitutions:
+  _SERVICE_NAME: 'celebrate-mothersday-uk'
+  _REGION: 'us-east4'
+  _REPOSITORY: 'docker-repo'
+
+# Opciones de build (sitio estático: menos recursos que Next.js)
+options:
+  machineType: 'E2_MEDIUM'
+  logging: CLOUD_LOGGING_ONLY
+  diskSizeGb: 20
+
+# Timeout del build (5 minutos)
+timeout: 300s
